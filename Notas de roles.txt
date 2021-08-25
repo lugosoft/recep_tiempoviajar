@@ -1,0 +1,29 @@
+Asesor de Venta I (ASE)
+  - Registrar Reservas
+  - Registrar Vouchers de tours
+  - No puede Eliminar reserva
+  - No puede cancelar un voucher de tour
+  - No Puede Programar y Cancelar Tours.
+  - NO tiene acceso a reportes de estadística.
+  
+Asesor de Venta II (ASE2)
+  - Registrar Reservas
+  - Registrar Vouchers de tours
+  - SI puede Eliminar reserva
+  - SI puede cancelar un voucher de tour
+  - No Puede Programar y Cancelar Tours.
+  - NO tiene acceso a reportes de estadística.
+  
+Programador de Tours (PROG)
+  - Puede todo lo de los asesores
+  - Puede Programar y Cancelar Tours.
+  - NO tiene acceso a reportes de estadística.
+  
+Configurador (CONF)
+  - Puede todo lo del programador
+  - Puede Agregar nueva configuración. (Agencias, Tours, Guías, )
+  - NO puede agregar nuevos Usuarios.
+  - NO tiene acceso a reportes de estadística.
+
+Administrador (ADM)
+  - Super Usuario puede hacer todo.

@@ -1,0 +1,19 @@
+<?xml version="1.0"?> 
+<etiquetas>
+	<procedimiento>
+		<param1>p1</param1>
+		<param2>p2</param2>
+		<param3>p3</param3>
+	</procedimiento>
+
+	<confirmareserva>
+		<param1>pNumRes</param1>
+		<param2>pNumFac</param2>
+		<param3>pFechaFac</param3>
+		<param4>pObs</param4>
+	</confirmareserva>
+	
+	<cancelareserva>
+		<param1>pNumRes</param1>
+	</cancelareserva>	
+</etiquetas>

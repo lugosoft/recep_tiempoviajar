@@ -1,0 +1,1634 @@
+﻿
+[17/02/2018 15:23:16] <1> <admin> <192.168.1.210> <1rsfm9dqhnmleo0m12k716j8c0>: Inicio de sesion correcto
+[17/02/2018 15:23:44] <0> <admin> <192.168.1.210> <1rsfm9dqhnmleo0m12k716j8c0>: Cierre de sesion
+[17/02/2018 15:23:54] <1> <josecontre> <192.168.1.210> <1rsfm9dqhnmleo0m12k716j8c0>: Inicio de sesion correcto
+[17/02/2018 15:24:49] <0> <josecontre> <192.168.1.210> <1rsfm9dqhnmleo0m12k716j8c0>: Cierre de sesion
+[17/02/2018 15:24:58] <1> <admin> <192.168.1.210> <1rsfm9dqhnmleo0m12k716j8c0>: Inicio de sesion correcto
+[17/02/2018 15:26:37] <0> <admin> <192.168.1.210> <1rsfm9dqhnmleo0m12k716j8c0>: Cierre de sesion
+[17/02/2018 15:26:52] <1> <josecontre> <192.168.1.210> <1rsfm9dqhnmleo0m12k716j8c0>: Inicio de sesion correcto
+[17/02/2018 15:32:48] <1> <admin> <192.168.1.7> <mcnb8qq71ff82u07vrm1s9tih7>: Inicio de sesion correcto
+[17/02/2018 16:05:53] <0> <josecontre> <192.168.1.210> <1rsfm9dqhnmleo0m12k716j8c0>: Cierre de sesion
+[17/02/2018 16:06:11] <1> <admin> <192.168.1.210> <1rsfm9dqhnmleo0m12k716j8c0>: Inicio de sesion correcto
+[17/02/2018 16:45:11] <0> <admin> <192.168.1.7> <mcnb8qq71ff82u07vrm1s9tih7>: Cierre de sesion
+[19/02/2018 8:22:54] <0> <admin> <192.168.1.210> <1rsfm9dqhnmleo0m12k716j8c0>: Cierre de sesion
+[19/02/2018 8:24:36] <1> <admin> <192.168.1.210> <1rsfm9dqhnmleo0m12k716j8c0>: Inicio de sesion correcto
+[19/02/2018 9:03:11] <1> <admin> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Inicio de sesion correcto
+[19/02/2018 9:13:43] <0> <admin> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Cierre de sesion
+[19/02/2018 9:14:00] <1> <manuela> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Inicio de sesion correcto
+[19/02/2018 9:15:59] <0> <manuela> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Cierre de sesion
+[19/02/2018 9:16:16] <1> <admin> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Inicio de sesion correcto
+[19/02/2018 9:16:43] <0> <admin> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Cierre de sesion
+[19/02/2018 9:16:49] <1> <manuela> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Inicio de sesion correcto
+[19/02/2018 9:34:30] <0> <manuela> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Cierre de sesion
+[19/02/2018 9:34:37] <1> <manuela> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Inicio de sesion correcto
+[19/02/2018 11:11:02] <0> <manuela> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Cierre de sesion
+[19/02/2018 11:11:18] <1> <manuela> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Inicio de sesion correcto
+[19/02/2018 11:12:07] <1> <manuela> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Inicio de sesion correcto
+[19/02/2018 11:12:15] <0> <manuela> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Cierre de sesion
+[19/02/2018 11:13:20] <1> <manuela> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Inicio de sesion correcto
+[19/02/2018 11:24:04] <0> <manuela> <192.168.1.2> <5i22icoth2fgc231urklh35816>: Cierre de sesion
+[19/02/2018 11:53:07] <1> <admin> <192.168.1.210> <je9lnn3uf60ec49rs4fnv5hda5>: Inicio de sesion correcto
+[19/02/2018 14:36:39] <1> <leo> <192.168.1.6> <ek5i1bujgnrca2e92duekpen82>: Inicio de sesion correcto
+[19/02/2018 14:39:40] <0> <leo> <192.168.1.6> <ek5i1bujgnrca2e92duekpen82>: Cierre de sesion
+[19/02/2018 14:39:47] <1> <admin> <192.168.1.6> <ek5i1bujgnrca2e92duekpen82>: Inicio de sesion correcto
+[19/02/2018 14:40:20] <0> <admin> <192.168.1.6> <ek5i1bujgnrca2e92duekpen82>: Cierre de sesion
+[19/02/2018 14:40:29] <1> <leo> <192.168.1.6> <ek5i1bujgnrca2e92duekpen82>: Inicio de sesion correcto
+[19/02/2018 14:41:07] <1> <leo> <192.168.1.6> <ek5i1bujgnrca2e92duekpen82>: Inicio de sesion correcto
+[19/02/2018 14:41:22] <0> <leo> <192.168.1.6> <ek5i1bujgnrca2e92duekpen82>: Cierre de sesion
+[19/02/2018 14:41:31] <1> <leo> <192.168.1.6> <ek5i1bujgnrca2e92duekpen82>: Inicio de sesion correcto
+[19/02/2018 15:24:15] <1> <admin> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Inicio de sesion correcto
+[19/02/2018 15:25:17] <0> <admin> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Cierre de sesion
+[19/02/2018 15:25:26] <1> <config> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Inicio de sesion correcto
+[19/02/2018 15:29:57] <0> <leo> <192.168.1.6> <ek5i1bujgnrca2e92duekpen82>: Cierre de sesion
+[19/02/2018 15:30:10] <1> <leo> <192.168.1.6> <ek5i1bujgnrca2e92duekpen82>: Inicio de sesion correcto
+[19/02/2018 15:34:44] <0> <config> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Cierre de sesion
+[19/02/2018 15:34:51] <1> <admin> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Inicio de sesion correcto
+[19/02/2018 15:37:37] <0> <admin> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Cierre de sesion
+[19/02/2018 15:37:47] <1> <config> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Inicio de sesion correcto
+[19/02/2018 15:38:28] <0> <config> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Cierre de sesion
+[19/02/2018 15:38:38] <0> <leo> <192.168.1.6> <ek5i1bujgnrca2e92duekpen82>: Cierre de sesion
+[19/02/2018 15:38:46] <1> <admin> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Inicio de sesion correcto
+[19/02/2018 15:38:59] <1> <leo> <192.168.1.6> <mc1d9ci9ajjeg06i9p6i12t194>: Inicio de sesion correcto
+[19/02/2018 15:39:09] <0> <admin> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Cierre de sesion
+[19/02/2018 15:42:18] <1> <admin> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Inicio de sesion correcto
+[19/02/2018 15:43:50] <0> <admin> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Cierre de sesion
+[19/02/2018 15:43:57] <1> <config> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Inicio de sesion correcto
+[19/02/2018 15:58:24] <0> <config> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Cierre de sesion
+[19/02/2018 15:58:34] <1> <admin> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Inicio de sesion correcto
+[19/02/2018 15:59:01] <0> <admin> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Cierre de sesion
+[19/02/2018 15:59:51] <1> <config> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Inicio de sesion correcto
+[19/02/2018 16:01:36] <0> <config> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Cierre de sesion
+[19/02/2018 16:01:47] <1> <config> <192.168.1.210> <q3c8fmq9u97sahb60arc9oges6>: Inicio de sesion correcto
+[19/02/2018 16:11:39] <0> <leo> <192.168.1.6> <mc1d9ci9ajjeg06i9p6i12t194>: Cierre de sesion
+[19/02/2018 16:14:49] <1> <leo> <192.168.1.6> <mc1d9ci9ajjeg06i9p6i12t194>: Inicio de sesion correcto
+[19/02/2018 16:17:15] <0> <leo> <192.168.1.6> <mc1d9ci9ajjeg06i9p6i12t194>: Cierre de sesion
+[19/02/2018 16:29:20] <1> <admin> <192.168.1.2> <9au8af8dbto82thmscm847smv3>: Inicio de sesion correcto
+[19/02/2018 16:30:17] <0> <admin> <192.168.1.2> <9au8af8dbto82thmscm847smv3>: Cierre de sesion
+[19/02/2018 16:30:51] <1> <manuela> <192.168.1.2> <9au8af8dbto82thmscm847smv3>: Inicio de sesion correcto
+[19/02/2018 17:08:50] <0> <manuela> <192.168.1.2> <9au8af8dbto82thmscm847smv3>: Cierre de sesion
+[19/02/2018 17:09:17] <1> <manuela> <192.168.1.2> <9au8af8dbto82thmscm847smv3>: Inicio de sesion correcto
+[19/02/2018 17:27:37] <1> <ADMIN> <192.168.1.210> <0ue70cphr5bg5hkm5b304706n4>: Inicio de sesion correcto
+[19/02/2018 17:30:21] <0> <ADMIN> <192.168.1.210> <0ue70cphr5bg5hkm5b304706n4>: Cierre de sesion
+[19/02/2018 17:30:32] <1> <admin> <192.168.1.210> <0ue70cphr5bg5hkm5b304706n4>: Inicio de sesion correcto
+[19/02/2018 17:41:23] <0> <manuela> <192.168.1.2> <9au8af8dbto82thmscm847smv3>: Cierre de sesion
+[19/02/2018 17:41:44] <1> <admin> <192.168.1.2> <9au8af8dbto82thmscm847smv3>: Inicio de sesion correcto
+[19/02/2018 17:41:50] <0> <admin> <192.168.1.2> <9au8af8dbto82thmscm847smv3>: Cierre de sesion
+[19/02/2018 17:42:03] <1> <manuela> <192.168.1.2> <9au8af8dbto82thmscm847smv3>: Inicio de sesion correcto
+[19/02/2018 17:42:47] <0> <manuela> <192.168.1.2> <9au8af8dbto82thmscm847smv3>: Cierre de sesion
+[19/02/2018 17:42:54] <1> <zeger> <192.168.1.2> <9au8af8dbto82thmscm847smv3>: Inicio de sesion correcto
+[19/02/2018 18:28:18] <0> <zeger> <192.168.1.2> <9au8af8dbto82thmscm847smv3>: Cierre de sesion
+[24/02/2018 18:32:41] <1> <MANUELA> <192.168.1.6> <7f6upudfkusf5d6nv4k1j12qu7>: Inicio de sesion correcto
+[24/02/2018 18:34:10] <0> <MANUELA> <192.168.1.6> <7f6upudfkusf5d6nv4k1j12qu7>: Cierre de sesion
+[24/02/2018 18:35:46] <1> <manuela> <192.168.1.6> <7f6upudfkusf5d6nv4k1j12qu7>: Inicio de sesion correcto
+[03/03/2018 11:18:34] <1> <admin> <192.168.1.210> <tp3r4lin033kf86vt965oer887>: Inicio de sesion correcto
+[03/03/2018 11:20:57] <1> <Admin> <192.168.1.14> <vrl96cjcu67pdjvbc139ilpv34>: Inicio de sesion correcto
+[03/03/2018 12:46:21] <1> <manuela > <192.168.1.9> <nn0uu4fovq94774r85t6d1tcv5>: Inicio de sesion correcto
+[03/03/2018 12:54:42] <0> <manuela > <192.168.1.9> <nn0uu4fovq94774r85t6d1tcv5>: Cierre de sesion
+[05/03/2018 12:37:42] <1> <admin> <192.168.1.3> <nn0uu4fovq94774r85t6d1tcv5>: Inicio de sesion correcto
+[05/03/2018 14:10:58] <1> <marilyn> <192.168.1.10> <4e5vbtg5mndhjjv6r7ljdhfj43>: Inicio de sesion correcto
+[05/03/2018 14:17:27] <0> <admin> <192.168.1.210> <tp3r4lin033kf86vt965oer887>: Cierre de sesion
+[05/03/2018 14:17:33] <1> <ADMIN> <192.168.1.210> <tp3r4lin033kf86vt965oer887>: Inicio de sesion correcto
+[05/03/2018 14:22:19] <0> <ADMIN> <192.168.1.210> <tp3r4lin033kf86vt965oer887>: Cierre de sesion
+[05/03/2018 14:22:24] <1> <ADMIN> <192.168.1.210> <tp3r4lin033kf86vt965oer887>: Inicio de sesion correcto
+[05/03/2018 14:24:57] <1> <ADMIN> <192.168.1.210> <tp3r4lin033kf86vt965oer887>: Inicio de sesion correcto
+[05/03/2018 14:44:31] <1> <ZEHER> <192.168.1.3> <nn0uu4fovq94774r85t6d1tcv5>: Inicio de sesion correcto
+[05/03/2018 14:55:19] <1> <ZEHER> <192.168.1.3> <nn0uu4fovq94774r85t6d1tcv5>: Inicio de sesion correcto
+[05/03/2018 16:20:32] <0> <ZEHER> <192.168.1.3> <nn0uu4fovq94774r85t6d1tcv5>: Cierre de sesion
+[05/03/2018 16:20:38] <1> <admin> <192.168.1.3> <nn0uu4fovq94774r85t6d1tcv5>: Inicio de sesion correcto
+[05/03/2018 16:20:47] <0> <marilyn> <192.168.1.10> <4e5vbtg5mndhjjv6r7ljdhfj43>: Cierre de sesion
+[06/03/2018 8:32:08] <1> <marilyn> <192.168.1.5> <4f0d005kp3f8sh4h0r6ghg87a2>: Inicio de sesion correcto
+[06/03/2018 8:32:27] <1> <tereza> <192.168.1.3> <a603so594vmd4rtnohduo60921>: Inicio de sesion correcto
+[06/03/2018 14:14:55] <0> <marilyn> <192.168.1.4> <4f0d005kp3f8sh4h0r6ghg87a2>: Cierre de sesion
+[06/03/2018 14:33:33] <1> <admin> <192.168.1.4> <4f0d005kp3f8sh4h0r6ghg87a2>: Inicio de sesion correcto
+[06/03/2018 14:33:57] <0> <admin> <192.168.1.4> <4f0d005kp3f8sh4h0r6ghg87a2>: Cierre de sesion
+[07/03/2018 8:07:06] <1> <tereza> <192.168.1.3> <a603so594vmd4rtnohduo60921>: Inicio de sesion correcto
+[07/03/2018 8:58:46] <1> <admin> <192.168.1.210> <4omdptakhc1mr2shmd5plpqjm3>: Inicio de sesion correcto
+[07/03/2018 12:08:16] <1> <marilyn > <192.168.1.5> <6n0h3mhqmisnrug5gu44fsobm1>: Inicio de sesion correcto
+[08/03/2018 8:10:04] <1> <marilyn> <192.168.1.4> <porfleqno4q4druro9rbe12me3>: Inicio de sesion correcto
+[08/03/2018 8:13:59] <1> <tereza> <192.168.1.8> <k15pq6ik16vdg7hrv1hn8o1164>: Inicio de sesion correcto
+[08/03/2018 9:50:35] <1> <tereza> <192.168.1.8> <k15pq6ik16vdg7hrv1hn8o1164>: Inicio de sesion correcto
+[08/03/2018 11:32:52] <1> <ZEHER> <192.168.1.8> <k15pq6ik16vdg7hrv1hn8o1164>: Inicio de sesion correcto
+[08/03/2018 11:33:06] <1> <ZEHER> <192.168.1.8> <k15pq6ik16vdg7hrv1hn8o1164>: Inicio de sesion correcto
+[08/03/2018 11:51:14] <1> <ZEHER> <192.168.1.8> <k15pq6ik16vdg7hrv1hn8o1164>: Inicio de sesion correcto
+[08/03/2018 11:51:31] <1> <ZEHER> <192.168.1.8> <k15pq6ik16vdg7hrv1hn8o1164>: Inicio de sesion correcto
+[08/03/2018 11:59:28] <1> <manuela> <192.168.1.10> <3itqg6d9nq148vmnfvhnf6nfv5>: Inicio de sesion correcto
+[08/03/2018 17:47:47] <1> <MARILYN> <192.168.1.4> <rb2v0pj49pn8vh4a3tp15lpgp2>: Inicio de sesion correcto
+[08/03/2018 18:05:56] <0> <MARILYN> <192.168.1.4> <rb2v0pj49pn8vh4a3tp15lpgp2>: Cierre de sesion
+[08/03/2018 18:06:34] <1> <MARILYN> <192.168.1.4> <rb2v0pj49pn8vh4a3tp15lpgp2>: Inicio de sesion correcto
+[09/03/2018 11:32:48] <1> <ZEHER> <192.168.1.8> <o90m1cvdpp5hu4p0kfeajh0p61>: Inicio de sesion correcto
+[09/03/2018 15:30:30] <1> <ZEHER> <192.168.1.8> <o90m1cvdpp5hu4p0kfeajh0p61>: Inicio de sesion correcto
+[09/03/2018 15:40:52] <1> <ZEHER> <192.168.1.8> <li4ib3gbreri9uf8idq3t5g747>: Inicio de sesion correcto
+[12/03/2018 9:49:56] <1> <ZEHER> <192.168.1.8> <3k4fveskd9g286kjf20bphli40>: Inicio de sesion correcto
+[12/03/2018 12:13:28] <1> <MARILYN> <192.168.1.4> <g27f7rma62fkko7k2nq8e0k1j4>: Inicio de sesion correcto
+[12/03/2018 14:56:29] <1> <ZEHER> <192.168.1.8> <egcpnudq5g7c244dhej94cdcr7>: Inicio de sesion correcto
+[13/03/2018 20:26:52] <1> <ZEHER> <192.168.1.8> <egcpnudq5g7c244dhej94cdcr7>: Inicio de sesion correcto
+[13/03/2018 20:27:53] <1> <ZEHER> <192.168.1.8> <egcpnudq5g7c244dhej94cdcr7>: Inicio de sesion correcto
+[13/03/2018 20:36:01] <1> <ZEHER> <192.168.1.8> <egcpnudq5g7c244dhej94cdcr7>: Inicio de sesion correcto
+[14/03/2018 8:44:49] <1> <marilyn> <192.168.1.4> <v0cdpb3t1sgltg239gpf4h6mh7>: Inicio de sesion correcto
+[14/03/2018 12:28:23] <1> <ZEHER> <192.168.1.8> <egcpnudq5g7c244dhej94cdcr7>: Inicio de sesion correcto
+[14/03/2018 16:33:36] <1> <ZEHER> <192.168.1.8> <ojftb4mpi3rd0se5d0glgffht3>: Inicio de sesion correcto
+[14/03/2018 16:53:52] <1> <ZEHER> <192.168.1.8> <ojftb4mpi3rd0se5d0glgffht3>: Inicio de sesion correcto
+[14/03/2018 18:33:05] <1> <ZEHER> <192.168.1.8> <ojftb4mpi3rd0se5d0glgffht3>: Inicio de sesion correcto
+[14/03/2018 18:33:30] <1> <ZEHER> <192.168.1.8> <ojftb4mpi3rd0se5d0glgffht3>: Inicio de sesion correcto
+[15/03/2018 8:43:31] <1> <ZEHER> <192.168.1.8> <6afqj86vj08esjl918dj4v33u7>: Inicio de sesion correcto
+[15/03/2018 13:03:53] <1> <ZEHER> <192.168.1.8> <6afqj86vj08esjl918dj4v33u7>: Inicio de sesion correcto
+[16/03/2018 9:04:13] <1> <ZEHER> <192.168.1.9> <137j7vkoma8m1n0bcei6im3de2>: Inicio de sesion correcto
+[16/03/2018 20:11:58] <1> <MARILYN> <192.168.1.12> <73oqop91let8sklks683bcs4j2>: Inicio de sesion correcto
+[16/03/2018 20:26:03] <1> <MARILYN> <192.168.1.12> <b08k9tucidvk46n4jnjp28kli7>: Inicio de sesion correcto
+[16/03/2018 20:29:08] <1> <MARILYN> <192.168.1.12> <a41k52i13unojo7gj2oouh3s40>: Inicio de sesion correcto
+[17/03/2018 11:52:56] <1> <ZEHER> <192.168.1.9> <hsp5v4mj6efqqjs1uliuqsm1d2>: Inicio de sesion correcto
+[17/03/2018 14:50:04] <1> <ZEHER> <192.168.1.9> <hsp5v4mj6efqqjs1uliuqsm1d2>: Inicio de sesion correcto
+[17/03/2018 15:14:56] <1> <ZEHER> <192.168.1.9> <hsp5v4mj6efqqjs1uliuqsm1d2>: Inicio de sesion correcto
+[17/03/2018 15:18:35] <1> <ZEHER> <192.168.1.9> <e3k09h1ps8ebdteu8oqese0330>: Inicio de sesion correcto
+[17/03/2018 15:19:29] <1> <marilyn> <192.168.1.12> <ifovummbpfi4ljsjgv0st67f73>: Inicio de sesion correcto
+[17/03/2018 17:30:10] <1> <ZEHER> <192.168.1.9> <e3k09h1ps8ebdteu8oqese0330>: Inicio de sesion correcto
+[20/03/2018 17:02:14] <1> <MARILYN> <192.168.1.12> <ind6oba7f4bsvsr4lnguoobmi5>: Inicio de sesion correcto
+[20/03/2018 17:55:03] <1> <ZEHER> <192.168.1.9> <e3k09h1ps8ebdteu8oqese0330>: Inicio de sesion correcto
+[21/03/2018 8:09:57] <1> <ZEHER> <192.168.1.9> <1uon6hrfb9u3tb22q6710pk1q4>: Inicio de sesion correcto
+[21/03/2018 8:37:53] <1> <ZEHER> <192.168.1.9> <1uon6hrfb9u3tb22q6710pk1q4>: Inicio de sesion correcto
+[21/03/2018 9:17:55] <1> <ZEHER> <192.168.1.9> <1uon6hrfb9u3tb22q6710pk1q4>: Inicio de sesion correcto
+[21/03/2018 9:44:05] <1> <ZEHER> <192.168.1.9> <1uon6hrfb9u3tb22q6710pk1q4>: Inicio de sesion correcto
+[21/03/2018 11:19:28] <1> <MARILYN> <192.168.1.12> <ra7j2ichd331rjhkqqm7jcp7n1>: Inicio de sesion correcto
+[21/03/2018 13:29:25] <1> <MARILYN> <192.168.1.12> <fi5g8enc6cdeefu01s8971sf67>: Inicio de sesion correcto
+[21/03/2018 14:58:43] <1> <ZEHER> <192.168.1.9> <vu70egracvgqm46hs6b0q9h3r1>: Inicio de sesion correcto
+[22/03/2018 19:47:25] <1> <ZEHER> <192.168.1.9> <vu70egracvgqm46hs6b0q9h3r1>: Inicio de sesion correcto
+[24/03/2018 12:59:55] <1> <ZEHER> <192.168.1.9> <98rlgpnkgbeohs7neq24kufm53>: Inicio de sesion correcto
+[24/03/2018 18:51:59] <1> <zeher> <192.168.1.9> <g9662a3dde56q04csdm91crsh2>: Inicio de sesion correcto
+[24/03/2018 19:30:24] <1> <ZEHER> <192.168.1.9> <1n1d4dpp267ks399r1gcb1cga1>: Inicio de sesion correcto
+[24/03/2018 20:02:56] <1> <ZEHER> <192.168.1.9> <1n1d4dpp267ks399r1gcb1cga1>: Inicio de sesion correcto
+[24/03/2018 20:13:54] <1> <ZEHER> <192.168.1.9> <clrc2gp9f9b7j49mrnuodqqrr7>: Inicio de sesion correcto
+[24/03/2018 20:20:12] <1> <ZEHER> <192.168.1.9> <clrc2gp9f9b7j49mrnuodqqrr7>: Inicio de sesion correcto
+[24/03/2018 20:22:32] <1> <MARILYN> <192.168.1.12> <f9tgnqs8532os7o2bfl9luq982>: Inicio de sesion correcto
+[24/03/2018 20:24:14] <0> <ZEHER> <192.168.1.9> <clrc2gp9f9b7j49mrnuodqqrr7>: Cierre de sesion
+[24/03/2018 20:24:20] <1> <ZEHER> <192.168.1.9> <clrc2gp9f9b7j49mrnuodqqrr7>: Inicio de sesion correcto
+[24/03/2018 20:29:42] <1> <manuela> <192.168.1.14> <9ujj8aaj877d1dafvseo5hb1l5>: Inicio de sesion correcto
+[24/03/2018 20:30:49] <0> <MARILYN> <192.168.1.12> <f9tgnqs8532os7o2bfl9luq982>: Cierre de sesion
+[24/03/2018 20:31:25] <1> <MARILYN> <192.168.1.12> <f9tgnqs8532os7o2bfl9luq982>: Inicio de sesion correcto
+[24/03/2018 20:31:38] <1> <ZEHER> <192.168.1.9> <g5q9hh5pg45av0ksbc2jec5886>: Inicio de sesion correcto
+[24/03/2018 20:37:49] <0> <manuela> <192.168.1.14> <9ujj8aaj877d1dafvseo5hb1l5>: Cierre de sesion
+[24/03/2018 20:37:58] <1> <zeger> <192.168.1.14> <9ujj8aaj877d1dafvseo5hb1l5>: Inicio de sesion correcto
+[24/03/2018 20:40:23] <1> <ZEHER> <192.168.1.9> <c3ciom4loi2lhjg0ndpotqlaf5>: Inicio de sesion correcto
+[26/03/2018 15:01:10] <1> <ZEHER> <192.168.1.9> <lusdbsf3jr5fll6p6f9prlukc3>: Inicio de sesion correcto
+[26/03/2018 15:09:53] <1> <manuela> <192.168.1.14> <icq0pn3ena0ad8jo88nd80kq71>: Inicio de sesion correcto
+[26/03/2018 16:02:01] <1> <ZEHER> <192.168.1.9> <bm609q68dcu8odcg4q0ltldn21>: Inicio de sesion correcto
+[26/03/2018 17:10:10] <0> <MARILYN> <192.168.1.12> <f9tgnqs8532os7o2bfl9luq982>: Cierre de sesion
+[26/03/2018 17:10:42] <1> <MARILYN> <192.168.1.12> <f9tgnqs8532os7o2bfl9luq982>: Inicio de sesion correcto
+[26/03/2018 19:19:54] <0> <MARILYN> <192.168.1.12> <f9tgnqs8532os7o2bfl9luq982>: Cierre de sesion
+[26/03/2018 19:20:20] <1> <MARILYN> <192.168.1.12> <f9tgnqs8532os7o2bfl9luq982>: Inicio de sesion correcto
+[27/03/2018 9:40:30] <1> <MARILYN> <192.168.1.12> <ni74l368tn02vgqtf6igg8iq90>: Inicio de sesion correcto
+[27/03/2018 13:37:01] <1> <ZEHER> <192.168.1.9> <aq0dntgebekl4md9hnp5pfjp37>: Inicio de sesion correcto
+[27/03/2018 16:14:17] <1> <MARILYN> <192.168.1.12> <krjeoksegd3pv0v4s3222s79l6>: Inicio de sesion correcto
+[27/03/2018 17:28:50] <1> <ZEHER> <192.168.1.9> <6rnkumlf7eq38911gn7aaqkhr1>: Inicio de sesion correcto
+[27/03/2018 17:33:43] <1> <ZEHER> <192.168.1.9> <2t3v4g079eo4ur0o9dpnk4pf96>: Inicio de sesion correcto
+[27/03/2018 19:20:59] <1> <ZEHER> <192.168.1.9> <2t3v4g079eo4ur0o9dpnk4pf96>: Inicio de sesion correcto
+[27/03/2018 19:27:28] <0> <ZEHER> <192.168.1.9> <2t3v4g079eo4ur0o9dpnk4pf96>: Cierre de sesion
+[27/03/2018 19:27:54] <1> <MARILYN> <192.168.1.12> <s9u5qv4jufnrt7bgjkus3dthc6>: Inicio de sesion correcto
+[27/03/2018 19:30:38] <1> <ZEHER> <192.168.1.9> <htbokvhtqavg79a6atqehghbc7>: Inicio de sesion correcto
+[27/03/2018 19:34:11] <0> <MARILYN> <192.168.1.12> <s9u5qv4jufnrt7bgjkus3dthc6>: Cierre de sesion
+[27/03/2018 19:35:09] <1> <manuela> <192.168.1.14> <9topth706algo2rnr8vd41osg7>: Inicio de sesion correcto
+[27/03/2018 19:42:19] <1> <manuela> <192.168.1.14> <9topth706algo2rnr8vd41osg7>: Inicio de sesion correcto
+[27/03/2018 19:54:40] <1> <ZEHER> <192.168.1.9> <482ok2j5ikvbgivf7835lp5t64>: Inicio de sesion correcto
+[27/03/2018 20:01:59] <1> <ZEHER> <192.168.1.9> <ki8hjivqvas3f6pev3ecmihd57>: Inicio de sesion correcto
+[27/03/2018 20:10:03] <0> <ZEHER> <192.168.1.9> <ki8hjivqvas3f6pev3ecmihd57>: Cierre de sesion
+[27/03/2018 20:10:52] <1> <ZEHER> <192.168.1.9> <vv90gmsch635bi7lnv0s72dm55>: Inicio de sesion correcto
+[27/03/2018 20:11:29] <0> <ZEHER> <192.168.1.9> <vv90gmsch635bi7lnv0s72dm55>: Cierre de sesion
+[27/03/2018 20:12:07] <1> <ZEHER> <192.168.1.9> <uogp3d88dderramvrrseqeb822>: Inicio de sesion correcto
+[27/03/2018 20:13:39] <1> <ZEHER> <192.168.1.9> <c3ciom4loi2lhjg0ndpotqlaf5>: Inicio de sesion correcto
+[28/03/2018 9:52:23] <1> <ZEHER> <192.168.1.9> <o0u1lfbl3rcrl1nibleop5n940>: Inicio de sesion correcto
+[28/03/2018 14:21:49] <1> <MARILYN> <192.168.1.12> <ogr5mq6q52k0fiubhu0rncmln2>: Inicio de sesion correcto
+[28/03/2018 14:33:36] <1> <MARILYN> <192.168.1.12> <apeesmiqplekkrqg18g3mi4ed1>: Inicio de sesion correcto
+[28/03/2018 19:43:01] <1> <zeger> <192.168.1.14> <l5sad7cftcjqlv246fem3m8s47>: Inicio de sesion correcto
+[28/03/2018 19:44:25] <1> <MARILYN> <192.168.1.12> <tj6odahut3hmukq21t7kl2g465>: Inicio de sesion correcto
+[29/03/2018 17:38:55] <1> <MARILYN> <192.168.1.12> <jnb4hbatlrahan7vj8r1ateer5>: Inicio de sesion correcto
+[31/03/2018 12:56:27] <1> <ZEHER> <192.168.1.9> <rjim4nshuc04p74s40adajm386>: Inicio de sesion correcto
+[31/03/2018 13:33:30] <1> <MARILYN> <192.168.1.6> <lb002ld3durnpdfutskdkjkq10>: Inicio de sesion correcto
+[31/03/2018 16:11:13] <0> <MARILYN> <192.168.1.6> <lb002ld3durnpdfutskdkjkq10>: Cierre de sesion
+[31/03/2018 16:11:49] <1> <MARILYN> <192.168.1.6> <lb002ld3durnpdfutskdkjkq10>: Inicio de sesion correcto
+[31/03/2018 16:43:39] <1> <MARILYN> <192.168.1.6> <d6ss71cijbqjtuiloh2sk4v2e4>: Inicio de sesion correcto
+[31/03/2018 18:46:09] <1> <ZEHER> <192.168.1.9> <rjim4nshuc04p74s40adajm386>: Inicio de sesion correcto
+[02/04/2018 9:46:19] <1> <ZEHER> <192.168.1.9> <ubal3n9gq8sdaa91840fsgpqp4>: Inicio de sesion correcto
+[02/04/2018 15:37:53] <1> <ZEHER> <192.168.1.9> <chqgs3dnjdkesjv32v7te67153>: Inicio de sesion correcto
+[02/04/2018 15:44:02] <1> <MARILYN> <192.168.1.6> <9sv9qq5trrsp8v7ef26ko04tl2>: Inicio de sesion correcto
+[02/04/2018 15:46:05] <1> <ZEHER> <192.168.1.9> <si05lm8v89crn9siq72tb7msu5>: Inicio de sesion correcto
+[02/04/2018 15:47:31] <1> <MARILYN> <192.168.1.6> <47klv8eoge7kr7re9a5qmlrt30>: Inicio de sesion correcto
+[02/04/2018 18:18:15] <1> <MARILYN> <192.168.1.6> <sohmtu9h4herufh2j2e63n6bh6>: Inicio de sesion correcto
+[03/04/2018 8:40:10] <1> <MARILYN> <192.168.1.6> <au7nmjkdshs40gnk8cp0230rp4>: Inicio de sesion correcto
+[03/04/2018 13:30:36] <1> <ZEHER> <192.168.1.9> <jbk83he3rjn8mrlj85790vcup0>: Inicio de sesion correcto
+[03/04/2018 15:25:44] <0> <MARILYN> <192.168.1.6> <au7nmjkdshs40gnk8cp0230rp4>: Cierre de sesion
+[03/04/2018 15:25:59] <1> <MARILYN> <192.168.1.6> <au7nmjkdshs40gnk8cp0230rp4>: Inicio de sesion correcto
+[03/04/2018 19:18:44] <1> <ZEHER> <192.168.1.9> <mg9qrg9pbca86t9cpu5rrkgm31>: Inicio de sesion correcto
+[04/04/2018 10:12:24] <1> <ZEHER> <192.168.1.9> <e52o9i8bsnrh2jkfgdhh6jrjf2>: Inicio de sesion correcto
+[05/04/2018 20:18:54] <1> <ZEHER> <192.168.1.9> <b1jktnltvmr9fn76jr13tbdti2>: Inicio de sesion correcto
+[06/04/2018 16:55:07] <1> <MARILYN> <192.168.1.14> <p8vcv4in9npbc7rpq55kdbi3t6>: Inicio de sesion correcto
+[07/04/2018 10:16:37] <1> <MARILYN> <192.168.1.4> <6gm40cmudviunc8r3ukbl5pvg5>: Inicio de sesion correcto
+[07/04/2018 12:39:27] <1> <ZEHER> <192.168.1.5> <f3lt27k0vinu6m1rh9obms8hi1>: Inicio de sesion correcto
+[07/04/2018 12:39:42] <1> <admin> <192.168.1.210> <ipnohac24nedp87j2qm57um7b4>: Inicio de sesion correcto
+[07/04/2018 13:22:12] <0> <admin> <192.168.1.210> <ipnohac24nedp87j2qm57um7b4>: Cierre de sesion
+[07/04/2018 13:22:24] <1> <admin> <192.168.1.210> <ipnohac24nedp87j2qm57um7b4>: Inicio de sesion correcto
+[07/04/2018 13:36:59] <0> <admin> <192.168.1.210> <ipnohac24nedp87j2qm57um7b4>: Cierre de sesion
+[07/04/2018 13:37:10] <1> <admin> <192.168.1.210> <ipnohac24nedp87j2qm57um7b4>: Inicio de sesion correcto
+[07/04/2018 13:39:28] <0> <admin> <192.168.1.210> <ipnohac24nedp87j2qm57um7b4>: Cierre de sesion
+[07/04/2018 13:39:33] <1> <admin> <192.168.1.210> <ipnohac24nedp87j2qm57um7b4>: Inicio de sesion correcto
+[07/04/2018 14:46:57] <1> <ZEHER> <192.168.1.5> <rjddo6gje1f9in58gol2t3c9u7>: Inicio de sesion correcto
+[08/04/2018 0:21:04] <0> <admin> <192.168.1.210> <ipnohac24nedp87j2qm57um7b4>: Cierre de sesion
+[08/04/2018 18:43:13] <1> <ZEHER> <192.168.1.5> <7nlm6dte8gvkkn2agsar4cjut5>: Inicio de sesion correcto
+[09/04/2018 11:07:06] <1> <ZEHER> <192.168.1.5> <lv8pt1rgm54nh9uao384pk5gl6>: Inicio de sesion correcto
+[10/04/2018 13:55:41] <1> <ZEHER> <192.168.1.5> <lo1cpchaa6m4qk60rp7s0ceaq7>: Inicio de sesion correcto
+[11/04/2018 8:33:50] <1> <ZEHER> <192.168.1.5> <p99uqaj25um1av0vs4ud2j7ic1>: Inicio de sesion correcto
+[11/04/2018 15:13:07] <1> <ZEHER> <192.168.1.5> <nnuh159d5j13ealv4v332mt1b4>: Inicio de sesion correcto
+[11/04/2018 18:52:49] <1> <MARILYN> <192.168.1.4> <9ljkvbqck3vks2k8tt7upr2lk5>: Inicio de sesion correcto
+[12/04/2018 12:15:38] <1> <MARILYN> <192.168.1.4> <t65i6kdpkscto0tv4esqt9jr40>: Inicio de sesion correcto
+[12/04/2018 13:09:46] <1> <ZEHER> <192.168.1.5> <o0sssjs20n18iphjfqhka9ru01>: Inicio de sesion correcto
+[13/04/2018 18:40:18] <1> <ZEHER> <192.168.1.14> <1kllk89tcj8h1238m6rdqvf070>: Inicio de sesion correcto
+[13/04/2018 19:50:50] <1> <ZEHER> <192.168.1.14> <1v2jcbijoanhsshl4h2r8b34v3>: Inicio de sesion correcto
+[14/04/2018 13:22:18] <1> <ZEHER> <192.168.1.14> <1bt8mntjmefbo228kaq2eeokm0>: Inicio de sesion correcto
+[14/04/2018 16:21:42] <1> <MARILYN> <192.168.1.12> <4p15nu8baj9642atu0eufcoh72>: Inicio de sesion correcto
+[14/04/2018 16:44:59] <1> <MARILYN> <192.168.1.12> <d1u5k16eno65qlkicqhl8df6n6>: Inicio de sesion correcto
+[16/04/2018 22:03:47] <1> <manuela> <192.168.1.7> <q8l7rjva30198lo2n2s4o6amb2>: Inicio de sesion correcto
+[22/02/2018 13:40:55] <1> <ZEHER> <192.168.1.4> <ega67j45f8btdo9i7nngp2tf24>: Inicio de sesion correcto
+[22/02/2018 13:52:10] <1> <ZEHER> <192.168.1.4> <c3ciom4loi2lhjg0ndpotqlaf5>: Inicio de sesion correcto
+[17/04/2018 18:08:30] <1> <MARILYN> <192.168.1.5> <5qkte3hg5ldnndj5bmr1mg2uj7>: Inicio de sesion correcto
+[17/04/2018 19:43:17] <1> <ZEHER> <192.168.1.10> <qnv8dmal5m2o892el6k8nemtk7>: Inicio de sesion correcto
+[17/04/2018 19:43:25] <1> <MARILYN> <192.168.1.8> <orm8t65mva6lkfvp1qu6nt3ao1>: Inicio de sesion correcto
+[17/04/2018 19:44:22] <1> <ZEHER> <192.168.1.10> <pggstsa4frd4dc3652bvv4b4e4>: Inicio de sesion correcto
+[19/04/2018 12:09:53] <1> <ZEHER> <192.168.1.10> <ns9g9klph7u25mrefippopduo6>: Inicio de sesion correcto
+[19/04/2018 16:39:30] <1> <ZEHER> <192.168.1.10> <k3kqp3j8u43sr9qra249loc815>: Inicio de sesion correcto
+[19/04/2018 19:38:55] <1> <MARILYN> <192.168.1.8> <jqftfkpf5f8mpuce6ohjhk7f22>: Inicio de sesion correcto
+[20/04/2018 19:38:29] <1> <ZEHER> <192.168.1.10> <auqspospbqcu18ct50famfl162>: Inicio de sesion correcto
+[21/04/2018 10:09:17] <1> <MARILYN> <192.168.1.8> <a3kesqbpnhqcq94j5ojrc3r206>: Inicio de sesion correcto
+[21/04/2018 11:27:21] <1> <ZEHER> <192.168.1.10> <qifqf8ae53odngelau19ldk1i0>: Inicio de sesion correcto
+[21/04/2018 11:31:45] <1> <ZEHER> <192.168.1.10> <qifqf8ae53odngelau19ldk1i0>: Inicio de sesion correcto
+[21/04/2018 11:43:24] <1> <ZEHER> <192.168.1.10> <qifqf8ae53odngelau19ldk1i0>: Inicio de sesion correcto
+[21/04/2018 11:46:50] <1> <MARILYN> <192.168.1.8> <a0ovlqti4vp7m5npo5d4qqrd86>: Inicio de sesion correcto
+[21/04/2018 17:03:12] <1> <MARILYN> <192.168.1.8> <o6jojmv93lp5p0456a021iahg7>: Inicio de sesion correcto
+[21/04/2018 18:52:45] <1> <MARILYN> <192.168.1.8> <b8rafq3mkp52kevmf2lr2ojbs1>: Inicio de sesion correcto
+[21/04/2018 18:59:01] <1> <MARILYN> <192.168.1.8> <b8rafq3mkp52kevmf2lr2ojbs1>: Inicio de sesion correcto
+[21/04/2018 18:59:28] <1> <MARILYN> <192.168.1.8> <b8rafq3mkp52kevmf2lr2ojbs1>: Inicio de sesion correcto
+[23/04/2018 8:37:24] <1> <ZEHER> <192.168.1.10> <e5ou9p26ljmeocsbudfuugn7t7>: Inicio de sesion correcto
+[23/04/2018 16:43:20] <1> <ZEHER> <192.168.1.10> <94jpr2pu6qfli3lca1hbco4d47>: Inicio de sesion correcto
+[23/04/2018 16:53:19] <1> <MARILYN> <192.168.1.8> <bjkajq5p0o4vm4ke15k6m1rrv5>: Inicio de sesion correcto
+[25/04/2018 11:08:32] <1> <MARILYN> <192.168.1.8> <383kc76vnnr7h85iabdt1mu9o4>: Inicio de sesion correcto
+[28/04/2018 15:53:43] <1> <MARILYN> <192.168.1.8> <5r5pge4obmr9b1ekrtrud89362>: Inicio de sesion correcto
+[28/04/2018 15:55:57] <1> <ZEHER> <192.168.1.10> <b2oe0c79u4oj0tkrle20lcurd5>: Inicio de sesion correcto
+[28/04/2018 15:58:31] <0> <MARILYN> <192.168.1.8> <5r5pge4obmr9b1ekrtrud89362>: Cierre de sesion
+[28/04/2018 15:58:43] <1> <MARILYN> <192.168.1.8> <5r5pge4obmr9b1ekrtrud89362>: Inicio de sesion correcto
+[28/04/2018 16:08:28] <1> <ZEHER> <192.168.1.10> <k9ljno2akp4k539n68494sb2e1>: Inicio de sesion correcto
+[28/04/2018 16:17:11] <1> <MARILYN> <192.168.1.8> <v1b6kg55ukfa522s22n0qit0n1>: Inicio de sesion correcto
+[28/04/2018 16:27:24] <0> <MARILYN> <192.168.1.8> <v1b6kg55ukfa522s22n0qit0n1>: Cierre de sesion
+[28/04/2018 16:27:36] <1> <MARILYN> <192.168.1.8> <v1b6kg55ukfa522s22n0qit0n1>: Inicio de sesion correcto
+[30/04/2018 11:05:56] <1> <MARILYN> <192.168.1.8> <sa2e4r6i8rfbamnj9lkmho6sh1>: Inicio de sesion correcto
+[02/05/2018 11:13:25] <1> <MARILYN> <192.168.1.8> <5in4jt24rhcjgap4ai51qn8rt1>: Inicio de sesion correcto
+[02/05/2018 15:05:56] <1> <MARILYN> <192.168.1.8> <kr4rh1dp6mfe6o9m81sau7fsk7>: Inicio de sesion correcto
+[02/05/2018 14:54:09] <1> <MARILYN> <192.168.1.8> <kgko0ob5fsajp1b6dg6kn9okr3>: Inicio de sesion correcto
+[02/05/2018 15:24:56] <1> <ZEHER> <192.168.1.10> <mekf34q1fbbt7vmu5b00968e26>: Inicio de sesion correcto
+[02/05/2018 17:19:51] <1> <MARILYN> <192.168.1.8> <903tiaeqo7ssuor07kd81n00e3>: Inicio de sesion correcto
+[05/05/2018 18:11:25] <1> <MARILYN> <192.168.1.8> <l8o9cetq83gc0an3dp66sdbaq2>: Inicio de sesion correcto
+[05/05/2018 18:26:36] <1> <MARILYN> <192.168.1.8> <o4afs3oroq3hce1n7tqrlhqca2>: Inicio de sesion correcto
+[07/05/2018 20:29:28] <1> <ZEHER> <192.168.1.10> <kp4b9plvhuikvdqsdao1rnd9c1>: Inicio de sesion correcto
+[07/05/2018 20:35:59] <1> <MARILYN> <192.168.1.8> <nehbrbe43i1jlh4uobicss4c53>: Inicio de sesion correcto
+[09/05/2018 15:25:27] <1> <MARILYN> <192.168.1.8> <mi5m9gsvrhdvisntqp6mamcrc4>: Inicio de sesion correcto
+[09/05/2018 18:32:28] <1> <manuela> <192.168.1.5> <ig4ubdoeeq19g8n919f8ag3ld5>: Inicio de sesion correcto
+[09/05/2018 18:38:46] <0> <manuela> <192.168.1.5> <ig4ubdoeeq19g8n919f8ag3ld5>: Cierre de sesion
+[13/05/2018 11:25:13] <1> <MARILYN> <192.168.1.8> <1nu7d3rt2t5gq97i2kmerl7io6>: Inicio de sesion correcto
+[16/05/2018 15:14:56] <1> <ZEHER> <192.168.1.10> <6go96oam16p6f5bme90am59ji4>: Inicio de sesion correcto
+[17/05/2018 8:43:17] <1> <MARILYN> <192.168.1.8> <fkp6o5n5di36duhj4j34852hs3>: Inicio de sesion correcto
+[19/05/2018 16:50:18] <1> <MARILYN> <192.168.1.8> <hrta4f02tp3c4kkmku7f04r1d7>: Inicio de sesion correcto
+[23/05/2018 11:29:53] <1> <manuela> <192.168.1.5> <j097saraq73kgap6f998ohmpj6>: Inicio de sesion correcto
+[23/05/2018 11:36:24] <1> <manuela> <192.168.1.5> <pcbherrl489tjfqefs12v0vv04>: Inicio de sesion correcto
+[23/05/2018 18:47:28] <1> <MARILYN> <192.168.1.8> <72v18femjk8gf668u8oum7jpk1>: Inicio de sesion correcto
+[25/05/2018 11:26:18] <1> <MARILYN> <192.168.1.8> <euetfo3e595jlq72oismlqhh14>: Inicio de sesion correcto
+[25/05/2018 11:32:02] <0> <MARILYN> <192.168.1.8> <euetfo3e595jlq72oismlqhh14>: Cierre de sesion
+[25/05/2018 11:34:13] <1> <MARILYN> <192.168.1.8> <euetfo3e595jlq72oismlqhh14>: Inicio de sesion correcto
+[25/05/2018 11:38:55] <0> <MARILYN> <192.168.1.8> <euetfo3e595jlq72oismlqhh14>: Cierre de sesion
+[25/05/2018 11:42:11] <1> <MARILYN> <192.168.1.8> <44pd6eqv6fr42li0ilg4skc3e7>: Inicio de sesion correcto
+[25/05/2018 11:48:32] <1> <MANUELA> <192.168.1.10> <f5fl7l9umi6b8lmp2fbtqm3ce6>: Inicio de sesion correcto
+[25/05/2018 12:04:27] <0> <MARILYN> <192.168.1.8> <44pd6eqv6fr42li0ilg4skc3e7>: Cierre de sesion
+[25/05/2018 12:04:39] <1> <MARILYN> <192.168.1.8> <44pd6eqv6fr42li0ilg4skc3e7>: Inicio de sesion correcto
+[25/05/2018 14:09:00] <1> <MARILYN> <192.168.1.8> <dom5cn4mskucumii19p1e4m0r2>: Inicio de sesion correcto
+[25/05/2018 14:35:24] <1> <MARILYN> <192.168.1.8> <2uds8cd4mtlpudlr93c7gsj9i0>: Inicio de sesion correcto
+[25/05/2018 15:23:37] <1> <MARILYN> <192.168.1.8> <cb7fn6tohftcb323dn2u634lv1>: Inicio de sesion correcto
+[28/05/2018 13:08:38] <1> <ZEHER> <192.168.1.10> <p9cqq0t11cagmf52hcn04voqt2>: Inicio de sesion correcto
+[28/05/2018 13:16:31] <1> <MARILYN> <192.168.1.8> <npn8611cocmbem96of1i4cjf02>: Inicio de sesion correcto
+[29/05/2018 8:27:16] <1> <MARILYN> <192.168.1.8> <sne5lcme0769efp4hlthp4ekh6>: Inicio de sesion correcto
+[29/05/2018 17:35:25] <1> <ZEHER> <192.168.1.10> <vqc6u91t5cgcdsub4v270p3qs1>: Inicio de sesion correcto
+[29/05/2018 17:42:04] <1> <MARILYN> <192.168.1.8> <qakck6k9vpt6228cjmcsk3i9h1>: Inicio de sesion correcto
+[01/06/2018 15:56:20] <1> <MARILYN> <192.168.1.8> <rhoaa337e3bj4nbol98h7i4sc6>: Inicio de sesion correcto
+[01/06/2018 18:34:02] <1> <ZEHER> <192.168.1.10> <tkhdntdvpunfonqd0fo7h8lf60>: Inicio de sesion correcto
+[02/06/2018 19:07:14] <1> <MARILYN> <192.168.1.8> <ut1ocj7c3k36uun1u32r9r1jq2>: Inicio de sesion correcto
+[02/06/2018 19:28:49] <1> <MARILYN> <192.168.1.8> <g0eihr8a4ip5bi64vg7ue4mii3>: Inicio de sesion correcto
+[06/06/2018 13:55:50] <1> <MARILYN> <192.168.1.8> <328ifqgh65e145nhckgn0rv2v3>: Inicio de sesion correcto
+[08/06/2018 18:35:32] <1> <MARILYN> <192.168.1.8> <f9arb2r4q3i55kjn5e16cuj7b3>: Inicio de sesion correcto
+[08/06/2018 18:44:23] <1> <admin> <192.168.1.10> <di8mrcponc5hk4qs3vdemilbq3>: Inicio de sesion correcto
+[08/06/2018 18:57:06] <1> <MARILYN> <192.168.1.8> <sm6d7g679qbtqrrairgtvtale5>: Inicio de sesion correcto
+[08/06/2018 19:20:38] <0> <admin> <192.168.1.10> <di8mrcponc5hk4qs3vdemilbq3>: Cierre de sesion
+[08/06/2018 19:21:54] <1> <ZEHER> <192.168.1.10> <di8mrcponc5hk4qs3vdemilbq3>: Inicio de sesion correcto
+[09/06/2018 10:22:29] <1> <admin> <192.168.1.5> <foq6me4gv2knfic07mfce40tf7>: Inicio de sesion correcto
+[09/06/2018 13:23:58] <1> <MARILYN> <192.168.1.8> <n3kmsna9to1ck3n4j1tib72qh2>: Inicio de sesion correcto
+[18/06/2018 10:41:31] <1> <MARILYN> <192.168.1.8> <krqhtriokgcemser2fad9423i4>: Inicio de sesion correcto
+[18/06/2018 15:05:00] <1> <manuela> <192.168.1.5> <fb4c8b0q2bc7mu77tql5hphss7>: Inicio de sesion correcto
+[18/06/2018 15:05:17] <0> <manuela> <192.168.1.5> <fb4c8b0q2bc7mu77tql5hphss7>: Cierre de sesion
+[19/06/2018 13:30:43] <1> <MARILYN> <192.168.1.8> <mn0np0mc72qm2qdcu3m7utqnc3>: Inicio de sesion correcto
+[23/06/2018 13:17:17] <1> <MARILYN> <192.168.1.8> <v4rl7s7j9eq0q41m8ios086q47>: Inicio de sesion correcto
+[30/06/2018 20:24:47] <1> <MARILYN> <192.168.1.8> <4gscgbqehujljkdspldgdv6ud0>: Inicio de sesion correcto
+[05/07/2018 18:46:41] <1> <MARILYN> <192.168.1.8> <rntint01pncf424ii00gb6kgc0>: Inicio de sesion correcto
+[06/07/2018 14:32:28] <1> <MARILYN> <192.168.1.8> <5hfgrsa3osctc9ar8ftpor14e4>: Inicio de sesion correcto
+[10/07/2018 10:17:14] <1> <MARILYN> <192.168.1.8> <5h7rv4ejvstm6sasqkb1ga1rf3>: Inicio de sesion correcto
+[10/07/2018 10:22:49] <0> <MARILYN> <192.168.1.8> <5h7rv4ejvstm6sasqkb1ga1rf3>: Cierre de sesion
+[11/07/2018 11:27:26] <1> <MARILYN> <192.168.1.8> <c3bn1htmprn7si7b007icqqp01>: Inicio de sesion correcto
+[11/07/2018 14:29:38] <1> <MARILYN> <192.168.1.8> <btdmgueb074r1rc4t2q1qku6m2>: Inicio de sesion correcto
+[11/07/2018 15:13:27] <1> <admin> <192.168.1.5> <r6tka66n94arq2h25q9h2cf050>: Inicio de sesion correcto
+[11/07/2018 15:16:15] <1> <admin> <192.168.1.5> <r6tka66n94arq2h25q9h2cf050>: Inicio de sesion correcto
+[12/07/2018 9:17:56] <1> <admin> <192.168.1.5> <e4kqg3n5esfie7vurr2u73pav4>: Inicio de sesion correcto
+[13/07/2018 11:05:05] <1> <admin> <192.168.1.210> <c6rltfdaj457s0v8u4r39bkob6>: Inicio de sesion correcto
+[13/07/2018 13:06:43] <1> <MARILYN> <192.168.1.8> <45o38dcuk7m9qtuakonbq8fm47>: Inicio de sesion correcto
+[14/07/2018 10:55:08] <1> <MARILYN> <192.168.1.8> <tmo6kjfenpe50jsa89evmqik01>: Inicio de sesion correcto
+[14/07/2018 13:33:15] <1> <MARILYN> <192.168.1.8> <dr6h95e7due6eiu7ah8be8c7c3>: Inicio de sesion correcto
+[14/07/2018 13:40:31] <1> <MARILYN> <192.168.1.8> <hsb24hip8lbak6j7hh0me2its2>: Inicio de sesion correcto
+[14/07/2018 13:45:11] <1> <MARILYN> <192.168.1.8> <fq4lchu15lmtb110gtg204hdf3>: Inicio de sesion correcto
+[14/07/2018 14:58:59] <1> <KARINA> <192.168.1.8> <ni278oos9c74jfe9okbd855to3>: Inicio de sesion correcto
+[14/07/2018 14:59:47] <1> <MARILYN> <192.168.1.8> <ni278oos9c74jfe9okbd855to3>: Inicio de sesion correcto
+[14/07/2018 15:28:13] <1> <MARILYN> <192.168.1.8> <uqavln35bmpvpt31hokmv90jk4>: Inicio de sesion correcto
+[17/07/2018 17:16:02] <1> <MARILYN> <192.168.1.8> <4u74m34nqliqkfaulclqicbbh7>: Inicio de sesion correcto
+[19/07/2018 15:59:47] <1> <MARILYN> <192.168.1.8> <m011cden756ostul79el8jc7h3>: Inicio de sesion correcto
+[23/07/2018 10:51:58] <1> <KARINA> <192.168.1.8> <hrufdaedqagbotovkkg5hlofl6>: Inicio de sesion correcto
+[23/07/2018 10:53:08] <1> <karina> <192.168.1.10> <35m01pvmcb51ocg74h1to7p4r0>: Inicio de sesion correcto
+[23/07/2018 10:53:50] <1> <karina> <192.168.1.8> <cj6sh9ghcv6775v6ln2h5fg287>: Inicio de sesion correcto
+[23/07/2018 10:54:31] <1> <marilyn> <192.168.1.8> <cj6sh9ghcv6775v6ln2h5fg287>: Inicio de sesion correcto
+[23/07/2018 11:18:40] <1> <MARILYN> <192.168.1.8> <pgmj8trub8lep496fbjllnbpm7>: Inicio de sesion correcto
+[23/07/2018 13:33:09] <1> <MARILYN> <192.168.1.8> <tridjhh0qu16gcs6tsuolo2o03>: Inicio de sesion correcto
+[23/07/2018 16:55:10] <1> <MARILYN> <192.168.1.8> <m85tv5f8uq5ru59mavtscjguq2>: Inicio de sesion correcto
+[24/07/2018 13:40:15] <1> <karina> <192.168.1.8> <iqfcjds3ijgmrh4sb0oq5u1306>: Inicio de sesion correcto
+[24/07/2018 13:40:39] <1> <KARINA> <192.168.1.8> <iqfcjds3ijgmrh4sb0oq5u1306>: Inicio de sesion correcto
+[24/07/2018 13:41:54] <0> <KARINA> <192.168.1.8> <iqfcjds3ijgmrh4sb0oq5u1306>: Cierre de sesion
+[24/07/2018 13:42:04] <1> <MARILYN> <192.168.1.8> <iqfcjds3ijgmrh4sb0oq5u1306>: Inicio de sesion correcto
+[24/07/2018 18:59:48] <1> <MARILYN> <192.168.1.8> <b7dasndgnm13pm0jkmej9hni67>: Inicio de sesion correcto
+[24/07/2018 19:18:53] <1> <MARILYN> <192.168.1.8> <igr0p8bqv0ron24baphpcm6i93>: Inicio de sesion correcto
+[25/07/2018 12:35:48] <1> <MARILYN> <192.168.1.8> <vqlfi9fqvjk9anoaek0vd7sjl3>: Inicio de sesion correcto
+[27/07/2018 12:10:54] <1> <MARILYN> <192.168.1.8> <d8klgt0cnfeu4ppdmci3kp3q22>: Inicio de sesion correcto
+[30/07/2018 16:58:26] <1> <karina> <192.168.1.10> <s5eou0jel6c62vrr1ouohm5od4>: Inicio de sesion correcto
+[30/07/2018 17:03:33] <1> <MARILYN> <192.168.1.8> <0iqp48ha79l3n0v1u4kgh05n71>: Inicio de sesion correcto
+[30/07/2018 17:17:09] <1> <MARILYN> <192.168.1.8> <tkbv4hjihbf92qd38gtqel3tm7>: Inicio de sesion correcto
+[31/07/2018 16:34:59] <1> <MARILYN> <192.168.1.8> <ng2bqrl7pm6dbsv20s4pjs4nv5>: Inicio de sesion correcto
+[01/08/2018 18:06:09] <1> <MARILYN> <192.168.1.8> <9og5qp879u0n83eeg74jekm8m6>: Inicio de sesion correcto
+[02/08/2018 18:14:34] <1> <MARILYN> <192.168.1.8> <l6n1haep2mturovh7m3k9dhlc4>: Inicio de sesion correcto
+[02/08/2018 18:28:53] <0> <MARILYN> <192.168.1.8> <l6n1haep2mturovh7m3k9dhlc4>: Cierre de sesion
+[03/08/2018 15:24:04] <1> <MARILYN> <192.168.1.8> <vuf2d3d8q9rvl53lonpmsckre5>: Inicio de sesion correcto
+[04/08/2018 14:18:07] <1> <KARINA> <192.168.1.8> <kq1tqhuoleqrugcgt1d6452oh2>: Inicio de sesion correcto
+[04/08/2018 14:19:49] <1> <KARINA> <192.168.1.8> <kq1tqhuoleqrugcgt1d6452oh2>: Inicio de sesion correcto
+[04/08/2018 14:20:17] <1> <MARILYN> <192.168.1.8> <kq1tqhuoleqrugcgt1d6452oh2>: Inicio de sesion correcto
+[04/08/2018 15:59:49] <0> <MARILYN> <192.168.1.8> <kq1tqhuoleqrugcgt1d6452oh2>: Cierre de sesion
+[06/08/2018 10:26:58] <1> <karina> <192.168.1.10> <r1c2unsa3h8tuahn2gl2cn5144>: Inicio de sesion correcto
+[06/08/2018 15:05:47] <1> <MARILYN> <192.168.1.8> <k1na47l0csls1pn4tp97134o53>: Inicio de sesion correcto
+[06/08/2018 15:15:09] <0> <MARILYN> <192.168.1.8> <k1na47l0csls1pn4tp97134o53>: Cierre de sesion
+[08/08/2018 9:16:49] <1> <MARILYN> <192.168.1.8> <rvtc5m2aln9f47fir0mm3cc0b2>: Inicio de sesion correcto
+[08/08/2018 12:09:09] <0> <MARILYN> <192.168.1.8> <rvtc5m2aln9f47fir0mm3cc0b2>: Cierre de sesion
+[09/08/2018 13:06:03] <1> <MARILYN> <192.168.1.8> <fhkaup6r0bpsaedejmk5dst3k7>: Inicio de sesion correcto
+[11/08/2018 15:33:21] <1> <admin> <192.168.1.5> <mqg1u9qtt2jigk3qlof9jttvh3>: Inicio de sesion correcto
+[13/08/2018 12:32:09] <1> <MARILYN> <192.168.1.8> <0o06fr14g800eem53jqg56qvb5>: Inicio de sesion correcto
+[13/08/2018 12:38:45] <0> <MARILYN> <192.168.1.8> <0o06fr14g800eem53jqg56qvb5>: Cierre de sesion
+[13/08/2018 12:42:27] <1> <MARILYN> <192.168.1.8> <0o06fr14g800eem53jqg56qvb5>: Inicio de sesion correcto
+[13/08/2018 13:08:19] <0> <MARILYN> <192.168.1.8> <0o06fr14g800eem53jqg56qvb5>: Cierre de sesion
+[13/08/2018 13:08:31] <1> <karina> <192.168.1.8> <0o06fr14g800eem53jqg56qvb5>: Inicio de sesion correcto
+[13/08/2018 13:08:37] <0> <karina> <192.168.1.8> <0o06fr14g800eem53jqg56qvb5>: Cierre de sesion
+[15/08/2018 11:45:03] <1> <KARINA> <192.168.1.8> <t9cih54mm66eddsse5q28jsr96>: Inicio de sesion correcto
+[15/08/2018 11:45:26] <1> <karina> <192.168.1.8> <t9cih54mm66eddsse5q28jsr96>: Inicio de sesion correcto
+[15/08/2018 16:38:31] <1> <karina> <192.168.1.8> <gitq5ilo5b0v6ffbeb2aertf80>: Inicio de sesion correcto
+[15/08/2018 16:38:50] <1> <KARINA> <192.168.1.8> <gitq5ilo5b0v6ffbeb2aertf80>: Inicio de sesion correcto
+[15/08/2018 16:39:09] <1> <MARILYN> <192.168.1.8> <gitq5ilo5b0v6ffbeb2aertf80>: Inicio de sesion correcto
+[15/08/2018 16:43:51] <0> <MARILYN> <192.168.1.8> <gitq5ilo5b0v6ffbeb2aertf80>: Cierre de sesion
+[15/08/2018 18:39:44] <1> <admin> <192.168.1.210> <362imk8nscg99pnep1tararsa0>: Inicio de sesion correcto
+[15/08/2018 18:40:43] <0> <admin> <192.168.1.210> <362imk8nscg99pnep1tararsa0>: Cierre de sesion
+[16/08/2018 15:49:22] <1> <MARILYN> <192.168.1.8> <5ha4h0p3049sl96mnc2lcnvag3>: Inicio de sesion correcto
+[16/08/2018 15:59:55] <0> <MARILYN> <192.168.1.8> <5ha4h0p3049sl96mnc2lcnvag3>: Cierre de sesion
+[16/08/2018 16:01:38] <1> <MARILYN> <192.168.1.8> <5ha4h0p3049sl96mnc2lcnvag3>: Inicio de sesion correcto
+[17/08/2018 16:36:47] <1> <MARILYN> <192.168.1.8> <kh9iiaqee90keamfnqs92ld5p4>: Inicio de sesion correcto
+[17/08/2018 16:48:42] <0> <MARILYN> <192.168.1.8> <kh9iiaqee90keamfnqs92ld5p4>: Cierre de sesion
+[17/08/2018 16:48:55] <1> <MARILYN> <192.168.1.8> <kh9iiaqee90keamfnqs92ld5p4>: Inicio de sesion correcto
+[17/08/2018 16:52:20] <0> <MARILYN> <192.168.1.8> <kh9iiaqee90keamfnqs92ld5p4>: Cierre de sesion
+[21/08/2018 16:03:58] <1> <MARILYN> <192.168.1.8> <r6276r01chfai2vh9ci4vugpq4>: Inicio de sesion correcto
+[21/08/2018 16:22:37] <1> <MARILYN> <192.168.1.8> <ao209ueb6ib34vdhm9ulguph36>: Inicio de sesion correcto
+[21/08/2018 16:59:13] <1> <MARILYN> <192.168.1.8> <s400dn0gjs0nbhgpg9n19q7c00>: Inicio de sesion correcto
+[21/08/2018 17:07:38] <0> <MARILYN> <192.168.1.8> <s400dn0gjs0nbhgpg9n19q7c00>: Cierre de sesion
+[21/08/2018 17:08:01] <1> <admin> <192.168.1.8> <s400dn0gjs0nbhgpg9n19q7c00>: Inicio de sesion correcto
+[21/08/2018 18:35:53] <1> <MARILYN> <192.168.1.8> <d9o6pmcrfq0m75bv2ncm0k5ba0>: Inicio de sesion correcto
+[22/08/2018 11:19:40] <1> <MARILYN> <192.168.1.8> <c9iggulab019actv1ulvuulsk5>: Inicio de sesion correcto
+[24/08/2018 10:55:58] <1> <KARINA> <192.168.1.8> <mcq269vrmcjoq5j3n966hhbmr3>: Inicio de sesion correcto
+[24/08/2018 11:14:42] <1> <KARINA> <192.168.1.8> <ug70upp8k2r55qn41httns5ui0>: Inicio de sesion correcto
+[24/08/2018 11:38:42] <1> <karina> <192.168.1.10> <r1c2unsa3h8tuahn2gl2cn5144>: Inicio de sesion correcto
+[24/08/2018 11:40:05] <1> <karina> <192.168.1.10> <r1c2unsa3h8tuahn2gl2cn5144>: Inicio de sesion correcto
+[24/08/2018 13:25:34] <1> <MARILYN> <192.168.1.8> <m3pqfop9tg3fr63gfv231a8mu5>: Inicio de sesion correcto
+[24/08/2018 15:33:57] <1> <KARINA> <192.168.1.8> <h7ge9b69jlpvrbqbuenmd7j8f0>: Inicio de sesion correcto
+[25/08/2018 9:56:52] <1> <karina> <192.168.1.8> <o78scfsqbii230oc1ofi98j2p7>: Inicio de sesion correcto
+[25/08/2018 11:49:05] <1> <MARILYN> <192.168.1.8> <4unbg5eavd704bidehcsjd4rj0>: Inicio de sesion correcto
+[25/08/2018 19:29:55] <1> <MARILYN> <192.168.1.8> <97inqjqm85alleft93bjanh6i6>: Inicio de sesion correcto
+[27/08/2018 16:15:25] <1> <MARILYN> <192.168.1.8> <4lcl9n2rju76l3gs0gkpsbmrh2>: Inicio de sesion correcto
+[29/08/2018 15:43:14] <1> <KARINA> <192.168.1.8> <re2s97erpd76bk7bnk7iib98d4>: Inicio de sesion correcto
+[31/08/2018 18:33:10] <1> <Karina> <192.168.1.8> <istg9rmnssal223glkjjlechd0>: Inicio de sesion correcto
+[03/09/2018 18:36:35] <1> <MARILYN> <192.168.1.8> <u7qln3kqj46dv2d77h42rc16l0>: Inicio de sesion correcto
+[04/09/2018 14:15:18] <1> <KARINA> <192.168.1.8> <higagn4atcjii4hmtmv8r5oms6>: Inicio de sesion correcto
+[05/09/2018 13:41:20] <1> <KARINA> <192.168.1.8> <dg8cmqsdpdpcjlpsfrljl86ue3>: Inicio de sesion correcto
+[06/09/2018 9:52:33] <1> <karina> <192.168.1.8> <0276ceds7bro0i06kne18d1gp3>: Inicio de sesion correcto
+[06/09/2018 16:26:30] <1> <MARILYN> <192.168.1.8> <s3qlm2v7rerj82nnrmjg6krq55>: Inicio de sesion correcto
+[07/09/2018 11:49:14] <1> <KARINA> <192.168.1.8> <8c1fac4l1b72u8t5qd7u0b6fq6>: Inicio de sesion correcto
+[08/09/2018 12:51:03] <1> <karina> <192.168.1.8> <edet72gfbeqn4mrqm6mebsqh95>: Inicio de sesion correcto
+[08/09/2018 13:13:28] <1> <KARINA> <192.168.1.8> <edet72gfbeqn4mrqm6mebsqh95>: Inicio de sesion correcto
+[08/09/2018 13:27:12] <1> <KARINA> <192.168.1.8> <edet72gfbeqn4mrqm6mebsqh95>: Inicio de sesion correcto
+[10/09/2018 12:10:34] <1> <MARILYN> <192.168.1.8> <6h1sc6ied0sqdiktm8ek5oiar6>: Inicio de sesion correcto
+[11/09/2018 10:21:17] <1> <MARILYN> <192.168.1.8> <qqsnsgcvhsv05vha9o59gvesp1>: Inicio de sesion correcto
+[11/09/2018 15:25:37] <1> <karina> <192.168.1.8> <38c285qah79sio754uuao77p62>: Inicio de sesion correcto
+[13/09/2018 12:21:34] <1> <KARINA> <192.168.1.8> <0qmvte5vnog8qb7rum836hu7d4>: Inicio de sesion correcto
+[14/09/2018 10:33:48] <1> <MARILYN> <192.168.1.8> <05qjusi0qpneql01n25fco7og0>: Inicio de sesion correcto
+[15/09/2018 17:29:19] <1> <KARINA> <192.168.1.8> <6isqb05oqtb8idae7er4fm6aa7>: Inicio de sesion correcto
+[18/09/2018 17:20:27] <0> <KARINA> <192.168.1.8> <6isqb05oqtb8idae7er4fm6aa7>: Cierre de sesion
+[18/09/2018 17:20:35] <1> <KARINA> <192.168.1.8> <6isqb05oqtb8idae7er4fm6aa7>: Inicio de sesion correcto
+[18/09/2018 18:47:23] <0> <KARINA> <192.168.1.8> <6isqb05oqtb8idae7er4fm6aa7>: Cierre de sesion
+[18/09/2018 18:47:29] <1> <karina> <192.168.1.8> <6isqb05oqtb8idae7er4fm6aa7>: Inicio de sesion correcto
+[18/09/2018 20:49:28] <1> <karina> <192.168.1.8> <51crmn1m2pg94qq3qsesbid4p6>: Inicio de sesion correcto
+[20/09/2018 10:15:34] <1> <karina> <192.168.1.8> <3povec90aalf3s0acv5rjk0gm3>: Inicio de sesion correcto
+[20/09/2018 10:29:16] <0> <karina> <192.168.1.8> <3povec90aalf3s0acv5rjk0gm3>: Cierre de sesion
+[20/09/2018 10:29:26] <1> <KARINA> <192.168.1.8> <3povec90aalf3s0acv5rjk0gm3>: Inicio de sesion correcto
+[25/09/2018 16:24:18] <1> <MARILYN> <192.168.1.8> <73i02b5bo60c4vgb03jlmp7qb2>: Inicio de sesion correcto
+[26/09/2018 16:19:03] <1> <MARILYN> <192.168.1.8> <scgeljb9paaakh01715rbetm01>: Inicio de sesion correcto
+[27/09/2018 12:41:38] <0> <MARILYN> <192.168.1.8> <scgeljb9paaakh01715rbetm01>: Cierre de sesion
+[27/09/2018 12:41:48] <1> <karina> <192.168.1.8> <scgeljb9paaakh01715rbetm01>: Inicio de sesion correcto
+[28/09/2018 17:52:13] <1> <MARILYN> <192.168.1.8> <sg7b0d176301tumj3uh65gr7u5>: Inicio de sesion correcto
+[03/10/2018 17:34:37] <0> <MARILYN> <192.168.1.8> <sg7b0d176301tumj3uh65gr7u5>: Cierre de sesion
+[03/10/2018 17:34:43] <1> <KARINA> <192.168.1.8> <sg7b0d176301tumj3uh65gr7u5>: Inicio de sesion correcto
+[08/10/2018 15:09:28] <1> <karina> <192.168.1.8> <tgs6f9t3khlnm3p92ubikhd5b6>: Inicio de sesion correcto
+[08/10/2018 19:53:11] <0> <karina> <192.168.1.8> <tgs6f9t3khlnm3p92ubikhd5b6>: Cierre de sesion
+[08/10/2018 19:53:20] <1> <KARINA> <192.168.1.8> <tgs6f9t3khlnm3p92ubikhd5b6>: Inicio de sesion correcto
+[08/10/2018 19:58:10] <0> <KARINA> <192.168.1.8> <tgs6f9t3khlnm3p92ubikhd5b6>: Cierre de sesion
+[09/10/2018 16:42:03] <1> <karina> <192.168.1.8> <ga8f6cuj81ujsimebdmd04uvt6>: Inicio de sesion correcto
+[09/10/2018 16:43:44] <1> <karina> <192.168.1.8> <ga8f6cuj81ujsimebdmd04uvt6>: Inicio de sesion correcto
+[13/10/2018 10:48:21] <1> <karina> <192.168.1.8> <ojelelac6hu1um7m6hupo0d0r1>: Inicio de sesion correcto
+[13/10/2018 17:06:38] <1> <karina> <192.168.1.8> <a6nsq2kqt2tj66pocgjrfkjla6>: Inicio de sesion correcto
+[22/10/2018 14:43:23] <1> <KARINA> <192.168.1.8> <jn4p33apvob9kg9e5ggn6be7k2>: Inicio de sesion correcto
+[22/10/2018 16:18:39] <1> <MARILYN> <192.168.1.8> <jn4p33apvob9kg9e5ggn6be7k2>: Inicio de sesion correcto
+[23/10/2018 15:53:09] <1> <MARILYN> <192.168.1.8> <25es0hlf9u1k9snq6p7a3dqnp1>: Inicio de sesion correcto
+[23/10/2018 19:28:29] <1> <karina> <192.168.1.8> <1bsdlq37n9gmgckue5f0tk02n3>: Inicio de sesion correcto
+[23/10/2018 19:29:39] <0> <karina> <192.168.1.8> <1bsdlq37n9gmgckue5f0tk02n3>: Cierre de sesion
+[23/10/2018 19:29:46] <1> <KARINA> <192.168.1.8> <1bsdlq37n9gmgckue5f0tk02n3>: Inicio de sesion correcto
+[24/10/2018 20:05:28] <1> <KARINA> <192.168.1.8> <ph132k3lqa490h1ckc0ukbddr6>: Inicio de sesion correcto
+[25/10/2018 16:33:44] <1> <MARILYN> <192.168.1.8> <2mdnrq3il07hrtoc6skt67sb74>: Inicio de sesion correcto
+[25/10/2018 17:54:56] <1> <karina> <192.168.1.8> <g66aioau46dgtlfh7denr1tfl6>: Inicio de sesion correcto
+[25/10/2018 18:35:19] <0> <karina> <192.168.1.8> <g66aioau46dgtlfh7denr1tfl6>: Cierre de sesion
+[25/10/2018 18:35:25] <1> <KARINA> <192.168.1.8> <g66aioau46dgtlfh7denr1tfl6>: Inicio de sesion correcto
+[26/10/2018 18:41:27] <1> <KARINA> <192.168.1.8> <ca7qtmjbpc4hp3mftks4itj3q5>: Inicio de sesion correcto
+[27/10/2018 13:26:34] <0> <KARINA> <192.168.1.8> <ca7qtmjbpc4hp3mftks4itj3q5>: Cierre de sesion
+[27/10/2018 13:27:06] <1> <karina> <192.168.1.8> <ca7qtmjbpc4hp3mftks4itj3q5>: Inicio de sesion correcto
+[27/10/2018 17:54:07] <0> <karina> <192.168.1.8> <ca7qtmjbpc4hp3mftks4itj3q5>: Cierre de sesion
+[27/10/2018 17:54:36] <1> <karina> <192.168.1.8> <ca7qtmjbpc4hp3mftks4itj3q5>: Inicio de sesion correcto
+[27/10/2018 18:02:34] <0> <karina> <192.168.1.8> <ca7qtmjbpc4hp3mftks4itj3q5>: Cierre de sesion
+[27/10/2018 18:02:44] <1> <KARINA> <192.168.1.8> <ca7qtmjbpc4hp3mftks4itj3q5>: Inicio de sesion correcto
+[27/10/2018 18:11:23] <0> <KARINA> <192.168.1.8> <ca7qtmjbpc4hp3mftks4itj3q5>: Cierre de sesion
+[27/10/2018 18:11:29] <1> <karina> <192.168.1.8> <ca7qtmjbpc4hp3mftks4itj3q5>: Inicio de sesion correcto
+[02/11/2018 19:27:12] <1> <KARINA> <192.168.1.8> <0dhlqv97cfjq84tva46ljrvmd2>: Inicio de sesion correcto
+[03/11/2018 18:10:38] <1> <KARINA> <192.168.1.8> <fkqf1a84idkn6v33fh9ug3pho2>: Inicio de sesion correcto
+[03/11/2018 18:21:35] <0> <KARINA> <192.168.1.8> <fkqf1a84idkn6v33fh9ug3pho2>: Cierre de sesion
+[03/11/2018 18:22:15] <1> <KARINA> <192.168.1.8> <fkqf1a84idkn6v33fh9ug3pho2>: Inicio de sesion correcto
+[03/11/2018 18:24:27] <0> <KARINA> <192.168.1.8> <fkqf1a84idkn6v33fh9ug3pho2>: Cierre de sesion
+[03/11/2018 18:24:37] <1> <KARINA> <192.168.1.8> <fkqf1a84idkn6v33fh9ug3pho2>: Inicio de sesion correcto
+[22/11/2018 14:24:36] <1> <MARILYN> <192.168.1.8> <4gj31fho7i4m3fvk2lpg1hvms2>: Inicio de sesion correcto
+[03/12/2018 20:10:38] <1> <MARILYN> <192.168.1.8> <k4vc2tdjevgri3gik6s8q8pkr7>: Inicio de sesion correcto
+[04/12/2018 19:49:05] <1> <MARILYN> <192.168.1.8> <7vq2s9r288rt16flo1gr1e1op6>: Inicio de sesion correcto
+[05/12/2018 13:13:04] <1> <MARILYN> <192.168.1.8> <8pi2v9utgfcuaeqtf2pv31a2r3>: Inicio de sesion correcto
+[11/12/2018 15:55:38] <1> <MARILYN> <192.168.1.8> <hn1lb9t9ob50ncl0s4qcefjg93>: Inicio de sesion correcto
+[12/12/2018 18:47:49] <1> <MARILYN> <192.168.1.8> <ddnoc3hcrhf1hpbg5bholqnpe0>: Inicio de sesion correcto
+[13/12/2018 10:51:49] <1> <karina> <192.168.1.8> <6f4qffgrljc49nrqufmn9daj92>: Inicio de sesion correcto
+[19/12/2018 14:52:09] <1> <karina> <192.168.1.8> <holtgnbq4r4ksb64cbvor2b4p7>: Inicio de sesion correcto
+[19/12/2018 14:52:19] <0> <karina> <192.168.1.8> <holtgnbq4r4ksb64cbvor2b4p7>: Cierre de sesion
+[19/12/2018 14:52:24] <1> <karina> <192.168.1.8> <holtgnbq4r4ksb64cbvor2b4p7>: Inicio de sesion correcto
+[21/12/2018 15:37:55] <1> <KARINA> <192.168.1.8> <fa3pcbbg4o1sagef1ahim4rt74>: Inicio de sesion correcto
+[24/12/2018 13:40:23] <1> <KARINA> <192.168.1.8> <vgughkf3bri63j6hvufv06q121>: Inicio de sesion correcto
+[24/12/2018 14:25:44] <1> <KARINA> <192.168.1.8> <vgughkf3bri63j6hvufv06q121>: Inicio de sesion correcto
+[24/12/2018 15:41:53] <1> <karina> <192.168.1.8> <vgughkf3bri63j6hvufv06q121>: Inicio de sesion correcto
+[26/12/2018 14:10:01] <1> <MARILYN> <192.168.1.8> <cq7kf9rqs851i108v8ago24522>: Inicio de sesion correcto
+[26/12/2018 14:10:56] <0> <MARILYN> <192.168.1.8> <cq7kf9rqs851i108v8ago24522>: Cierre de sesion
+[26/12/2018 14:11:06] <1> <KARINA> <192.168.1.8> <cq7kf9rqs851i108v8ago24522>: Inicio de sesion correcto
+[29/12/2018 15:30:22] <1> <KARINA> <192.168.1.8> <a3j3qpluclucdkkcj4vpqfgfm7>: Inicio de sesion correcto
+[02/01/2019 11:54:57] <1> <MARILYN> <192.168.1.8> <viuai8o8p400bvn5tfg96cj147>: Inicio de sesion correcto
+[08/01/2019 11:44:36] <1> <admin> <192.168.1.210> <mj5fb57funfk2fqi82pirubpe7>: Inicio de sesion correcto
+[08/01/2019 11:49:37] <0> <admin> <192.168.1.210> <mj5fb57funfk2fqi82pirubpe7>: Cierre de sesion
+[08/01/2019 12:25:55] <1> <yuleimis> <192.168.1.16> <umqsahqs9cio3su38l541mb3f3>: Inicio de sesion correcto
+[08/01/2019 12:31:17] <0> <yuleimis> <192.168.1.16> <umqsahqs9cio3su38l541mb3f3>: Cierre de sesion
+[08/01/2019 15:25:19] <1> <MARILYN> <192.168.1.16> <1e3og667t5qh592ah5cni2j4i7>: Inicio de sesion correcto
+[08/01/2019 15:34:15] <1> <elvira> <192.168.1.16> <1e3og667t5qh592ah5cni2j4i7>: Inicio de sesion correcto
+[09/01/2019 13:22:41] <1> <MARILYN> <192.168.1.16> <dbgq9ibc7ubqiit68657bea234>: Inicio de sesion correcto
+[08/03/2019 11:27:21] <1> <admin> <192.168.1.210> <gtmtr1vv44di3kke3qvujhb7s6>: Inicio de sesion correcto
+[08/03/2019 11:28:06] <0> <admin> <192.168.1.210> <gtmtr1vv44di3kke3qvujhb7s6>: Cierre de sesion
+[08/03/2019 11:28:27] <1> <marilyn> <192.168.1.210> <gtmtr1vv44di3kke3qvujhb7s6>: Inicio de sesion correcto
+[08/03/2019 18:20:32] <1> <admin> <192.168.1.212> <o17dsuog5vbivnktog9o1aose2>: Inicio de sesion correcto
+[08/03/2019 18:21:20] <0> <admin> <192.168.1.212> <o17dsuog5vbivnktog9o1aose2>: Cierre de sesion
+[08/03/2019 18:21:53] <1> <admin> <192.168.1.212> <o17dsuog5vbivnktog9o1aose2>: Inicio de sesion correcto
+[08/03/2019 18:22:55] <0> <admin> <192.168.1.212> <o17dsuog5vbivnktog9o1aose2>: Cierre de sesion
+[08/03/2019 18:23:11] <1> <marilyn> <192.168.1.212> <o17dsuog5vbivnktog9o1aose2>: Inicio de sesion correcto
+[08/03/2019 18:23:43] <0> <marilyn> <192.168.1.212> <o17dsuog5vbivnktog9o1aose2>: Cierre de sesion
+[08/03/2019 18:24:20] <1> <marilyn> <192.168.1.212> <o17dsuog5vbivnktog9o1aose2>: Inicio de sesion correcto
+[22/03/2019 11:50:10] <1> <MARILYN> <192.168.1.211> <tltjeevk5uofgeg1ireu2ffqh7>: Inicio de sesion correcto
+[22/03/2019 11:50:44] <0> <MARILYN> <192.168.1.211> <tltjeevk5uofgeg1ireu2ffqh7>: Cierre de sesion
+[22/03/2019 14:21:11] <1> <MARILYN> <192.168.1.211> <tltjeevk5uofgeg1ireu2ffqh7>: Inicio de sesion correcto
+[22/03/2019 14:32:47] <0> <MARILYN> <192.168.1.211> <tltjeevk5uofgeg1ireu2ffqh7>: Cierre de sesion
+[22/03/2019 19:12:22] <1> <MARILYN> <192.168.1.211> <tltjeevk5uofgeg1ireu2ffqh7>: Inicio de sesion correcto
+[03/04/2019 15:18:53] <1> <karina> <192.168.1.211> <30o38cml9ibnvmv7v3ijt2i6u7>: Inicio de sesion correcto
+[04/04/2019 13:54:43] <1> <MARILYN> <192.168.1.211> <9dvdgmpqjj43g7a6htb34cnls6>: Inicio de sesion correcto
+[12/04/2019 16:21:50] <1> <MARILYN> <192.168.1.211> <hd1u8kpnvb81fvhhaenj9jfnv3>: Inicio de sesion correcto
+[12/04/2019 17:02:58] <0> <MARILYN> <192.168.1.211> <hd1u8kpnvb81fvhhaenj9jfnv3>: Cierre de sesion
+[13/04/2019 11:20:03] <1> <MARILYN> <192.168.1.211> <eljc05q72fv1vl2cl89859e7b5>: Inicio de sesion correcto
+[13/04/2019 12:48:59] <0> <MARILYN> <192.168.1.211> <eljc05q72fv1vl2cl89859e7b5>: Cierre de sesion
+[13/04/2019 12:53:04] <1> <MARILYN> <192.168.1.211> <ub94gvq2dvei9c3s4lhui6rep4>: Inicio de sesion correcto
+[13/04/2019 13:04:50] <0> <MARILYN> <192.168.1.211> <ub94gvq2dvei9c3s4lhui6rep4>: Cierre de sesion
+[23/04/2019 10:34:13] <1> <admin> <192.168.1.210> <013ej4nqthicrko2ifkabp2436>: Inicio de sesion correcto
+[23/04/2019 10:39:59] <1> <elvira> <192.168.1.212> <29aq8f76pu7ta63nk8g4jtnsj6>: Inicio de sesion correcto
+[23/04/2019 11:11:53] <0> <admin> <192.168.1.210> <013ej4nqthicrko2ifkabp2436>: Cierre de sesion
+[23/04/2019 13:23:12] <1> <MARILYN> <192.168.1.211> <bc2ebj694uql70ae3ijdhrdiu4>: Inicio de sesion correcto
+[14/05/2019 12:21:29] <1> <MARILYN > <192.168.1.211> <4ctifus83hds0i257ed37au2k1>: Inicio de sesion correcto
+[20/06/2019 17:10:58] <1> <MARILYN> <192.168.1.211> <q8l79em9rceccqnkqmd4cehug7>: Inicio de sesion correcto
+[20/06/2019 17:11:06] <0> <MARILYN> <192.168.1.211> <q8l79em9rceccqnkqmd4cehug7>: Cierre de sesion
+[21/06/2019 13:10:48] <1> <marilyn> <192.168.1.211> <msphbkhg2abdlrbg10idkhbh42>: Inicio de sesion correcto
+[21/06/2019 18:12:08] <1> <MARILYN> <192.168.1.211> <il58hphi4rb1kl9df0ra4nsm17>: Inicio de sesion correcto
+[25/06/2019 12:28:08] <1> <MARILYN> <192.168.1.211> <e9vdogaa1v60tt947j4jklkel2>: Inicio de sesion correcto
+[12/10/2019 15:47:39] <1> <MARILYN> <192.168.1.5> <anfp55mncv723nni1iv8gabun2>: Inicio de sesion correcto
+[13/12/2019 12:26:35] <1> <admin> <192.168.1.210> <cvkg4r47njgtgsc9faopbmq7s4>: Inicio de sesion correcto
+[13/12/2019 12:27:04] <1> <admin> <192.168.1.210> <cvkg4r47njgtgsc9faopbmq7s4>: Inicio de sesion correcto
+[13/12/2019 12:28:20] <0> <admin> <192.168.1.210> <cvkg4r47njgtgsc9faopbmq7s4>: Cierre de sesion
+[13/12/2019 13:28:04] <1> <admin> <192.168.1.5> <knk7d2vd534mi4nla571iijpe3>: Inicio de sesion correcto
+[13/12/2019 13:29:20] <0> <admin> <192.168.1.5> <knk7d2vd534mi4nla571iijpe3>: Cierre de sesion
+[13/12/2019 13:29:32] <1> <luisa > <192.168.1.5> <knk7d2vd534mi4nla571iijpe3>: Inicio de sesion correcto
+[13/12/2019 13:29:40] <0> <luisa > <192.168.1.5> <knk7d2vd534mi4nla571iijpe3>: Cierre de sesion
+[13/12/2019 13:30:04] <1> <LUISA> <192.168.1.7> <28ib4uns50ogbumtsbuetj7h26>: Inicio de sesion correcto
+[13/12/2019 13:30:20] <0> <LUISA> <192.168.1.7> <28ib4uns50ogbumtsbuetj7h26>: Cierre de sesion
+[13/12/2019 13:30:52] <1> <LUISA> <192.168.1.7> <28ib4uns50ogbumtsbuetj7h26>: Inicio de sesion correcto
+[13/12/2019 13:32:58] <0> <LUISA> <192.168.1.7> <28ib4uns50ogbumtsbuetj7h26>: Cierre de sesion
+[14/12/2019 15:01:49] <1> <admin> <192.168.1.5> <225jvjkps1b9j77124ef8viju4>: Inicio de sesion correcto
+[14/12/2019 15:03:22] <0> <admin> <192.168.1.5> <225jvjkps1b9j77124ef8viju4>: Cierre de sesion
+[14/12/2019 15:03:29] <1> <elvira> <192.168.1.5> <225jvjkps1b9j77124ef8viju4>: Inicio de sesion correcto
+[14/12/2019 15:03:32] <0> <elvira> <192.168.1.5> <225jvjkps1b9j77124ef8viju4>: Cierre de sesion
+[14/12/2019 15:03:46] <1> <marilyn> <192.168.1.5> <225jvjkps1b9j77124ef8viju4>: Inicio de sesion correcto
+[14/12/2019 15:03:49] <0> <marilyn> <192.168.1.5> <225jvjkps1b9j77124ef8viju4>: Cierre de sesion
+[27/01/2020 11:40:06] <1> <ELVIRA> <192.168.1.5> <gcev19un8ckrrk2h48qgsbjo87>: Inicio de sesion correcto
+[27/01/2020 12:14:35] <1> <elvira> <192.168.1.4> <8uc73k9s7rl5tk7gplvvh56na3>: Inicio de sesion correcto
+[27/01/2020 12:26:52] <0> <elvira> <192.168.1.4> <8uc73k9s7rl5tk7gplvvh56na3>: Cierre de sesion
+[27/01/2020 12:27:06] <1> <elvira> <192.168.1.4> <8uc73k9s7rl5tk7gplvvh56na3>: Inicio de sesion correcto
+[27/01/2020 14:12:34] <1> <ELVIRA> <192.168.1.5> <bup4favtvlc4hofn0crklcl507>: Inicio de sesion correcto
+[27/01/2020 17:19:11] <1> <elvira> <192.168.1.4> <vs3lsktkv0qlk12k7i8cjog6l2>: Inicio de sesion correcto
+[27/01/2020 17:41:07] <1> <marilyn> <192.168.1.5> <bup4favtvlc4hofn0crklcl507>: Inicio de sesion correcto
+[28/01/2020 10:51:31] <1> <LUISA> <192.168.1.5> <e3nn1mhnjn6ut67h6hlqsb7rf2>: Inicio de sesion correcto
+[28/01/2020 11:02:45] <0> <LUISA> <192.168.1.5> <e3nn1mhnjn6ut67h6hlqsb7rf2>: Cierre de sesion
+[28/01/2020 11:02:52] <1> <LUISA> <192.168.1.5> <e3nn1mhnjn6ut67h6hlqsb7rf2>: Inicio de sesion correcto
+[28/01/2020 11:23:36] <1> <LUISA> <192.168.1.5> <63g9srotih7k532rrlsvre2on5>: Inicio de sesion correcto
+[28/01/2020 11:24:44] <1> <LUISA> <192.168.1.5> <s260tco5fc8v6qu7thbo0k0tl3>: Inicio de sesion correcto
+[28/01/2020 12:16:31] <0> <LUISA> <192.168.1.5> <s260tco5fc8v6qu7thbo0k0tl3>: Cierre de sesion
+[28/01/2020 12:16:42] <1> <LUISA> <192.168.1.5> <s260tco5fc8v6qu7thbo0k0tl3>: Inicio de sesion correcto
+[28/01/2020 12:22:43] <0> <LUISA> <192.168.1.5> <s260tco5fc8v6qu7thbo0k0tl3>: Cierre de sesion
+[28/01/2020 12:26:44] <1> <LUISA> <192.168.1.5> <s260tco5fc8v6qu7thbo0k0tl3>: Inicio de sesion correcto
+[28/01/2020 16:21:02] <0> <LUISA> <192.168.1.5> <s260tco5fc8v6qu7thbo0k0tl3>: Cierre de sesion
+[28/01/2020 17:12:27] <1> <ELVIRA> <192.168.1.5> <if9l9861moo0trtk0fajea3ij0>: Inicio de sesion correcto
+[28/01/2020 17:59:21] <0> <ELVIRA> <192.168.1.5> <if9l9861moo0trtk0fajea3ij0>: Cierre de sesion
+[28/01/2020 17:59:31] <1> <ELVIRA> <192.168.1.5> <if9l9861moo0trtk0fajea3ij0>: Inicio de sesion correcto
+[28/01/2020 18:02:43] <0> <ELVIRA> <192.168.1.5> <if9l9861moo0trtk0fajea3ij0>: Cierre de sesion
+[28/01/2020 18:03:02] <1> <ELVIRA> <192.168.1.5> <if9l9861moo0trtk0fajea3ij0>: Inicio de sesion correcto
+[28/01/2020 18:08:13] <1> <ELVIRA> <192.168.1.5> <2f1brc0oi1lkhe4h57sqv8pgk0>: Inicio de sesion correcto
+[28/01/2020 18:14:07] <1> <ELVIRA> <192.168.1.5> <4cft08f3a1gqi8gdrp4f5a6hm6>: Inicio de sesion correcto
+[28/01/2020 19:29:26] <0> <ELVIRA> <192.168.1.5> <4cft08f3a1gqi8gdrp4f5a6hm6>: Cierre de sesion
+[28/01/2020 10:38:39] <1> <LUISA> <192.168.1.5> <a9rv9p0ejf94ci55df7orsc0a5>: Inicio de sesion correcto
+[28/01/2020 11:43:49] <1> <LUISA> <192.168.1.5> <9d6d76fr7dingb7hr3ti3gugo7>: Inicio de sesion correcto
+[28/01/2020 14:32:04] <1> <LUISA> <192.168.1.5> <jnrfk0vop95vdmjmu3e1iiqgn7>: Inicio de sesion correcto
+[28/01/2020 16:24:31] <0> <LUISA> <192.168.1.5> <jnrfk0vop95vdmjmu3e1iiqgn7>: Cierre de sesion
+[28/01/2020 17:39:55] <1> <elvira> <192.168.1.5> <142q4oguqm4dgid3iiqc75kbv7>: Inicio de sesion correcto
+[28/01/2020 17:42:46] <0> <elvira> <192.168.1.5> <142q4oguqm4dgid3iiqc75kbv7>: Cierre de sesion
+[29/01/2020 17:43:28] <1> <elvira> <192.168.1.5> <142q4oguqm4dgid3iiqc75kbv7>: Inicio de sesion correcto
+[29/01/2020 20:02:21] <0> <elvira> <192.168.1.5> <142q4oguqm4dgid3iiqc75kbv7>: Cierre de sesion
+[30/01/2020 13:25:50] <1> <LUISA> <192.168.1.5> <j45am986n9s9r88lftij0tp6d0>: Inicio de sesion correcto
+[30/01/2020 16:08:32] <1> <LUISA> <192.168.1.7> <ub3a01bpr57d2eebbk9vso5hs6>: Inicio de sesion correcto
+[30/01/2020 16:11:13] <1> <LUISA> <192.168.1.7> <ub3a01bpr57d2eebbk9vso5hs6>: Inicio de sesion correcto
+[30/01/2020 16:46:09] <0> <LUISA> <192.168.1.5> <j45am986n9s9r88lftij0tp6d0>: Cierre de sesion
+[30/01/2020 17:12:50] <1> <LUISA> <192.168.1.7> <ub3a01bpr57d2eebbk9vso5hs6>: Inicio de sesion correcto
+[30/01/2020 17:50:30] <1> <elvira> <192.168.1.5> <44ftk34jje8senglqish95jnk4>: Inicio de sesion correcto
+[30/01/2020 18:35:26] <1> <LUISA> <192.168.1.7> <ub3a01bpr57d2eebbk9vso5hs6>: Inicio de sesion correcto
+[31/01/2020 14:19:47] <1> <LUISA> <192.168.1.5> <2ufguap9rtemle5neg4pf74fk5>: Inicio de sesion correcto
+[31/01/2020 15:37:30] <1> <LUISA> <192.168.1.7> <c1910rgjpv4faak186b1e6ptr4>: Inicio de sesion correcto
+[01/02/2020 10:25:33] <1> <elvira> <192.168.1.5> <f0al49t1r7905vhfjo0auqo5v6>: Inicio de sesion correcto
+[01/02/2020 11:26:42] <1> <LUISA> <192.168.1.7> <c1910rgjpv4faak186b1e6ptr4>: Inicio de sesion correcto
+[01/02/2020 12:20:19] <0> <elvira> <192.168.1.5> <f0al49t1r7905vhfjo0auqo5v6>: Cierre de sesion
+[01/02/2020 12:21:15] <1> <LUISA> <192.168.1.5> <ljj8f7r53fphk6rimkkm7tkee4>: Inicio de sesion correcto
+[01/02/2020 16:25:00] <0> <LUISA> <192.168.1.5> <ljj8f7r53fphk6rimkkm7tkee4>: Cierre de sesion
+[01/02/2020 16:43:56] <1> <karina> <192.168.1.5> <aj6evtqrie69c00tdhh4atdeu1>: Inicio de sesion correcto
+[01/02/2020 16:44:02] <0> <karina> <192.168.1.5> <aj6evtqrie69c00tdhh4atdeu1>: Cierre de sesion
+[01/02/2020 16:45:36] <1> <LUISA> <192.168.1.5> <aj6evtqrie69c00tdhh4atdeu1>: Inicio de sesion correcto
+[01/02/2020 17:25:15] <1> <ELVIRA> <192.168.1.5> <aj6evtqrie69c00tdhh4atdeu1>: Inicio de sesion correcto
+[01/02/2020 18:16:03] <0> <ELVIRA> <192.168.1.5> <aj6evtqrie69c00tdhh4atdeu1>: Cierre de sesion
+[01/02/2020 18:16:12] <1> <LUISA> <192.168.1.5> <aj6evtqrie69c00tdhh4atdeu1>: Inicio de sesion correcto
+[01/02/2020 19:08:58] <1> <LUISA> <192.168.1.5> <s664dag4ao8t81jkbj03v5or21>: Inicio de sesion correcto
+[03/02/2020 8:32:49] <1> <elvira> <192.168.1.5> <i4h28ag1k37sapnlov1eshq8v6>: Inicio de sesion correcto
+[01/02/2020 9:55:52] <1> <LUISA> <192.168.1.4> <6ddh8haed3bjoba5tfnv9js041>: Inicio de sesion correcto
+[01/02/2020 11:05:04] <1> <LUISA> <192.168.1.4> <6ddh8haed3bjoba5tfnv9js041>: Inicio de sesion correcto
+[01/02/2020 12:19:33] <0> <elvira> <192.168.1.5> <i4h28ag1k37sapnlov1eshq8v6>: Cierre de sesion
+[01/02/2020 12:22:40] <1> <ELVIRA> <192.168.1.5> <i4h28ag1k37sapnlov1eshq8v6>: Inicio de sesion correcto
+[03/02/2020 12:31:10] <0> <ELVIRA> <192.168.1.5> <i4h28ag1k37sapnlov1eshq8v6>: Cierre de sesion
+[03/02/2020 12:31:26] <1> <ELVIRA> <192.168.1.5> <i4h28ag1k37sapnlov1eshq8v6>: Inicio de sesion correcto
+[03/02/2020 14:57:29] <1> <LUISA> <192.168.1.4> <8j44iquon14coldotd2l0k9n26>: Inicio de sesion correcto
+[03/02/2020 15:10:12] <0> <LUISA> <192.168.1.4> <8j44iquon14coldotd2l0k9n26>: Cierre de sesion
+[03/02/2020 15:28:38] <1> <LUISA> <192.168.1.7> <c1910rgjpv4faak186b1e6ptr4>: Inicio de sesion correcto
+[03/02/2020 18:33:41] <1> <elvira> <192.168.1.4> <5vjk4ghq7vqc5981sc8ivecuc3>: Inicio de sesion correcto
+[03/02/2020 9:26:34] <1> <LUISA> <192.168.1.4> <5rvq32u423eseta3rk008aop74>: Inicio de sesion correcto
+[04/02/2020 15:57:21] <0> <LUISA> <192.168.1.4> <5rvq32u423eseta3rk008aop74>: Cierre de sesion
+[04/02/2020 16:29:59] <1> <LUISA> <192.168.1.5> <kpgkcgjrtqovmdfp7en5s7nrp2>: Inicio de sesion correcto
+[04/02/2020 17:04:06] <1> <ELVIRA> <192.168.1.5> <kpgkcgjrtqovmdfp7en5s7nrp2>: Inicio de sesion correcto
+[04/02/2020 17:15:45] <1> <ELVIRA> <192.168.1.5> <28of32d4aif13383kpg218f502>: Inicio de sesion correcto
+[05/02/2020 8:47:36] <1> <elvira> <192.168.1.5> <74frb5pjso7v4kgr4pftk2mmm6>: Inicio de sesion correcto
+[05/02/2020 11:20:57] <0> <LUISA> <192.168.1.7> <c1910rgjpv4faak186b1e6ptr4>: Cierre de sesion
+[05/02/2020 11:21:01] <1> <LUISA> <192.168.1.7> <c1910rgjpv4faak186b1e6ptr4>: Inicio de sesion correcto
+[04/02/2020 16:05:22] <1> <LUISA> <192.168.1.4> <v14r07uu4hl1i6232lqcjstsb3>: Inicio de sesion correcto
+[05/02/2020 16:37:58] <0> <elvira> <192.168.1.5> <74frb5pjso7v4kgr4pftk2mmm6>: Cierre de sesion
+[05/02/2020 18:19:44] <1> <ELVIRA> <192.168.1.5> <74frb5pjso7v4kgr4pftk2mmm6>: Inicio de sesion correcto
+[05/02/2020 10:11:21] <1> <LUISA> <192.168.1.5> <tql7khpng70u81p9e5f0kbp6q7>: Inicio de sesion correcto
+[06/02/2020 16:12:40] <0> <LUISA> <192.168.1.7> <c1910rgjpv4faak186b1e6ptr4>: Cierre de sesion
+[06/02/2020 16:12:42] <1> <LUISA> <192.168.1.7> <c1910rgjpv4faak186b1e6ptr4>: Inicio de sesion correcto
+[06/02/2020 16:19:55] <0> <LUISA> <192.168.1.7> <c1910rgjpv4faak186b1e6ptr4>: Cierre de sesion
+[06/02/2020 16:19:57] <1> <LUISA> <192.168.1.7> <c1910rgjpv4faak186b1e6ptr4>: Inicio de sesion correcto
+[06/02/2020 16:19:58] <1> <LUISA> <192.168.1.4> <qub481lh2qasqn20ji3ec4obm4>: Inicio de sesion correcto
+[06/02/2020 17:35:47] <1> <LUISA> <192.168.1.5> <50c44t7gpmbrrf7pgbnn40au34>: Inicio de sesion correcto
+[06/02/2020 18:19:59] <0> <LUISA> <192.168.1.5> <50c44t7gpmbrrf7pgbnn40au34>: Cierre de sesion
+[06/02/2020 19:44:01] <1> <ELVIRA> <192.168.1.5> <nrme3knnaqhu78uktctqclrr13>: Inicio de sesion correcto
+[06/02/2020 19:45:22] <0> <ELVIRA> <192.168.1.5> <nrme3knnaqhu78uktctqclrr13>: Cierre de sesion
+[07/02/2020 10:47:42] <1> <elvira> <192.168.1.5> <8ulmtc5psvfh3aah4uunhmo016>: Inicio de sesion correcto
+[07/02/2020 10:59:46] <1> <ELVIRA> <192.168.1.5> <4bkbpm0r1l9ue763k49mktbdc6>: Inicio de sesion correcto
+[07/02/2020 11:49:19] <1> <ELVIRA> <192.168.1.4> <u6d2eafr3ohhu057aa29gaf252>: Inicio de sesion correcto
+[07/02/2020 13:23:21] <0> <ELVIRA> <192.168.1.5> <4bkbpm0r1l9ue763k49mktbdc6>: Cierre de sesion
+[07/02/2020 13:55:35] <1> <LUISA> <192.168.1.5> <fbifdu6ccmtn00vm1qc67uugh3>: Inicio de sesion correcto
+[07/02/2020 14:06:57] <0> <ELVIRA> <192.168.1.4> <u6d2eafr3ohhu057aa29gaf252>: Cierre de sesion
+[07/02/2020 14:07:03] <1> <ELVIRA> <192.168.1.4> <u6d2eafr3ohhu057aa29gaf252>: Inicio de sesion correcto
+[07/02/2020 14:13:35] <1> <LUISA> <192.168.1.5> <qteqsql4la60mlpda7j1lcsn06>: Inicio de sesion correcto
+[07/02/2020 18:08:58] <1> <ELVIRA> <192.168.1.4> <u6d2eafr3ohhu057aa29gaf252>: Inicio de sesion correcto
+[07/02/2020 18:52:11] <0> <LUISA> <192.168.1.5> <qteqsql4la60mlpda7j1lcsn06>: Cierre de sesion
+[07/02/2020 19:01:26] <1> <ELVIRA> <192.168.1.4> <57k863qihtch5mtn3lhhdvm8b4>: Inicio de sesion correcto
+[08/02/2020 8:12:24] <1> <karina> <192.168.1.5> <2ru7ks0p9n8rp1skrlvjsdtbk7>: Inicio de sesion correcto
+[08/02/2020 8:15:40] <0> <karina> <192.168.1.5> <2ru7ks0p9n8rp1skrlvjsdtbk7>: Cierre de sesion
+[08/02/2020 11:13:44] <1> <ELVIRA> <192.168.1.4> <3141bkm9spe5r1kugrjtoovn46>: Inicio de sesion correcto
+[08/02/2020 12:33:16] <1> <LUISA> <192.168.1.5> <89vav8g6q48dbofhb4ornccpq3>: Inicio de sesion correcto
+[08/02/2020 13:45:03] <0> <LUISA> <192.168.1.5> <89vav8g6q48dbofhb4ornccpq3>: Cierre de sesion
+[08/02/2020 13:45:16] <1> <LUISA> <192.168.1.5> <89vav8g6q48dbofhb4ornccpq3>: Inicio de sesion correcto
+[08/02/2020 18:52:33] <0> <LUISA> <192.168.1.5> <89vav8g6q48dbofhb4ornccpq3>: Cierre de sesion
+[10/02/2020 15:33:20] <1> <ELVIRA> <192.168.1.4> <3141bkm9spe5r1kugrjtoovn46>: Inicio de sesion correcto
+[11/02/2020 10:48:41] <1> <LUISA> <192.168.1.5> <iq31h77i43pq9qddge2l2tucm2>: Inicio de sesion correcto
+[11/02/2020 12:15:50] <0> <LUISA> <192.168.1.5> <iq31h77i43pq9qddge2l2tucm2>: Cierre de sesion
+[11/02/2020 14:31:56] <1> <ELVIRA> <192.168.1.4> <n814t2lq27fat6mobg0o4i2h52>: Inicio de sesion correcto
+[11/02/2020 14:32:46] <1> <ELVIRA > <192.168.1.5> <v78ts528a9rfhllo7ec8l6o235>: Inicio de sesion correcto
+[12/02/2020 12:05:09] <1> <ELVIRA> <192.168.1.4> <3glrv9q5anclhkghak5kfuk4q1>: Inicio de sesion correcto
+[12/02/2020 13:39:29] <1> <LUISA> <192.168.1.5> <u3ct097pbibg3j9n9q8aogagu5>: Inicio de sesion correcto
+[12/02/2020 9:33:55] <1> <LUISA> <192.168.1.5> <okb8s9ab23c2d91tko1mnr4lk2>: Inicio de sesion correcto
+[12/02/2020 9:37:39] <1> <ELVIRA> <192.168.1.4> <icaif09gvd44oidpn8isluhsk1>: Inicio de sesion correcto
+[13/02/2020 10:56:25] <1> <LUISA> <192.168.1.5> <lh73rn0sprqfpcbm643n1lace0>: Inicio de sesion correcto
+[13/02/2020 11:03:58] <0> <LUISA> <192.168.1.5> <lh73rn0sprqfpcbm643n1lace0>: Cierre de sesion
+[13/02/2020 11:16:14] <1> <LUISA> <192.168.1.5> <0hn8onrqcnu52crl9k7shi5rq0>: Inicio de sesion correcto
+[13/02/2020 13:16:44] <0> <LUISA> <192.168.1.5> <0hn8onrqcnu52crl9k7shi5rq0>: Cierre de sesion
+[13/02/2020 15:10:42] <1> <LUISA> <192.168.1.5> <tee66p9sh2re6i1h4nlk7lnbp6>: Inicio de sesion correcto
+[14/02/2020 11:06:12] <1> <ELVIRA> <192.168.1.4> <r238shukrdgns7e4c42k59ivg2>: Inicio de sesion correcto
+[14/02/2020 11:37:58] <1> <LUISA> <192.168.1.5> <6qe5nbom1nf1brte27uio4tdt7>: Inicio de sesion correcto
+[13/02/2020 12:00:19] <1> <LUISA> <192.168.1.5> <v49ckb3714rlhm635ur3bt8t32>: Inicio de sesion correcto
+[13/02/2020 12:04:15] <0> <LUISA> <192.168.1.5> <v49ckb3714rlhm635ur3bt8t32>: Cierre de sesion
+[13/02/2020 12:17:41] <1> <LUISA> <192.168.1.5> <77gd657racqt9hp4js7tm3drr0>: Inicio de sesion correcto
+[13/02/2020 13:29:06] <0> <ELVIRA> <192.168.1.4> <r238shukrdgns7e4c42k59ivg2>: Cierre de sesion
+[13/02/2020 13:29:11] <1> <ELVIRA> <192.168.1.4> <r238shukrdgns7e4c42k59ivg2>: Inicio de sesion correcto
+[14/02/2020 18:00:04] <1> <LUISA> <192.168.1.5> <mm767nbgsfk52oh4952bvii5d5>: Inicio de sesion correcto
+[15/02/2020 11:14:49] <1> <ELVIRA> <192.168.1.4> <ao8uvgsm9c77fnq605078m0vn0>: Inicio de sesion correcto
+[15/02/2020 11:14:51] <1> <LUISA> <192.168.1.5> <02kt5saocdhqidq10jkvsr7o51>: Inicio de sesion correcto
+[15/02/2020 18:39:03] <1> <ELVIRA> <192.168.1.4> <ao8uvgsm9c77fnq605078m0vn0>: Inicio de sesion correcto
+[17/02/2020 9:13:22] <1> <ELVIRA> <192.168.1.4> <9itvfhtq4nqpje21ka5a5ou802>: Inicio de sesion correcto
+[16/02/2020 12:50:48] <1> <LUISA> <192.168.1.5> <nogkp49rncaa13vv6m1h4d2rq0>: Inicio de sesion correcto
+[16/02/2020 12:51:25] <0> <LUISA> <192.168.1.5> <nogkp49rncaa13vv6m1h4d2rq0>: Cierre de sesion
+[15/02/2020 12:52:00] <1> <LUISA> <192.168.1.5> <pnvf9acshiueqseli72dbae1a2>: Inicio de sesion correcto
+[15/02/2020 12:56:25] <0> <LUISA> <192.168.1.5> <pnvf9acshiueqseli72dbae1a2>: Cierre de sesion
+[15/02/2020 12:56:40] <1> <LUISA> <192.168.1.5> <pnvf9acshiueqseli72dbae1a2>: Inicio de sesion correcto
+[15/02/2020 12:58:21] <0> <LUISA> <192.168.1.5> <pnvf9acshiueqseli72dbae1a2>: Cierre de sesion
+[15/02/2020 13:13:05] <1> <LUISA> <192.168.1.5> <qdnoa44i8fo8ke0u64v1b0g0u1>: Inicio de sesion correcto
+[17/02/2020 15:05:23] <0> <ELVIRA> <192.168.1.4> <9itvfhtq4nqpje21ka5a5ou802>: Cierre de sesion
+[17/02/2020 15:05:30] <1> <ELVIRA> <192.168.1.4> <9itvfhtq4nqpje21ka5a5ou802>: Inicio de sesion correcto
+[17/02/2020 16:37:01] <0> <LUISA> <192.168.1.5> <qdnoa44i8fo8ke0u64v1b0g0u1>: Cierre de sesion
+[17/02/2020 19:17:32] <1> <LUISA> <192.168.1.5> <95og8sd01uqn2vncs74phefhg6>: Inicio de sesion correcto
+[18/02/2020 9:41:45] <1> <ELVIRA> <192.168.1.4> <9itvfhtq4nqpje21ka5a5ou802>: Inicio de sesion correcto
+[18/02/2020 11:51:35] <1> <LUISA> <192.168.1.5> <9qns2m1oj00p8rdrmo17mvit66>: Inicio de sesion correcto
+[19/02/2020 12:01:38] <1> <ELVIRA> <192.168.1.4> <0gsu6foeume8ns5uob2rpn9jg1>: Inicio de sesion correcto
+[19/02/2020 12:27:34] <1> <ELVIRA> <192.168.1.4> <0gsu6foeume8ns5uob2rpn9jg1>: Inicio de sesion correcto
+[19/02/2020 13:12:15] <1> <LUISA> <192.168.1.5> <r5hdo1q1bcqmpgccg0477fan23>: Inicio de sesion correcto
+[19/02/2020 13:12:23] <0> <LUISA> <192.168.1.5> <r5hdo1q1bcqmpgccg0477fan23>: Cierre de sesion
+[19/02/2020 13:12:30] <1> <LUISA> <192.168.1.5> <r5hdo1q1bcqmpgccg0477fan23>: Inicio de sesion correcto
+[19/02/2020 19:24:27] <1> <LUISA> <192.168.1.5> <5ju0ilu1h283bhb4om2rtb7h10>: Inicio de sesion correcto
+[19/02/2020 19:48:54] <0> <LUISA> <192.168.1.5> <5ju0ilu1h283bhb4om2rtb7h10>: Cierre de sesion
+[19/02/2020 19:52:19] <1> <LUISA> <192.168.1.5> <tavq23s9p0qkifkik195eqrip0>: Inicio de sesion correcto
+[19/02/2020 19:57:13] <0> <LUISA> <192.168.1.5> <tavq23s9p0qkifkik195eqrip0>: Cierre de sesion
+[20/02/2020 11:20:04] <1> <ELVIRA> <192.168.1.4> <rnr264dapr78rskhkrmsnadcb0>: Inicio de sesion correcto
+[20/02/2020 11:20:08] <0> <ELVIRA> <192.168.1.4> <rnr264dapr78rskhkrmsnadcb0>: Cierre de sesion
+[20/02/2020 11:20:46] <1> <ELVIRA> <192.168.1.4> <rnr264dapr78rskhkrmsnadcb0>: Inicio de sesion correcto
+[20/02/2020 12:22:13] <1> <LUISA> <192.168.1.5> <pcivqqac1v9vihps9q1tvsohk0>: Inicio de sesion correcto
+[20/02/2020 12:44:00] <0> <LUISA> <192.168.1.5> <pcivqqac1v9vihps9q1tvsohk0>: Cierre de sesion
+[19/02/2020 15:09:17] <1> <LUISA> <192.168.1.5> <pcivqqac1v9vihps9q1tvsohk0>: Inicio de sesion correcto
+[19/02/2020 15:16:12] <1> <LUISA> <192.168.1.7> <c1910rgjpv4faak186b1e6ptr4>: Inicio de sesion correcto
+[19/02/2020 15:19:40] <1> <admin> <192.168.1.210> <c5n7ho9ssj5s608dfuqs3jhml7>: Inicio de sesion correcto
+[19/02/2020 15:22:14] <0> <admin> <192.168.1.210> <c5n7ho9ssj5s608dfuqs3jhml7>: Cierre de sesion
+[19/02/2020 15:22:53] <1> <Jadid> <192.168.1.7> <c1910rgjpv4faak186b1e6ptr4>: Inicio de sesion correcto
+[20/02/2020 15:29:27] <1> <Jadid> <192.168.1.7> <c1910rgjpv4faak186b1e6ptr4>: Inicio de sesion correcto
+[20/02/2020 15:54:15] <1> <LUISA> <192.168.1.5> <artm51gjlgts5obsa9bc5d9gs3>: Inicio de sesion correcto
+[20/02/2020 13:33:21] <1> <ELVIRA> <192.168.1.4> <rmmkfb27q84g2om2otqiffhd54>: Inicio de sesion correcto
+[21/02/2020 14:02:07] <1> <ELVIRA> <192.168.1.4> <rmmkfb27q84g2om2otqiffhd54>: Inicio de sesion correcto
+[21/02/2020 14:07:32] <1> <ELVIRA> <192.168.1.4> <rmmkfb27q84g2om2otqiffhd54>: Inicio de sesion correcto
+[21/02/2020 14:22:25] <0> <ELVIRA> <192.168.1.4> <rmmkfb27q84g2om2otqiffhd54>: Cierre de sesion
+[21/02/2020 14:26:51] <1> <ELVIRA> <192.168.1.4> <h7blr2m8ctt67e5nnct0gvpqp4>: Inicio de sesion correcto
+[21/02/2020 17:16:50] <1> <Jadid> <192.168.1.4> <unm7krscnpbmdhchj9iqkhcui2>: Inicio de sesion correcto
+[20/02/2020 17:39:11] <1> <LUISA> <192.168.1.5> <7n40cnbou7af9na8ig0s77tkm0>: Inicio de sesion correcto
+[20/02/2020 18:00:51] <1> <ELVIRA> <192.168.1.4> <unm7krscnpbmdhchj9iqkhcui2>: Inicio de sesion correcto
+[20/02/2020 18:05:19] <0> <LUISA> <192.168.1.5> <7n40cnbou7af9na8ig0s77tkm0>: Cierre de sesion
+[21/02/2020 18:42:47] <0> <ELVIRA> <192.168.1.4> <unm7krscnpbmdhchj9iqkhcui2>: Cierre de sesion
+[21/02/2020 18:43:01] <1> <Jadid > <192.168.1.4> <unm7krscnpbmdhchj9iqkhcui2>: Inicio de sesion correcto
+[22/02/2020 12:12:15] <1> <Jadid> <192.168.1.7> <r5hg0lt9jmkegnvgfv1jepvj76>: Inicio de sesion correcto
+[22/02/2020 13:00:28] <1> <ELVIRA> <192.168.1.4> <40c1ntcbv5s8mdet0l5dld58t7>: Inicio de sesion correcto
+[22/02/2020 13:13:40] <1> <ELVIRA> <192.168.1.4> <40c1ntcbv5s8mdet0l5dld58t7>: Inicio de sesion correcto
+[22/02/2020 14:13:48] <0> <ELVIRA> <192.168.1.4> <40c1ntcbv5s8mdet0l5dld58t7>: Cierre de sesion
+[22/02/2020 14:14:01] <1> <Jadid> <192.168.1.4> <40c1ntcbv5s8mdet0l5dld58t7>: Inicio de sesion correcto
+[22/02/2020 15:46:58] <0> <Jadid> <192.168.1.4> <40c1ntcbv5s8mdet0l5dld58t7>: Cierre de sesion
+[22/02/2020 15:47:21] <1> <ELVIRA> <192.168.1.4> <40c1ntcbv5s8mdet0l5dld58t7>: Inicio de sesion correcto
+[22/02/2020 16:43:04] <1> <LUISA> <192.168.1.5> <gu15jjhjq3o1nrn0r2lhqto3q3>: Inicio de sesion correcto
+[22/02/2020 17:55:02] <1> <LUISA> <192.168.1.5> <ig222upoodp8o37l07ej5fctc1>: Inicio de sesion correcto
+[21/02/2020 18:17:37] <0> <ELVIRA> <192.168.1.4> <40c1ntcbv5s8mdet0l5dld58t7>: Cierre de sesion
+[21/02/2020 18:19:22] <0> <LUISA> <192.168.1.5> <ig222upoodp8o37l07ej5fctc1>: Cierre de sesion
+[24/02/2020 10:27:45] <1> <ELVIRA> <192.168.1.4> <g0ihijuqq1hciajtjva1k6c5f1>: Inicio de sesion correcto
+[24/02/2020 10:45:41] <1> <ELVIRA> <192.168.1.4> <g0ihijuqq1hciajtjva1k6c5f1>: Inicio de sesion correcto
+[22/02/2020 18:13:00] <0> <ELVIRA> <192.168.1.4> <g0ihijuqq1hciajtjva1k6c5f1>: Cierre de sesion
+[22/02/2020 18:13:15] <1> <Jadid> <192.168.1.4> <g0ihijuqq1hciajtjva1k6c5f1>: Inicio de sesion correcto
+[22/02/2020 19:45:38] <1> <LUISA> <192.168.1.5> <5i7c0digcdn0godbjq175gf460>: Inicio de sesion correcto
+[22/02/2020 19:57:00] <0> <LUISA> <192.168.1.5> <5i7c0digcdn0godbjq175gf460>: Cierre de sesion
+[25/02/2020 10:20:21] <1> <LUISA> <192.168.1.5> <e79r08r61vs0clajkt0e93flf0>: Inicio de sesion correcto
+[25/02/2020 13:38:05] <1> <Jadid> <192.168.1.5> <nb4opssnqivb0qli7ppt5tae60>: Inicio de sesion correcto
+[25/02/2020 14:27:33] <1> <ELVIRA> <192.168.1.4> <aiblqg0v6at7gtol5e7tiavgm6>: Inicio de sesion correcto
+[25/02/2020 15:04:06] <0> <ELVIRA> <192.168.1.4> <aiblqg0v6at7gtol5e7tiavgm6>: Cierre de sesion
+[25/02/2020 15:04:44] <1> <Jadid> <192.168.1.4> <aiblqg0v6at7gtol5e7tiavgm6>: Inicio de sesion correcto
+[25/02/2020 15:17:01] <0> <Jadid> <192.168.1.4> <aiblqg0v6at7gtol5e7tiavgm6>: Cierre de sesion
+[25/02/2020 15:53:45] <1> <Jadid> <192.168.1.7> <r5hg0lt9jmkegnvgfv1jepvj76>: Inicio de sesion correcto
+[25/02/2020 16:13:36] <1> <ELVIRA> <192.168.1.4> <aiblqg0v6at7gtol5e7tiavgm6>: Inicio de sesion correcto
+[25/02/2020 18:05:20] <1> <ELVIRA> <192.168.1.4> <aiblqg0v6at7gtol5e7tiavgm6>: Inicio de sesion correcto
+[26/02/2020 9:21:36] <1> <ELVIRA> <192.168.1.4> <kafl4ugt0m2d6a5aratvkrpjg5>: Inicio de sesion correcto
+[26/02/2020 13:56:14] <0> <ELVIRA> <192.168.1.4> <kafl4ugt0m2d6a5aratvkrpjg5>: Cierre de sesion
+[26/02/2020 13:56:48] <1> <Jadid > <192.168.1.4> <kafl4ugt0m2d6a5aratvkrpjg5>: Inicio de sesion correcto
+[26/02/2020 18:04:15] <1> <LUISA> <192.168.1.5> <irvc4q0k3v2ab3pc67tjr7v7m5>: Inicio de sesion correcto
+[26/02/2020 18:06:23] <0> <LUISA> <192.168.1.5> <irvc4q0k3v2ab3pc67tjr7v7m5>: Cierre de sesion
+[27/02/2020 8:40:27] <1> <ELVIRA> <192.168.1.4> <kafl4ugt0m2d6a5aratvkrpjg5>: Inicio de sesion correcto
+[27/02/2020 9:17:23] <1> <ELVIRA> <192.168.1.4> <p5593kuq229tqlv06tlv385t17>: Inicio de sesion correcto
+[27/02/2020 10:41:12] <1> <LUISA> <192.168.1.5> <qifkdas1sn636a5m186ftkhd80>: Inicio de sesion correcto
+[27/02/2020 11:23:43] <0> <LUISA> <192.168.1.5> <qifkdas1sn636a5m186ftkhd80>: Cierre de sesion
+[27/02/2020 11:55:28] <1> <Jadid> <192.168.1.4> <23cia0o8mkbn5d44uvj5rq0d61>: Inicio de sesion correcto
+[27/02/2020 14:02:34] <1> <LUISA> <192.168.1.5> <7ej3kq6un1f6d5e5gk9op867n1>: Inicio de sesion correcto
+[27/02/2020 14:06:46] <1> <LUISA> <192.168.1.5> <8kv90tftjtc09v5qosbtet80b7>: Inicio de sesion correcto
+[27/02/2020 14:51:14] <1> <LUISA> <192.168.1.5> <8kv90tftjtc09v5qosbtet80b7>: Inicio de sesion correcto
+[27/02/2020 15:25:08] <0> <LUISA> <192.168.1.5> <8kv90tftjtc09v5qosbtet80b7>: Cierre de sesion
+[27/02/2020 15:34:26] <1> <LUISA> <192.168.1.5> <nj8ch4ri9uu6i6nh572n53oea1>: Inicio de sesion correcto
+[27/02/2020 15:43:43] <0> <LUISA> <192.168.1.5> <nj8ch4ri9uu6i6nh572n53oea1>: Cierre de sesion
+[28/02/2020 11:36:09] <1> <Jadid > <192.168.1.4> <rp1j17a2g402dba767ngne48i6>: Inicio de sesion correcto
+[28/02/2020 15:40:18] <1> <LUISA> <192.168.1.5> <nr1hq3f68qsr81ogvnqic1h6o1>: Inicio de sesion correcto
+[28/02/2020 17:26:08] <1> <LUISA> <192.168.1.5> <vt98c8kouskc9dvo5scda817t5>: Inicio de sesion correcto
+[28/02/2020 17:53:42] <1> <LUISA> <192.168.1.5> <vt98c8kouskc9dvo5scda817t5>: Inicio de sesion correcto
+[28/02/2020 18:27:42] <0> <LUISA> <192.168.1.5> <vt98c8kouskc9dvo5scda817t5>: Cierre de sesion
+[28/02/2020 18:27:58] <1> <Jadid> <192.168.1.5> <vt98c8kouskc9dvo5scda817t5>: Inicio de sesion correcto
+[28/02/2020 19:41:20] <0> <Jadid > <192.168.1.4> <rp1j17a2g402dba767ngne48i6>: Cierre de sesion
+[28/02/2020 19:41:56] <0> <Jadid> <192.168.1.5> <vt98c8kouskc9dvo5scda817t5>: Cierre de sesion
+[28/02/2020 11:47:30] <1> <LUISA> <192.168.1.5> <9gegle7kotuld2sq8sc0ldg5a0>: Inicio de sesion correcto
+[29/02/2020 12:18:09] <0> <LUISA> <192.168.1.5> <9gegle7kotuld2sq8sc0ldg5a0>: Cierre de sesion
+[29/02/2020 14:17:37] <1> <ELVIRA> <192.168.1.4> <k437cbk715c88asd66q64rbhp4>: Inicio de sesion correcto
+[29/02/2020 14:25:50] <1> <LUISA> <192.168.1.5> <c148p8bm95vt7b6on6phvgf582>: Inicio de sesion correcto
+[29/02/2020 15:23:30] <1> <Jadid> <192.168.1.7> <r5hg0lt9jmkegnvgfv1jepvj76>: Inicio de sesion correcto
+[28/02/2020 15:24:20] <1> <Jadid> <192.168.1.7> <r5hg0lt9jmkegnvgfv1jepvj76>: Inicio de sesion correcto
+[29/02/2020 15:37:34] <1> <LUISA> <192.168.1.5> <c148p8bm95vt7b6on6phvgf582>: Inicio de sesion correcto
+[29/02/2020 17:30:00] <0> <LUISA> <192.168.1.5> <c148p8bm95vt7b6on6phvgf582>: Cierre de sesion
+[02/03/2020 9:19:10] <1> <ELVIRA> <192.168.1.4> <jelc8ter9sd9rt2c57r77053r6>: Inicio de sesion correcto
+[02/03/2020 9:21:40] <1> <admin> <192.168.1.4> <jelc8ter9sd9rt2c57r77053r6>: Inicio de sesion correcto
+[02/03/2020 9:35:46] <0> <admin> <192.168.1.4> <jelc8ter9sd9rt2c57r77053r6>: Cierre de sesion
+[29/02/2020 10:26:10] <1> <Jadid> <192.168.1.4> <jelc8ter9sd9rt2c57r77053r6>: Inicio de sesion correcto
+[29/02/2020 11:34:36] <0> <Jadid> <192.168.1.4> <jelc8ter9sd9rt2c57r77053r6>: Cierre de sesion
+[29/02/2020 12:21:34] <1> <ELVIRA> <192.168.1.4> <jelc8ter9sd9rt2c57r77053r6>: Inicio de sesion correcto
+[29/02/2020 13:20:46] <1> <Jadid> <192.168.1.7> <7675nipfucfvkrr16tm2rfl5c7>: Inicio de sesion correcto
+[29/02/2020 15:50:02] <1> <Jadid> <192.168.1.5> <4s7vquadep1f5de98iijtpnae3>: Inicio de sesion correcto
+[02/03/2020 16:09:58] <0> <Jadid> <192.168.1.5> <4s7vquadep1f5de98iijtpnae3>: Cierre de sesion
+[02/03/2020 16:10:12] <1> <Jadid> <192.168.1.5> <4s7vquadep1f5de98iijtpnae3>: Inicio de sesion correcto
+[29/02/2020 13:56:28] <1> <Jadid> <192.168.1.5> <squbeaql1l5qt8cau5if0q2ku1>: Inicio de sesion correcto
+[29/02/2020 15:08:58] <1> <admin> <186.169.144.36> <2lbok2sme1nggsinmpk9oj9d50>: Inicio de sesion correcto
+[29/02/2020 18:59:12] <1> <admin> <186.169.144.36> <i4t6s3acmfi5ct07r56hc3a0n3>: Inicio de sesion correcto
+[04/03/2020 12:20:43] <1> <ELVIRA> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Inicio de sesion correcto
+[04/03/2020 12:24:38] <0> <ELVIRA> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Cierre de sesion
+[04/03/2020 12:24:48] <1> <admin> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Inicio de sesion correcto
+[04/03/2020 12:28:45] <0> <admin> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Cierre de sesion
+[04/03/2020 12:28:53] <1> <admin> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Inicio de sesion correcto
+[04/03/2020 12:36:49] <0> <admin> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Cierre de sesion
+[04/03/2020 12:36:55] <1> <ELVIRA> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Inicio de sesion correcto
+[04/03/2020 12:37:11] <0> <ELVIRA> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Cierre de sesion
+[04/03/2020 12:37:20] <1> <ELVIRA> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Inicio de sesion correcto
+[04/03/2020 12:41:28] <0> <ELVIRA> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Cierre de sesion
+[04/03/2020 12:41:35] <1> <ELVIRA> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Inicio de sesion correcto
+[04/03/2020 12:48:42] <0> <ELVIRA> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Cierre de sesion
+[04/03/2020 12:48:59] <1> <admin> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Inicio de sesion correcto
+[04/03/2020 12:51:07] <0> <admin> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Cierre de sesion
+[04/03/2020 12:51:41] <1> <betty> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Inicio de sesion correcto
+[04/03/2020 12:53:51] <0> <betty> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Cierre de sesion
+[04/03/2020 12:54:09] <1> <betty> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Inicio de sesion correcto
+[04/03/2020 12:57:53] <0> <betty> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Cierre de sesion
+[04/03/2020 12:58:28] <1> <ELVIRA> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Inicio de sesion correcto
+[04/03/2020 13:42:52] <1> <Jadid> <192.168.1.5> <6hkjbvvhje7ltm2cb7afgemj43>: Inicio de sesion correcto
+[04/03/2020 14:18:25] <1> <ELVIRA> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Inicio de sesion correcto
+[04/03/2020 14:48:41] <1> <ELVIRA> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Inicio de sesion correcto
+[04/03/2020 16:26:52] <0> <ELVIRA> <192.168.1.4> <aheb8m1jnb8il2c63tqkmq0cj5>: Cierre de sesion
+[05/03/2020 9:49:41] <1> <ELVIRA> <192.168.1.4> <o9g2smquk4uc1mv4eu5caagpk0>: Inicio de sesion correcto
+[05/03/2020 12:10:43] <1> <Jadid> <192.168.1.5> <590jgt7cva04a3lk4kjhdfnt43>: Inicio de sesion correcto
+[06/03/2020 12:11:18] <1> <Jadid> <192.168.1.5> <b03iplg37tg37m4v8k6qtep8t5>: Inicio de sesion correcto
+[07/03/2020 11:16:34] <1> <Jadid > <192.168.1.5> <rs5n2b67bv6m189p588l0vv597>: Inicio de sesion correcto
+[07/03/2020 11:29:42] <1> <ELVIRA> <192.168.1.4> <miebae9dtqq3o6stm5140al0k5>: Inicio de sesion correcto
+[07/03/2020 18:24:38] <1> <admin> <190.249.156.102> <cq8r3bouihr9i7o70clmnijgr1>: Inicio de sesion correcto
+[07/03/2020 18:24:43] <0> <admin> <190.249.156.102> <cq8r3bouihr9i7o70clmnijgr1>: Cierre de sesion
+[09/03/2020 8:58:41] <1> <Jadid> <192.168.1.5> <tib97aqjv3d1g3kvshpjbia4i0>: Inicio de sesion correcto
+[09/03/2020 9:23:42] <1> <ELVIRA> <192.168.1.4> <75p6juiruv87uqsrqspbjkh1q2>: Inicio de sesion correcto
+[09/03/2020 9:45:27] <1> <admin> <192.168.1.4> <jfq6o9bhln7mtsmranc1199pi2>: Inicio de sesion correcto
+[09/03/2020 9:46:26] <0> <admin> <192.168.1.4> <jfq6o9bhln7mtsmranc1199pi2>: Cierre de sesion
+[09/03/2020 9:46:52] <1> <MARGARITA> <192.168.1.4> <d74mqiagitpkd1t081pmsrq611>: Inicio de sesion correcto
+[09/03/2020 9:59:14] <1> <admin> <192.168.1.210> <8b0k8ev8mvou702ps4o3fo8ga0>: Inicio de sesion correcto
+[09/03/2020 10:10:20] <1> <ELVIRA> <192.168.1.4> <9phdlbe1snfl231isg7g3vr625>: Inicio de sesion correcto
+[10/03/2020 10:33:29] <1> <Jadid> <192.168.1.5> <m94gtomv5ncgcta7p5fgccffo3>: Inicio de sesion correcto
+[10/03/2020 12:48:01] <1> <ELVIRA> <192.168.1.4> <r4379km1ao217ngafmi64rnk53>: Inicio de sesion correcto
+[11/03/2020 11:44:04] <1> <Jadid> <192.168.1.5> <f2fnnr7p7p8opk70kuhhm998f0>: Inicio de sesion correcto
+[11/03/2020 12:04:41] <1> <Jadid> <192.168.1.4> <r4379km1ao217ngafmi64rnk53>: Inicio de sesion correcto
+[12/03/2020 9:48:41] <1> <admin> <192.168.1.5> <v93lpi5uvvsgr3tu80rsbce302>: Inicio de sesion correcto
+[12/03/2020 9:48:45] <0> <admin> <192.168.1.5> <v93lpi5uvvsgr3tu80rsbce302>: Cierre de sesion
+[12/03/2020 11:44:02] <1> <Jadid> <192.168.1.5> <3ikeikvoeb0dmh0sdvr8lcrjl1>: Inicio de sesion correcto
+[13/03/2020 10:52:52] <1> <ELVIRA> <192.168.1.4> <1bp2d6ssgu9qkes8r82mfdpf23>: Inicio de sesion correcto
+[13/03/2020 17:45:00] <1> <BETTY> <192.168.1.4> <1bp2d6ssgu9qkes8r82mfdpf23>: Inicio de sesion correcto
+[13/03/2020 17:47:53] <0> <BETTY> <192.168.1.4> <1bp2d6ssgu9qkes8r82mfdpf23>: Cierre de sesion
+[14/03/2020 11:33:11] <1> <Jadid> <192.168.1.5> <kvnbrn1pdfgcalppgutc6b4ru4>: Inicio de sesion correcto
+[14/03/2020 11:43:59] <1> <ELVIRA> <192.168.1.4> <1bp2d6ssgu9qkes8r82mfdpf23>: Inicio de sesion correcto
+[14/03/2020 16:14:18] <1> <admin> <186.1.128.65> <609fp27d7vt1hp59asl2tfoda5>: Inicio de sesion correcto
+[14/03/2020 16:16:25] <0> <admin> <186.1.128.65> <609fp27d7vt1hp59asl2tfoda5>: Cierre de sesion
+[14/03/2020 17:23:06] <1> <admin> <186.1.128.65> <dij1jj8u50e4uqres00tebmab1>: Inicio de sesion correcto
+[14/03/2020 19:35:41] <1> <admin> <186.1.128.65> <ctrr3cbk9na0k6bs3qq9booer1>: Inicio de sesion correcto
+[14/03/2020 19:36:37] <1> <admin> <186.1.128.65> <ctrr3cbk9na0k6bs3qq9booer1>: Inicio de sesion correcto
+[16/03/2020 11:10:38] <1> <Jadid> <192.168.1.5> <29f6godjr49rmde79k0i4iucm5>: Inicio de sesion correcto
+[16/03/2020 12:53:26] <1> <ELVIRA> <192.168.1.4> <1bp2d6ssgu9qkes8r82mfdpf23>: Inicio de sesion correcto
+[17/03/2020 11:06:22] <1> <Jadid> <192.168.1.5> <7rtkmr277e0d3cmvbl16pvbsm0>: Inicio de sesion correcto
+[19/03/2020 10:50:08] <1> <Jadid> <192.168.1.5> <otluub1ginan9c9soh6t240mf5>: Inicio de sesion correcto
+[20/03/2020 8:14:21] <1> <Jadid> <192.168.1.5> <lhe30o9p8horq5l0e72bghu1i5>: Inicio de sesion correcto
+[22/09/2020 16:29:21] <1> <ELVIRA> <192.168.1.4> <b13aui5kolvb0pr65a86nah9o2>: Inicio de sesion correcto
+[22/09/2020 16:51:23] <0> <ELVIRA> <192.168.1.4> <b13aui5kolvb0pr65a86nah9o2>: Cierre de sesion
+[29/09/2020 11:25:52] <1> <ELVIRA> <192.168.1.4> <jpopqqujtpctg31ffr5eg7k033>: Inicio de sesion correcto
+[29/09/2020 12:19:42] <0> <ELVIRA> <192.168.1.4> <jpopqqujtpctg31ffr5eg7k033>: Cierre de sesion
+[29/09/2020 12:19:50] <1> <ELVIRA> <192.168.1.4> <jpopqqujtpctg31ffr5eg7k033>: Inicio de sesion correcto
+[29/09/2020 17:03:13] <1> <ELVIRA> <192.168.1.4> <jpopqqujtpctg31ffr5eg7k033>: Inicio de sesion correcto
+[29/09/2020 17:33:23] <0> <ELVIRA> <192.168.1.4> <jpopqqujtpctg31ffr5eg7k033>: Cierre de sesion
+[29/09/2020 18:01:40] <1> <ELVIRA> <192.168.1.4> <h3qg86hi1lg272dsaiflmpcdb3>: Inicio de sesion correcto
+[06/10/2020 12:10:28] <1> <Jadid> <192.168.1.4> <45ebsi8tr9bjh2eib1vut2t6t2>: Inicio de sesion correcto
+[06/10/2020 12:18:25] <0> <Jadid> <192.168.1.4> <45ebsi8tr9bjh2eib1vut2t6t2>: Cierre de sesion
+[06/10/2020 12:18:36] <1> <Jadid> <192.168.1.4> <45ebsi8tr9bjh2eib1vut2t6t2>: Inicio de sesion correcto
+[07/10/2020 17:17:57] <1> <Jadid> <192.168.1.4> <45ebsi8tr9bjh2eib1vut2t6t2>: Inicio de sesion correcto
+[09/10/2020 10:42:59] <1> <Jadid> <192.168.1.5> <g7akbmdpmj6rdqv0gl5rg46m24>: Inicio de sesion correcto
+[10/10/2020 10:26:33] <1> <Jadid > <192.168.1.5> <71bqi6u6pjrlkc10oqhu95mfv0>: Inicio de sesion correcto
+[13/10/2020 9:24:53] <1> <Jadid> <192.168.1.5> <636fpa64qg4u0dt74tg6sttrh6>: Inicio de sesion correcto
+[13/10/2020 15:19:58] <1> <ELVIRA> <192.168.1.4> <keo8qe45dv3h5fqdg492q4b0d3>: Inicio de sesion correcto
+[13/10/2020 15:42:18] <0> <ELVIRA> <192.168.1.4> <keo8qe45dv3h5fqdg492q4b0d3>: Cierre de sesion
+[13/10/2020 15:42:32] <1> <ELVIRA> <192.168.1.4> <keo8qe45dv3h5fqdg492q4b0d3>: Inicio de sesion correcto
+[14/10/2020 10:47:25] <1> <ELVIRA> <192.168.1.4> <d01p01eip585a72pl05af2a4t5>: Inicio de sesion correcto
+[14/10/2020 10:48:21] <0> <ELVIRA> <192.168.1.4> <d01p01eip585a72pl05af2a4t5>: Cierre de sesion
+[14/10/2020 10:48:25] <1> <ELVIRA> <192.168.1.4> <d01p01eip585a72pl05af2a4t5>: Inicio de sesion correcto
+[14/10/2020 16:07:33] <1> <Jadid> <192.168.1.5> <ahvib3k3oajem6sjqpnaetqai2>: Inicio de sesion correcto
+[15/10/2020 9:58:31] <1> <Jadid> <192.168.1.5> <f7d5u97mfpesf0vi61bqirdov1>: Inicio de sesion correcto
+[16/10/2020 10:10:16] <1> <ELVIRA> <192.168.1.4> <ol9gt9rvq5bnm4trr7k4uc0jh2>: Inicio de sesion correcto
+[16/10/2020 11:40:16] <1> <Jadid> <192.168.1.5> <br02ckb9cf1isu5vke37ogkl76>: Inicio de sesion correcto
+[17/10/2020 9:58:32] <1> <admin> <192.168.1.210> <78s2r6g2an843382ir9brhrnu4>: Inicio de sesion correcto
+[17/10/2020 9:59:12] <0> <admin> <192.168.1.210> <78s2r6g2an843382ir9brhrnu4>: Cierre de sesion
+[17/10/2020 9:59:47] <1> <admin> <192.168.1.210> <4rnfge3rqua02u820hcbe6u2d6>: Inicio de sesion correcto
+[17/10/2020 10:09:43] <0> <admin> <192.168.1.210> <4rnfge3rqua02u820hcbe6u2d6>: Cierre de sesion
+[17/10/2020 10:10:00] <1> <admin> <190.211.142.18> <ntno09iglipnj1estmh24md3c1>: Inicio de sesion correcto
+[17/10/2020 10:15:23] <0> <admin> <190.211.142.18> <ntno09iglipnj1estmh24md3c1>: Cierre de sesion
+[17/10/2020 10:15:47] <1> <SANDRA> <190.211.142.18> <ntno09iglipnj1estmh24md3c1>: Inicio de sesion correcto
+[17/10/2020 10:22:35] <1> <ELVIRA> <192.168.1.4> <o1e0shig0ovvtvdi02u8gedbd5>: Inicio de sesion correcto
+[17/10/2020 10:40:15] <1> <Jadid> <192.168.1.5> <t51kpbi7g7lmd7ccr4rarhm4n3>: Inicio de sesion correcto
+[16/10/2020 10:45:02] <0> <SANDRA> <190.211.142.18> <ntno09iglipnj1estmh24md3c1>: Cierre de sesion
+[17/10/2020 15:21:53] <1> <ELVIRA> <192.168.1.4> <91qcr04fgb3ocslloa3v88umc0>: Inicio de sesion correcto
+[17/10/2020 18:18:40] <1> <Jadid> <192.168.1.5> <p8k5fg0d21cjp29n1qgsg3nej6>: Inicio de sesion correcto
+[17/10/2020 18:19:17] <0> <Jadid> <192.168.1.5> <p8k5fg0d21cjp29n1qgsg3nej6>: Cierre de sesion
+[19/10/2020 10:39:25] <1> <ELVIRA> <192.168.1.4> <lks2fjl9bcd8douu3nttuaq037>: Inicio de sesion correcto
+[19/10/2020 14:01:31] <1> <Jadid> <192.168.1.5> <rrsf6f1bv74t7qjtn7p8tusct5>: Inicio de sesion correcto
+[19/10/2020 14:02:17] <0> <ELVIRA> <192.168.1.4> <lks2fjl9bcd8douu3nttuaq037>: Cierre de sesion
+[19/10/2020 14:02:21] <1> <ELVIRA> <192.168.1.4> <lks2fjl9bcd8douu3nttuaq037>: Inicio de sesion correcto
+[19/10/2020 14:03:47] <0> <ELVIRA> <192.168.1.4> <lks2fjl9bcd8douu3nttuaq037>: Cierre de sesion
+[19/10/2020 14:03:52] <1> <ELVIRA> <192.168.1.4> <lks2fjl9bcd8douu3nttuaq037>: Inicio de sesion correcto
+[19/10/2020 18:40:07] <0> <ELVIRA> <192.168.1.4> <lks2fjl9bcd8douu3nttuaq037>: Cierre de sesion
+[20/10/2020 9:38:41] <1> <Jadid> <192.168.1.5> <7cqpjaml982s85rm25sbhsnk35>: Inicio de sesion correcto
+[20/10/2020 10:24:27] <1> <ELVIRA> <192.168.1.4> <ppcvj3985qqj68k3r7jk28aog2>: Inicio de sesion correcto
+[20/10/2020 14:40:12] <1> <ELVIRA> <192.168.1.4> <vg7p9m64589n6988lsr34j2m14>: Inicio de sesion correcto
+[20/10/2020 18:57:44] <1> <ELVIRA> <192.168.1.4> <vg7p9m64589n6988lsr34j2m14>: Inicio de sesion correcto
+[20/10/2020 18:58:04] <0> <ELVIRA> <192.168.1.4> <vg7p9m64589n6988lsr34j2m14>: Cierre de sesion
+[21/10/2020 10:19:24] <1> <Jadid> <192.168.1.5> <l6560nvomgbk58n6tvek90fqp4>: Inicio de sesion correcto
+[21/10/2020 13:21:06] <1> <ELVIRA> <192.168.1.4> <knsqos3c1sujod2l005rrm3ck1>: Inicio de sesion correcto
+[21/10/2020 14:17:51] <1> <Jadid> <192.168.1.5> <tjtmjrdeqm71mvfk5vh1ar8bt6>: Inicio de sesion correcto
+[21/10/2020 18:46:48] <0> <ELVIRA> <192.168.1.4> <knsqos3c1sujod2l005rrm3ck1>: Cierre de sesion
+[22/10/2020 9:29:13] <1> <Jadid> <192.168.1.5> <bd05ac43u0ajv15efbjkkvhda5>: Inicio de sesion correcto
+[22/10/2020 10:18:24] <1> <ELVIRA> <192.168.1.4> <0qblaiconsqauu85ucv7d5k194>: Inicio de sesion correcto
+[22/10/2020 10:45:54] <0> <ELVIRA> <192.168.1.4> <0qblaiconsqauu85ucv7d5k194>: Cierre de sesion
+[23/10/2020 10:16:06] <1> <Jadid> <192.168.1.5> <e05un1sg8mp6kfke52l857d9h2>: Inicio de sesion correcto
+[24/10/2020 10:26:37] <1> <Jadid> <192.168.1.5> <3hrnughku589ekacann3pkvvh5>: Inicio de sesion correcto
+[24/10/2020 11:09:09] <1> <ELVIRA> <192.168.1.4> <ei2h10687g84kksd46v81f6p30>: Inicio de sesion correcto
+[24/10/2020 18:43:12] <0> <ELVIRA> <192.168.1.4> <ei2h10687g84kksd46v81f6p30>: Cierre de sesion
+[26/10/2020 10:46:02] <1> <Jadid> <192.168.1.5> <dge5s9ptn4jeubdscl1j8q1an6>: Inicio de sesion correcto
+[27/10/2020 8:43:11] <1> <ELVIRA> <192.168.1.4> <jjl9702hdurikq42kesruj6a11>: Inicio de sesion correcto
+[27/10/2020 13:56:28] <1> <Jadid> <192.168.1.5> <3disgq5ppkssvb7jnadndvdvi2>: Inicio de sesion correcto
+[27/10/2020 15:21:18] <0> <ELVIRA> <192.168.1.4> <jjl9702hdurikq42kesruj6a11>: Cierre de sesion
+[28/10/2020 10:26:34] <1> <ELVIRA> <192.168.1.4> <6t1oemol406i099eu0r74bj320>: Inicio de sesion correcto
+[28/10/2020 14:14:09] <1> <Jadid> <192.168.1.5> <lpnq86ricemteu01cmjhcf70q0>: Inicio de sesion correcto
+[28/10/2020 14:20:05] <1> <Jadid> <192.168.1.5> <lpnq86ricemteu01cmjhcf70q0>: Inicio de sesion correcto
+[28/10/2020 10:26:18] <1> <ELVIRA> <192.168.1.4> <6t1oemol406i099eu0r74bj320>: Inicio de sesion correcto
+[29/10/2020 16:16:57] <1> <ELVIRA> <192.168.1.4> <lpssratmem2il2v9ar3nd8vlv6>: Inicio de sesion correcto
+[29/10/2020 17:57:30] <1> <Jadid> <192.168.1.5> <fkj6ev5aqufjbmuj5opbi3dqa3>: Inicio de sesion correcto
+[30/10/2020 11:44:35] <1> <Jadid> <192.168.1.5> <78eq7h8qtpge16ilgkvikoeo30>: Inicio de sesion correcto
+[30/10/2020 11:51:14] <1> <ELVIRA> <192.168.1.4> <n3n66k9uanbsbltb7is5naskl0>: Inicio de sesion correcto
+[30/10/2020 15:40:13] <1> <ELVIRA> <192.168.1.4> <dorn7u1mhvpnvevgu7brkcs287>: Inicio de sesion correcto
+[30/10/2020 17:44:04] <0> <ELVIRA> <192.168.1.4> <dorn7u1mhvpnvevgu7brkcs287>: Cierre de sesion
+[31/10/2020 9:30:45] <1> <ELVIRA> <192.168.1.4> <5bt0p0nr393pjb6oucj54f5626>: Inicio de sesion correcto
+[31/10/2020 11:21:19] <1> <Jadid> <192.168.1.5> <4o2fcopfku46ss8qrjf352a1v5>: Inicio de sesion correcto
+[31/10/2020 11:40:22] <1> <Jadid> <192.168.1.5> <a233kolplnatnaurou62g3h9d4>: Inicio de sesion correcto
+[31/10/2020 11:53:17] <1> <ELVIRA> <192.168.1.4> <h6a19r03krctq90qgp0qe92393>: Inicio de sesion correcto
+[31/10/2020 13:35:25] <1> <Jadid> <192.168.1.5> <b2c06ujthi2022havtv0re05c7>: Inicio de sesion correcto
+[31/10/2020 16:51:00] <1> <Jadid> <192.168.1.5> <l55rm1a0o5r8hnmnuse1543ai6>: Inicio de sesion correcto
+[03/11/2020 9:22:57] <1> <Jadid> <192.168.1.5> <cn5ms0m8evki4rul5icpgk5rp1>: Inicio de sesion correcto
+[03/11/2020 12:20:21] <1> <sandra> <190.252.116.128> <ijdis7sr4753ccac0lo8gsdrf6>: Inicio de sesion correcto
+[03/11/2020 15:32:47] <1> <ELVIRA> <192.168.1.4> <ov4ilqf1p86netm09fu8gag516>: Inicio de sesion correcto
+[03/11/2020 19:21:53] <1> <ELVIRA> <192.168.1.4> <g407uo59mpvc30eitvfbcejvl3>: Inicio de sesion correcto
+[03/11/2020 19:38:29] <0> <ELVIRA> <192.168.1.4> <g407uo59mpvc30eitvfbcejvl3>: Cierre de sesion
+[04/11/2020 10:12:46] <1> <ELVIRA> <192.168.1.4> <67ij28pvucrfmjl23i57ndfvl7>: Inicio de sesion correcto
+[04/11/2020 16:11:03] <1> <Jadid> <192.168.1.5> <s3utq6t4kvdltc2ohnf22dfr24>: Inicio de sesion correcto
+[05/11/2020 11:11:52] <1> <Jadid> <192.168.1.5> <9m73d9plig8kj4fb147pnabrs1>: Inicio de sesion correcto
+[05/11/2020 13:19:24] <1> <Jadid> <192.168.1.4> <fq4lm6b13690ok88n27gi6adq0>: Inicio de sesion correcto
+[05/11/2020 14:48:18] <1> <ELVIRA> <192.168.1.4> <fq4lm6b13690ok88n27gi6adq0>: Inicio de sesion correcto
+[05/11/2020 15:00:50] <1> <Jadid> <192.168.1.5> <9m73d9plig8kj4fb147pnabrs1>: Inicio de sesion correcto
+[05/11/2020 19:03:05] <0> <ELVIRA> <192.168.1.4> <fq4lm6b13690ok88n27gi6adq0>: Cierre de sesion
+[06/11/2020 10:10:30] <1> <Jadid> <192.168.1.5> <332j19s4mb49me06lea99idgr5>: Inicio de sesion correcto
+[06/11/2020 15:57:03] <1> <ELVIRA> <192.168.1.4> <m84i0ip2bdga0g3p3tld5c54t7>: Inicio de sesion correcto
+[07/11/2020 11:03:50] <1> <Jadid> <192.168.1.5> <rnbk4tmloe8jk968h6h082jbb5>: Inicio de sesion correcto
+[07/11/2020 11:47:06] <1> <ELVIRA> <192.168.1.4> <gp54ikci2a6ct1ppdrlc2ufjm0>: Inicio de sesion correcto
+[07/11/2020 14:26:06] <1> <Jadid> <192.168.1.5> <fcqnueiol68pf3aaa2m627p7b6>: Inicio de sesion correcto
+[09/11/2020 10:21:21] <1> <ELVIRA> <192.168.1.4> <jm1vcon484g325600l0m49hfp1>: Inicio de sesion correcto
+[09/11/2020 11:44:07] <1> <Jadid> <192.168.1.5> <1iiv93578qsq0fffl3vro7acf4>: Inicio de sesion correcto
+[10/11/2020 11:48:35] <1> <ELVIRA> <192.168.1.4> <fc5gs0ouf5c1js3cuv8g5a7oh4>: Inicio de sesion correcto
+[10/11/2020 17:09:25] <1> <JADID> <192.168.1.5> <mr6vcp7nl6o79movasl08h88u3>: Inicio de sesion correcto
+[10/11/2020 17:16:47] <1> <Jadid> <192.168.1.4> <tqr6skr1tobm071f8apjn031d5>: Inicio de sesion correcto
+[10/11/2020 12:34:00] <1> <ELVIRA> <192.168.1.4> <bule2s3thmm7eratk2u2n2ro40>: Inicio de sesion correcto
+[10/11/2020 17:01:02] <1> <Jadid> <192.168.1.5> <r33tgkqfevs5s39utoo7l000u2>: Inicio de sesion correcto
+[11/11/2020 11:01:50] <1> <ELVIRA> <192.168.1.4> <vdtksv7ibrbecq4uiv9dcuks72>: Inicio de sesion correcto
+[11/11/2020 12:06:37] <1> <Jadid> <192.168.1.5> <t8s7nnhojnrf3fhp764e236ht6>: Inicio de sesion correcto
+[11/11/2020 19:08:03] <0> <ELVIRA> <192.168.1.4> <vdtksv7ibrbecq4uiv9dcuks72>: Cierre de sesion
+[13/11/2020 11:35:29] <1> <Jadid> <192.168.1.5> <1kvnpc9kmitlcm2ln36l71r3o0>: Inicio de sesion correcto
+[13/11/2020 11:47:12] <0> <Jadid> <192.168.1.5> <1kvnpc9kmitlcm2ln36l71r3o0>: Cierre de sesion
+[13/11/2020 11:47:19] <1> <Jadid> <192.168.1.5> <1kvnpc9kmitlcm2ln36l71r3o0>: Inicio de sesion correcto
+[13/11/2020 17:37:20] <1> <ELVIRA> <192.168.1.4> <cboqa15k5rcprkj1mvncdes6h7>: Inicio de sesion correcto
+[13/11/2020 18:55:45] <0> <ELVIRA> <192.168.1.4> <cboqa15k5rcprkj1mvncdes6h7>: Cierre de sesion
+[14/11/2020 13:36:46] <1> <Jadid> <192.168.1.5> <g336jtpeh3o125eosas7ql95d4>: Inicio de sesion correcto
+[17/11/2020 10:47:26] <1> <Jadid> <192.168.1.5> <qcutmdo3j2cba5v52tmaoi4g94>: Inicio de sesion correcto
+[17/11/2020 15:04:12] <1> <ELVIRA> <192.168.1.4> <jqpkf44j8o2gmp9kkgc93pm3r6>: Inicio de sesion correcto
+[17/11/2020 17:22:21] <1> <ELVIRA> <192.168.1.4> <jqpkf44j8o2gmp9kkgc93pm3r6>: Inicio de sesion correcto
+[18/11/2020 11:46:52] <1> <ELVIRA> <192.168.1.4> <vc02l8o85oiu75rd6q3f5faol1>: Inicio de sesion correcto
+[18/11/2020 12:49:43] <1> <admin> <190.252.113.156> <isbb0233c9p76ecgpfj3g3qom6>: Inicio de sesion correcto
+[18/11/2020 12:51:32] <0> <admin> <190.252.113.156> <isbb0233c9p76ecgpfj3g3qom6>: Cierre de sesion
+[18/11/2020 12:51:50] <1> <sandra> <190.252.113.156> <isbb0233c9p76ecgpfj3g3qom6>: Inicio de sesion correcto
+[18/11/2020 14:19:18] <1> <ELVIRA> <192.168.1.4> <bhbg7rq42iviflub2bivsoa8c7>: Inicio de sesion correcto
+[18/11/2020 14:54:39] <1> <Jadid> <192.168.1.5> <nerei6unb2v0ahg60n36q4qjj4>: Inicio de sesion correcto
+[18/11/2020 18:13:19] <1> <ELVIRA> <192.168.1.4> <hepjsaf569ogqhkfm4pg8hl7l1>: Inicio de sesion correcto
+[18/11/2020 19:25:04] <1> <ELVIRA> <192.168.1.4> <hepjsaf569ogqhkfm4pg8hl7l1>: Inicio de sesion correcto
+[19/11/2020 12:06:08] <1> <ELVIRA> <192.168.1.4> <grrbdjbq6k3u2f3a4hl6jhjci4>: Inicio de sesion correcto
+[19/11/2020 12:10:23] <1> <Jadid> <192.168.1.5> <iu43obp7d3cf2uqpgtu1mo1id5>: Inicio de sesion correcto
+[19/11/2020 16:14:44] <1> <ELVIRA> <190.252.113.156> <a5dao80uagrnlrhn5a40ogno81>: Inicio de sesion correcto
+[19/11/2020 18:02:55] <1> <ELVIRA> <192.168.1.4> <7pbmedu9o1h9uvofmok1t5fcq0>: Inicio de sesion correcto
+[20/11/2020 11:20:48] <1> <Jadid> <192.168.1.5> <gcosh4f0h34s6i7plju35i9om0>: Inicio de sesion correcto
+[20/11/2020 11:26:22] <1> <ELVIRA> <192.168.1.4> <f82bjokn8qv9trjpsf2j649n73>: Inicio de sesion correcto
+[20/11/2020 18:57:04] <1> <ELVIRA> <192.168.1.4> <vc54udnm3h5o7hpcrbjdlf3s44>: Inicio de sesion correcto
+[21/11/2020 10:51:00] <1> <Jadid> <192.168.1.5> <pnib289realckladurmf4gjg17>: Inicio de sesion correcto
+[20/11/2020 13:18:48] <1> <ELVIRA> <192.168.1.4> <1rs14o5tl8c6ddsrhvr2g4n4f2>: Inicio de sesion correcto
+[22/11/2020 10:20:56] <1> <Jadid> <192.168.1.4> <cd06d047sodujvi6fmvqqmvde7>: Inicio de sesion correcto
+[23/11/2020 10:27:29] <1> <Jadid> <192.168.1.4> <cd06d047sodujvi6fmvqqmvde7>: Inicio de sesion correcto
+[23/11/2020 12:27:09] <1> <Jadid> <192.168.1.5> <3qs4rk6g5s4cjofmra8o8332k5>: Inicio de sesion correcto
+[24/11/2020 11:22:20] <1> <Jadid> <192.168.1.4> <0dfa2mg0s464qs3kodv9i2jnl0>: Inicio de sesion correcto
+[25/11/2020 13:57:32] <1> <Jadid> <192.168.1.5> <eioe7hpgd3mvtdbdqv7icrils3>: Inicio de sesion correcto
+[25/11/2020 14:27:38] <1> <Jadid> <192.168.1.5> <eioe7hpgd3mvtdbdqv7icrils3>: Inicio de sesion correcto
+[26/11/2020 9:10:10] <1> <Jadid> <192.168.1.5> <gsr0flavnb3mqckb74hr00m636>: Inicio de sesion correcto
+[27/11/2020 9:30:50] <1> <Jadid> <192.168.1.5> <hq294at9eb3gkpdtr5rnm8s534>: Inicio de sesion correcto
+[27/11/2020 18:01:30] <1> <Jadid> <192.168.1.4> <udl3547dp56ufo1nhg6cn0eoe7>: Inicio de sesion correcto
+[27/11/2020 9:30:31] <1> <Jadid> <192.168.1.5> <s1s3ntce045n49n5ktcant74g7>: Inicio de sesion correcto
+[27/11/2020 10:41:02] <1> <Jadid> <192.168.1.4> <udl3547dp56ufo1nhg6cn0eoe7>: Inicio de sesion correcto
+[27/11/2020 14:30:56] <1> <sandra> <190.252.113.7> <ntf5ve1hg2i1p0heoi2gg8vrv6>: Inicio de sesion correcto
+[27/11/2020 14:40:55] <0> <Jadid> <192.168.1.4> <udl3547dp56ufo1nhg6cn0eoe7>: Cierre de sesion
+[27/11/2020 14:41:11] <1> <sandra> <192.168.1.4> <udl3547dp56ufo1nhg6cn0eoe7>: Inicio de sesion correcto
+[27/11/2020 15:52:00] <0> <sandra> <192.168.1.4> <udl3547dp56ufo1nhg6cn0eoe7>: Cierre de sesion
+[28/11/2020 16:23:35] <0> <sandra> <190.252.113.7> <ntf5ve1hg2i1p0heoi2gg8vrv6>: Cierre de sesion
+[28/11/2020 18:46:25] <1> <Jadid> <192.168.1.5> <9r1nl599kd4l67a6l3dphso8d0>: Inicio de sesion correcto
+[30/11/2020 12:35:15] <1> <Jadid> <192.168.1.5> <sc291a6ce4cm8gpto2n2r8p4n1>: Inicio de sesion correcto
+[28/11/2020 16:15:24] <1> <sandra> <190.252.116.176> <qltvj42onm7rrkvjh03mlujnb2>: Inicio de sesion correcto
+[30/11/2020 7:32:45] <0> <sandra> <190.252.115.123> <qltvj42onm7rrkvjh03mlujnb2>: Cierre de sesion
+[01/12/2020 0:09:31] <1> <Jadid> <192.168.1.5> <01pdmg9vkg790014oijp4jdc64>: Inicio de sesion correcto
+[01/12/2020 0:25:21] <1> <Jadid> <192.168.1.5> <01pdmg9vkg790014oijp4jdc64>: Inicio de sesion correcto
+[02/12/2020 10:18:26] <1> <sandra> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Inicio de sesion correcto
+[02/12/2020 10:27:49] <0> <sandra> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Cierre de sesion
+[02/12/2020 10:28:13] <1> <Jadid> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Inicio de sesion correcto
+[02/12/2020 10:29:32] <0> <Jadid> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Cierre de sesion
+[02/12/2020 10:29:42] <1> <SANDRA> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Inicio de sesion correcto
+[02/12/2020 10:34:11] <0> <SANDRA> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Cierre de sesion
+[02/12/2020 11:03:31] <1> <Jadid> <192.168.1.5> <2e46q52va0plcq180jltjqnrk2>: Inicio de sesion correcto
+[02/12/2020 12:48:09] <1> <Jadid> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Inicio de sesion correcto
+[02/12/2020 12:52:57] <0> <Jadid> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Cierre de sesion
+[02/12/2020 12:53:03] <1> <mariel > <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Inicio de sesion correcto
+[02/12/2020 14:57:14] <0> <mariel > <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Cierre de sesion
+[02/12/2020 14:57:23] <1> <Jadid> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Inicio de sesion correcto
+[02/12/2020 14:59:36] <0> <Jadid> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Cierre de sesion
+[02/12/2020 14:59:46] <1> <MARIEL > <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Inicio de sesion correcto
+[02/12/2020 17:01:04] <0> <MARIEL > <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Cierre de sesion
+[02/12/2020 17:01:22] <1> <SANDRA> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Inicio de sesion correcto
+[02/12/2020 17:05:54] <0> <SANDRA> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Cierre de sesion
+[02/12/2020 17:45:05] <1> <SANDRA> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Inicio de sesion correcto
+[02/12/2020 17:54:13] <0> <SANDRA> <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Cierre de sesion
+[02/12/2020 18:29:31] <1> <MARIEL > <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Inicio de sesion correcto
+[02/12/2020 19:33:55] <0> <Jadid> <192.168.1.5> <2e46q52va0plcq180jltjqnrk2>: Cierre de sesion
+[02/12/2020 19:47:02] <0> <MARIEL > <192.168.1.4> <hm8onb6vj6o66nb4ficqrbj4j3>: Cierre de sesion
+[03/12/2020 11:31:11] <1> <Jadid> <192.168.1.5> <3b8qbmh89akc1tv0vmn2d76k04>: Inicio de sesion correcto
+[03/12/2020 14:15:37] <1> <Jadid> <192.168.1.4> <jsv7omh6750opbfk7lda12fsi6>: Inicio de sesion correcto
+[03/12/2020 14:37:47] <0> <Jadid> <192.168.1.4> <jsv7omh6750opbfk7lda12fsi6>: Cierre de sesion
+[03/12/2020 15:19:02] <1> <MARIEL > <192.168.1.4> <jsv7omh6750opbfk7lda12fsi6>: Inicio de sesion correcto
+[03/12/2020 18:10:23] <1> <MARIEL > <192.168.1.4> <jsv7omh6750opbfk7lda12fsi6>: Inicio de sesion correcto
+[03/12/2020 18:44:08] <0> <MARIEL > <192.168.1.4> <jsv7omh6750opbfk7lda12fsi6>: Cierre de sesion
+[04/12/2020 11:31:31] <1> <MARIEL > <192.168.1.4> <snmbucessc97cfii8e585re6t7>: Inicio de sesion correcto
+[04/12/2020 12:07:04] <1> <Jadid> <192.168.1.5> <hnr4m5on1n6pesqc50fg4fiqt6>: Inicio de sesion correcto
+[04/12/2020 12:44:35] <1> <Jadid> <192.168.1.5> <hnr4m5on1n6pesqc50fg4fiqt6>: Inicio de sesion correcto
+[05/12/2020 10:17:45] <1> <Jadid> <192.168.1.5> <374p1uq7t2fclet3ic7jtctne2>: Inicio de sesion correcto
+[05/12/2020 11:27:56] <0> <Jadid> <192.168.1.5> <374p1uq7t2fclet3ic7jtctne2>: Cierre de sesion
+[05/12/2020 11:28:10] <1> <sandra> <192.168.1.5> <374p1uq7t2fclet3ic7jtctne2>: Inicio de sesion correcto
+[05/12/2020 11:38:36] <1> <MARIEL > <192.168.1.4> <rp0fh53s7ecmv2uqdpgo3brfv1>: Inicio de sesion correcto
+[05/12/2020 11:40:31] <0> <sandra> <192.168.1.5> <374p1uq7t2fclet3ic7jtctne2>: Cierre de sesion
+[05/12/2020 11:42:55] <1> <Jadid> <192.168.1.5> <374p1uq7t2fclet3ic7jtctne2>: Inicio de sesion correcto
+[07/12/2020 9:09:12] <1> <admin> <190.211.140.133> <ml98m7iep7f35sj615b4mapbs0>: Inicio de sesion correcto
+[07/12/2020 9:27:55] <0> <admin> <190.211.140.133> <ml98m7iep7f35sj615b4mapbs0>: Cierre de sesion
+[07/12/2020 9:28:05] <1> <admin> <190.211.140.133> <ml98m7iep7f35sj615b4mapbs0>: Inicio de sesion correcto
+[07/12/2020 9:29:36] <0> <admin> <190.211.140.133> <ml98m7iep7f35sj615b4mapbs0>: Cierre de sesion
+[07/12/2020 9:29:45] <1> <betty> <190.211.140.133> <ml98m7iep7f35sj615b4mapbs0>: Inicio de sesion correcto
+[07/12/2020 9:29:47] <0> <betty> <190.211.140.133> <ml98m7iep7f35sj615b4mapbs0>: Cierre de sesion
+[07/12/2020 9:30:55] <1> <betty> <190.211.140.133> <ml98m7iep7f35sj615b4mapbs0>: Inicio de sesion correcto
+[07/12/2020 10:12:48] <1> <Jadid> <192.168.1.5> <mfnhe2b6vb89khlugoshshn4c0>: Inicio de sesion correcto
+[07/12/2020 10:23:55] <1> <betty> <192.168.1.210> <ov5hdkjgntuvk1etr7be6p80f2>: Inicio de sesion correcto
+[07/12/2020 10:27:11] <1> <sandra> <190.252.116.34> <qtuchkulhkahkcfqoim9b1bkv2>: Inicio de sesion correcto
+[07/12/2020 10:45:10] <0> <betty> <192.168.1.210> <ov5hdkjgntuvk1etr7be6p80f2>: Cierre de sesion
+[07/12/2020 10:45:40] <1> <betty> <192.168.1.210> <ov5hdkjgntuvk1etr7be6p80f2>: Inicio de sesion correcto
+[07/12/2020 10:53:29] <1> <betty> <192.168.1.210> <ov5hdkjgntuvk1etr7be6p80f2>: Inicio de sesion correcto
+[07/12/2020 11:13:26] <1> <Mariaele> <192.168.1.4> <8k22t7tg6q7ctr2g5al53p5g12>: Inicio de sesion correcto
+[07/12/2020 11:29:31] <0> <betty> <190.211.140.133> <ml98m7iep7f35sj615b4mapbs0>: Cierre de sesion
+[07/12/2020 11:30:13] <1> <betty> <190.211.140.133> <ml98m7iep7f35sj615b4mapbs0>: Inicio de sesion correcto
+[07/12/2020 11:57:19] <1> <admin> <192.168.1.210> <ov5hdkjgntuvk1etr7be6p80f2>: Inicio de sesion correcto
+[07/12/2020 11:58:34] <0> <admin> <192.168.1.210> <ov5hdkjgntuvk1etr7be6p80f2>: Cierre de sesion
+[07/12/2020 12:07:47] <1> <Jadid> <192.168.1.5> <mfnhe2b6vb89khlugoshshn4c0>: Inicio de sesion correcto
+[07/12/2020 18:43:21] <0> <Mariaele> <192.168.1.4> <8k22t7tg6q7ctr2g5al53p5g12>: Cierre de sesion
+[09/12/2020 11:03:42] <1> <Jadid> <192.168.1.5> <0qut9po32tlf4hp13dd47kbgl4>: Inicio de sesion correcto
+[09/12/2020 11:18:33] <1> <Mariaele> <192.168.1.4> <k3p7cllgh8m49kgvkn7g6usbi3>: Inicio de sesion correcto
+[09/12/2020 11:43:32] <0> <Mariaele> <192.168.1.4> <k3p7cllgh8m49kgvkn7g6usbi3>: Cierre de sesion
+[09/12/2020 11:43:38] <1> <Mariaele> <192.168.1.4> <k3p7cllgh8m49kgvkn7g6usbi3>: Inicio de sesion correcto
+[09/12/2020 11:46:07] <0> <Mariaele> <192.168.1.4> <k3p7cllgh8m49kgvkn7g6usbi3>: Cierre de sesion
+[09/12/2020 11:46:12] <1> <Mariaele> <192.168.1.4> <k3p7cllgh8m49kgvkn7g6usbi3>: Inicio de sesion correcto
+[09/12/2020 18:29:54] <0> <Mariaele> <192.168.1.4> <k3p7cllgh8m49kgvkn7g6usbi3>: Cierre de sesion
+[10/12/2020 10:51:24] <1> <Mariaele> <192.168.1.4> <n0gnjipdhiuspjb1ep0iecihv4>: Inicio de sesion correcto
+[10/12/2020 11:16:13] <1> <Jadid> <192.168.1.5> <s4h2dm243ho0iqtu7gb8t2rjj2>: Inicio de sesion correcto
+[10/12/2020 14:21:38] <0> <Jadid> <192.168.1.5> <s4h2dm243ho0iqtu7gb8t2rjj2>: Cierre de sesion
+[10/12/2020 14:21:54] <1> <sandra> <192.168.1.5> <s4h2dm243ho0iqtu7gb8t2rjj2>: Inicio de sesion correcto
+[10/12/2020 14:24:20] <0> <sandra> <192.168.1.5> <s4h2dm243ho0iqtu7gb8t2rjj2>: Cierre de sesion
+[10/12/2020 14:30:22] <1> <Jadid> <192.168.1.5> <s4h2dm243ho0iqtu7gb8t2rjj2>: Inicio de sesion correcto
+[10/12/2020 18:55:03] <0> <Mariaele> <192.168.1.4> <n0gnjipdhiuspjb1ep0iecihv4>: Cierre de sesion
+[11/12/2020 10:34:12] <1> <Mariaele> <192.168.1.4> <fl7l1t6hl7m4vbb863kc3pjot6>: Inicio de sesion correcto
+[11/12/2020 11:50:14] <1> <Jadid> <192.168.1.5> <59ll5m0fpaf13q7t75s2krs6e7>: Inicio de sesion correcto
+[11/12/2020 14:47:10] <1> <Jadid> <192.168.1.5> <p73s3hr08gb0rramc3jt8oapu4>: Inicio de sesion correcto
+[11/12/2020 18:10:21] <0> <Mariaele> <192.168.1.4> <fl7l1t6hl7m4vbb863kc3pjot6>: Cierre de sesion
+[11/12/2020 18:10:25] <1> <Jadid> <192.168.1.4> <fl7l1t6hl7m4vbb863kc3pjot6>: Inicio de sesion correcto
+[12/12/2020 9:59:03] <1> <Mariaele> <192.168.1.4> <pbl5m3q9am7s7pn244lmeu9s36>: Inicio de sesion correcto
+[12/12/2020 12:34:01] <1> <Jadid> <192.168.1.5> <uolvbv80160gfsqr6dv4dq9eg4>: Inicio de sesion correcto
+[12/12/2020 16:40:04] <0> <Mariaele> <192.168.1.4> <pbl5m3q9am7s7pn244lmeu9s36>: Cierre de sesion
+[12/12/2020 16:40:21] <1> <sandra> <192.168.1.4> <pbl5m3q9am7s7pn244lmeu9s36>: Inicio de sesion correcto
+[12/12/2020 16:48:50] <1> <sandra> <192.168.1.4> <pbl5m3q9am7s7pn244lmeu9s36>: Inicio de sesion correcto
+[12/12/2020 16:59:53] <0> <sandra> <192.168.1.4> <pbl5m3q9am7s7pn244lmeu9s36>: Cierre de sesion
+[14/12/2020 10:20:06] <1> <Mariaele> <192.168.1.4> <vgcjqaseqauqhj7ggnucgmjcg7>: Inicio de sesion correcto
+[14/12/2020 11:20:08] <1> <Jadid> <192.168.1.5> <73smb33e1reji706sl6add4201>: Inicio de sesion correcto
+[15/12/2020 10:49:39] <1> <Jadid> <192.168.1.5> <vr9j915eoiav6jjeo11sda2v85>: Inicio de sesion correcto
+[15/12/2020 14:19:45] <1> <Mariaele> <192.168.1.4> <lg34l4p100pdn8nvd6eq7ao536>: Inicio de sesion correcto
+[15/12/2020 15:40:56] <0> <Jadid> <192.168.1.5> <vr9j915eoiav6jjeo11sda2v85>: Cierre de sesion
+[15/12/2020 15:41:24] <1> <Mariaele> <192.168.1.5> <vr9j915eoiav6jjeo11sda2v85>: Inicio de sesion correcto
+[15/12/2020 18:41:41] <0> <Mariaele> <192.168.1.4> <lg34l4p100pdn8nvd6eq7ao536>: Cierre de sesion
+[16/12/2020 10:13:57] <1> <Mariaele> <192.168.1.4> <n93uhj2r1dmh3bbl5ni5pdk0p0>: Inicio de sesion correcto
+[16/12/2020 10:19:25] <1> <Jadid> <192.168.1.5> <rf37tggup3gtoaq7vqh4s31jl4>: Inicio de sesion correcto
+[17/12/2020 10:23:05] <1> <Jadid> <192.168.1.5> <un9t2tse7j7ajj9pmqnaguuib3>: Inicio de sesion correcto
+[17/12/2020 12:12:31] <1> <Jadid> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Inicio de sesion correcto
+[17/12/2020 16:42:57] <0> <Jadid> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Cierre de sesion
+[17/12/2020 16:43:07] <1> <betty> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Inicio de sesion correcto
+[17/12/2020 18:09:31] <0> <betty> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Cierre de sesion
+[18/12/2020 10:57:57] <1> <Jadid> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Inicio de sesion correcto
+[18/12/2020 11:23:11] <1> <ELVIRA> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Inicio de sesion correcto
+[18/12/2020 11:23:21] <0> <ELVIRA> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Cierre de sesion
+[18/12/2020 11:34:39] <1> <Jadid> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Inicio de sesion correcto
+[18/12/2020 12:31:05] <0> <Jadid> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Cierre de sesion
+[18/12/2020 12:31:33] <1> <ELVIRA> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Inicio de sesion correcto
+[18/12/2020 14:22:51] <1> <Jadid> <192.168.1.5> <res02kelvlhv5vc2gnkj76ipb0>: Inicio de sesion correcto
+[18/12/2020 17:09:30] <0> <ELVIRA> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Cierre de sesion
+[18/12/2020 17:09:58] <1> <betty> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Inicio de sesion correcto
+[18/12/2020 19:09:56] <1> <Jadid> <192.168.1.4> <roh4gcnf14qjq0e930flhopf32>: Inicio de sesion correcto
+[19/12/2020 10:12:42] <1> <betty> <192.168.1.4> <037t15rr5m11bi0cics7ivln25>: Inicio de sesion correcto
+[19/12/2020 10:53:03] <1> <Jadid> <192.168.1.5> <0jh70991d96scmclltpvpg8j61>: Inicio de sesion correcto
+[19/12/2020 12:01:54] <1> <sandra> <190.252.116.39> <fl805o9m715csh51l3l9a3euv2>: Inicio de sesion correcto
+[19/12/2020 12:07:23] <0> <sandra> <190.252.116.39> <fl805o9m715csh51l3l9a3euv2>: Cierre de sesion
+[19/12/2020 12:07:36] <0> <betty> <192.168.1.4> <037t15rr5m11bi0cics7ivln25>: Cierre de sesion
+[19/12/2020 12:07:45] <1> <SANDRA> <192.168.1.4> <037t15rr5m11bi0cics7ivln25>: Inicio de sesion correcto
+[19/12/2020 12:16:28] <0> <SANDRA> <192.168.1.4> <037t15rr5m11bi0cics7ivln25>: Cierre de sesion
+[19/12/2020 15:25:14] <1> <SANDRA> <192.168.1.4> <037t15rr5m11bi0cics7ivln25>: Inicio de sesion correcto
+[19/12/2020 15:42:09] <0> <SANDRA> <192.168.1.4> <037t15rr5m11bi0cics7ivln25>: Cierre de sesion
+[19/12/2020 16:58:22] <1> <admin> <192.168.1.210> <9hcj4k80pa3lcp55fi0i6udv13>: Inicio de sesion correcto
+[21/12/2020 9:58:22] <1> <Jadid> <192.168.1.5> <ak2vh77leoe553be5t5e5k3q70>: Inicio de sesion correcto
+[21/12/2020 10:22:43] <1> <Jadid> <192.168.1.4> <b6158298un59tpj6jiju2p3os2>: Inicio de sesion correcto
+[21/12/2020 10:29:24] <0> <Jadid> <192.168.1.4> <b6158298un59tpj6jiju2p3os2>: Cierre de sesion
+[21/12/2020 10:29:54] <1> <ELVIRA> <192.168.1.4> <oobd4s67dap0d2ptjusulf0l62>: Inicio de sesion correcto
+[21/12/2020 11:00:34] <0> <ELVIRA> <192.168.1.4> <oobd4s67dap0d2ptjusulf0l62>: Cierre de sesion
+[21/12/2020 11:01:33] <1> <admin> <192.168.1.4> <oobd4s67dap0d2ptjusulf0l62>: Inicio de sesion correcto
+[21/12/2020 17:56:29] <1> <Jadid> <192.168.1.4> <o1bcevi29carlie2fkap1h7f65>: Inicio de sesion correcto
+[21/12/2020 18:07:44] <0> <Jadid> <192.168.1.4> <o1bcevi29carlie2fkap1h7f65>: Cierre de sesion
+[21/12/2020 18:32:21] <1> <Jadid> <192.168.1.4> <u541piov2v11lbd5ce0jhrgv86>: Inicio de sesion correcto
+[21/12/2020 18:39:25] <0> <Jadid> <192.168.1.4> <u541piov2v11lbd5ce0jhrgv86>: Cierre de sesion
+[21/12/2020 18:47:45] <1> <Jadid> <192.168.1.4> <u541piov2v11lbd5ce0jhrgv86>: Inicio de sesion correcto
+[21/12/2020 18:52:13] <1> <Jadid> <192.168.1.4> <u541piov2v11lbd5ce0jhrgv86>: Inicio de sesion correcto
+[21/12/2020 18:55:33] <0> <Jadid> <192.168.1.4> <u541piov2v11lbd5ce0jhrgv86>: Cierre de sesion
+[21/12/2020 18:55:41] <1> <Jadid> <192.168.1.4> <u541piov2v11lbd5ce0jhrgv86>: Inicio de sesion correcto
+[21/12/2020 18:58:40] <0> <Jadid> <192.168.1.4> <u541piov2v11lbd5ce0jhrgv86>: Cierre de sesion
+[21/12/2020 18:59:11] <1> <Jadid> <192.168.1.4> <u541piov2v11lbd5ce0jhrgv86>: Inicio de sesion correcto
+[21/12/2020 19:00:13] <0> <Jadid> <192.168.1.4> <u541piov2v11lbd5ce0jhrgv86>: Cierre de sesion
+[22/12/2020 8:27:02] <1> <admin> <190.211.140.133> <74trgevbu1vbkrjh651jgkkuk4>: Inicio de sesion correcto
+[22/12/2020 9:56:23] <1> <sandra> <190.252.116.39> <0fetnoi1ev7j1s192egm16vvh2>: Inicio de sesion correcto
+[22/12/2020 10:49:43] <1> <Jadid> <192.168.1.4> <aqamo7oiu9d26ha8no64m7t5v0>: Inicio de sesion correcto
+[22/12/2020 10:55:57] <1> <Jadid> <192.168.1.4> <aqamo7oiu9d26ha8no64m7t5v0>: Inicio de sesion correcto
+[22/12/2020 10:57:19] <1> <Jadid> <192.168.1.4> <aqamo7oiu9d26ha8no64m7t5v0>: Inicio de sesion correcto
+[22/12/2020 11:02:08] <0> <Jadid> <192.168.1.4> <aqamo7oiu9d26ha8no64m7t5v0>: Cierre de sesion
+[22/12/2020 11:03:18] <1> <Jadid> <192.168.1.4> <46207bjcjimd9jl6slkdtkqq27>: Inicio de sesion correcto
+[22/12/2020 11:52:58] <1> <Jadid> <192.168.1.4> <lutd57fvn622qa2oq7a9mtn845>: Inicio de sesion correcto
+[22/12/2020 12:17:00] <1> <Jadid> <192.168.1.5> <a4ki1v2d92agdki26dejcqitg2>: Inicio de sesion correcto
+[22/12/2020 12:17:00] <1> <Jadid> <192.168.1.4> <lutd57fvn622qa2oq7a9mtn845>: Inicio de sesion correcto
+[22/12/2020 14:47:44] <1> <Jadid> <192.168.1.5> <5q6j43qie3otrb5bara541ujd7>: Inicio de sesion correcto
+[22/12/2020 14:51:25] <1> <JADID> <192.168.1.5> <ctkdsegnp6lhtfo44dlt14t8t5>: Inicio de sesion correcto
+[22/12/2020 14:51:32] <0> <JADID> <192.168.1.5> <ctkdsegnp6lhtfo44dlt14t8t5>: Cierre de sesion
+[22/12/2020 14:56:15] <0> <Jadid> <192.168.1.4> <lutd57fvn622qa2oq7a9mtn845>: Cierre de sesion
+[22/12/2020 14:56:33] <1> <sandra> <192.168.1.4> <lutd57fvn622qa2oq7a9mtn845>: Inicio de sesion correcto
+[22/12/2020 14:58:33] <1> <JADID> <192.168.1.5> <ukthb5sfjaattp9l0j29hekba3>: Inicio de sesion correcto
+[22/12/2020 14:59:12] <0> <JADID> <192.168.1.5> <ukthb5sfjaattp9l0j29hekba3>: Cierre de sesion
+[22/12/2020 15:20:24] <1> <Jadid> <192.168.1.5> <m63tjf0lpatovq1seebj33tvg1>: Inicio de sesion correcto
+[22/12/2020 15:20:51] <1> <Jadid> <192.168.1.5> <r9gpuhnhjc1aee7f1okkmjmib5>: Inicio de sesion correcto
+[22/12/2020 15:24:48] <1> <admin> <190.252.116.39> <8e3crpp0foeher70323vunf437>: Inicio de sesion correcto
+[22/12/2020 15:27:45] <1> <betty> <190.252.116.39> <7kadj75voauhg1gigip3ng6a82>: Inicio de sesion correcto
+[22/12/2020 15:39:33] <1> <Jadid> <192.168.1.4> <lutd57fvn622qa2oq7a9mtn845>: Inicio de sesion correcto
+[22/12/2020 15:40:10] <0> <Jadid> <192.168.1.4> <lutd57fvn622qa2oq7a9mtn845>: Cierre de sesion
+[22/12/2020 15:45:36] <1> <Jadid> <192.168.1.4> <lutd57fvn622qa2oq7a9mtn845>: Inicio de sesion correcto
+[22/12/2020 16:06:04] <0> <Jadid> <192.168.1.4> <lutd57fvn622qa2oq7a9mtn845>: Cierre de sesion
+[22/12/2020 16:25:37] <1> <Jadid> <192.168.1.4> <lutd57fvn622qa2oq7a9mtn845>: Inicio de sesion correcto
+[22/12/2020 16:48:01] <1> <Jadid> <192.168.1.5> <4ja4m01k5doktmhms59q8bpvn0>: Inicio de sesion correcto
+[22/12/2020 18:36:34] <0> <betty> <190.252.116.39> <7kadj75voauhg1gigip3ng6a82>: Cierre de sesion
+[22/12/2020 18:59:46] <0> <Jadid> <192.168.1.5> <4ja4m01k5doktmhms59q8bpvn0>: Cierre de sesion
+[22/12/2020 19:00:26] <1> <Jadid> <192.168.1.5> <4ja4m01k5doktmhms59q8bpvn0>: Inicio de sesion correcto
+[23/12/2020 9:36:29] <1> <betty> <190.252.113.28> <7kadj75voauhg1gigip3ng6a82>: Inicio de sesion correcto
+[23/12/2020 9:49:57] <0> <sandra> <190.252.113.28> <0fetnoi1ev7j1s192egm16vvh2>: Cierre de sesion
+[23/12/2020 10:19:38] <1> <betty> <190.252.113.28> <7kadj75voauhg1gigip3ng6a82>: Inicio de sesion correcto
+[23/12/2020 10:33:04] <1> <Jadid> <192.168.1.5> <na29gvq686p4v979r1cnm3vpu6>: Inicio de sesion correcto
+[23/12/2020 11:04:45] <1> <Jadid> <192.168.1.4> <m4onruli3t6om4seta9f180pi5>: Inicio de sesion correcto
+[23/12/2020 12:06:31] <1> <Jadid> <192.168.1.4> <9tkasdce508eeh1klgfcd7d091>: Inicio de sesion correcto
+[23/12/2020 12:15:02] <0> <betty> <190.252.113.28> <7kadj75voauhg1gigip3ng6a82>: Cierre de sesion
+[23/12/2020 13:11:33] <0> <Jadid> <192.168.1.5> <na29gvq686p4v979r1cnm3vpu6>: Cierre de sesion
+[23/12/2020 13:11:46] <1> <ZERKENIS> <192.168.1.5> <na29gvq686p4v979r1cnm3vpu6>: Inicio de sesion correcto
+[23/12/2020 13:12:02] <0> <Jadid> <192.168.1.4> <9tkasdce508eeh1klgfcd7d091>: Cierre de sesion
+[23/12/2020 13:12:15] <1> <ZERKENIS> <192.168.1.4> <9tkasdce508eeh1klgfcd7d091>: Inicio de sesion correcto
+[23/12/2020 13:13:07] <0> <ZERKENIS> <192.168.1.5> <na29gvq686p4v979r1cnm3vpu6>: Cierre de sesion
+[23/12/2020 13:13:15] <1> <Jadid> <192.168.1.5> <na29gvq686p4v979r1cnm3vpu6>: Inicio de sesion correcto
+[23/12/2020 13:59:58] <1> <ZERKENIS> <192.168.1.4> <9tkasdce508eeh1klgfcd7d091>: Inicio de sesion correcto
+[23/12/2020 14:44:39] <1> <betty> <190.252.113.28> <vhlqjpi7ir7qdo94pvbipi9356>: Inicio de sesion correcto
+[23/12/2020 16:12:46] <1> <ZERKENIS> <192.168.1.4> <9tkasdce508eeh1klgfcd7d091>: Inicio de sesion correcto
+[23/12/2020 16:23:10] <1> <ZERKENIS> <192.168.1.4> <kqg6uo0kka8bnq6d3mq2s2us81>: Inicio de sesion correcto
+[23/12/2020 16:38:11] <1> <sandra> <190.252.113.28> <ve1bol7hd2e5i4m7c15lqt8m51>: Inicio de sesion correcto
+[23/12/2020 16:46:21] <1> <betty> <190.252.113.28> <74j97j9l9jomd51b8olvf40c15>: Inicio de sesion correcto
+[23/12/2020 17:14:50] <1> <ZERKENIS> <192.168.1.4> <kqg6uo0kka8bnq6d3mq2s2us81>: Inicio de sesion correcto
+[23/12/2020 17:34:43] <1> <ZERKENIS> <192.168.1.4> <kqg6uo0kka8bnq6d3mq2s2us81>: Inicio de sesion correcto
+[23/12/2020 17:43:21] <0> <ZERKENIS> <192.168.1.4> <kqg6uo0kka8bnq6d3mq2s2us81>: Cierre de sesion
+[23/12/2020 17:44:52] <1> <SaNDRA> <192.168.1.4> <kqg6uo0kka8bnq6d3mq2s2us81>: Inicio de sesion correcto
+[23/12/2020 17:49:59] <0> <SaNDRA> <192.168.1.4> <kqg6uo0kka8bnq6d3mq2s2us81>: Cierre de sesion
+[23/12/2020 17:50:19] <1> <ZERKENIS> <192.168.1.4> <kqg6uo0kka8bnq6d3mq2s2us81>: Inicio de sesion correcto
+[23/12/2020 18:40:49] <1> <betty> <190.252.113.28> <gogfu76k3avvgftrjevm4nl3f6>: Inicio de sesion correcto
+[23/12/2020 19:10:57] <0> <ZERKENIS> <192.168.1.4> <kqg6uo0kka8bnq6d3mq2s2us81>: Cierre de sesion
+[24/12/2020 9:06:39] <1> <sandra> <192.168.1.4> <mbg3u25urfiommcv41o34bect0>: Inicio de sesion correcto
+[24/12/2020 9:25:34] <1> <ZERKENIS > <192.168.1.5> <qfddkom031fane57c5rruip124>: Inicio de sesion correcto
+[24/12/2020 9:35:56] <0> <betty> <190.252.113.28> <gogfu76k3avvgftrjevm4nl3f6>: Cierre de sesion
+[24/12/2020 9:37:43] <1> <betty> <190.252.113.28> <gogfu76k3avvgftrjevm4nl3f6>: Inicio de sesion correcto
+[24/12/2020 14:20:29] <0> <sandra> <192.168.1.4> <mbg3u25urfiommcv41o34bect0>: Cierre de sesion
+[24/12/2020 14:31:58] <1> <Jadid> <192.168.1.4> <mbg3u25urfiommcv41o34bect0>: Inicio de sesion correcto
+[24/12/2020 15:21:18] <1> <betty> <190.252.113.28> <un6b4jei49dev85o2hu42nmjb7>: Inicio de sesion correcto
+[24/12/2020 17:20:10] <1> <sandra> <190.252.113.28> <mmfmcte9iujtb1kc1agkq180e0>: Inicio de sesion correcto
+[24/12/2020 17:34:05] <0> <ZERKENIS > <192.168.1.5> <qfddkom031fane57c5rruip124>: Cierre de sesion
+[24/12/2020 17:34:39] <1> <ZERKENIS> <192.168.1.5> <qfddkom031fane57c5rruip124>: Inicio de sesion correcto
+[24/12/2020 17:35:24] <0> <ZERKENIS> <192.168.1.5> <qfddkom031fane57c5rruip124>: Cierre de sesion
+[24/12/2020 17:35:46] <1> <SANDRA> <192.168.1.5> <qfddkom031fane57c5rruip124>: Inicio de sesion correcto
+[24/12/2020 18:07:50] <0> <SANDRA> <192.168.1.5> <qfddkom031fane57c5rruip124>: Cierre de sesion
+[24/12/2020 18:12:04] <1> <ZERKENIS> <192.168.1.5> <qfddkom031fane57c5rruip124>: Inicio de sesion correcto
+[24/12/2020 19:20:48] <0> <betty> <190.252.113.28> <un6b4jei49dev85o2hu42nmjb7>: Cierre de sesion
+[26/12/2020 9:48:28] <1> <sandra> <192.168.1.5> <jlehba79k0q3huauh50i3bpvn1>: Inicio de sesion correcto
+[26/12/2020 10:02:55] <1> <ZERKENIS> <192.168.1.4> <g4l393aoljf5a860nt82vjvht0>: Inicio de sesion correcto
+[26/12/2020 10:30:37] <0> <sandra> <192.168.1.5> <jlehba79k0q3huauh50i3bpvn1>: Cierre de sesion
+[26/12/2020 11:09:20] <1> <ZERKENIS> <192.168.1.4> <g4l393aoljf5a860nt82vjvht0>: Inicio de sesion correcto
+[26/12/2020 12:15:26] <1> <Jadid> <192.168.1.5> <jlehba79k0q3huauh50i3bpvn1>: Inicio de sesion correcto
+[26/12/2020 13:59:49] <0> <ZERKENIS> <192.168.1.4> <g4l393aoljf5a860nt82vjvht0>: Cierre de sesion
+[26/12/2020 13:59:56] <1> <SANDRA> <192.168.1.4> <g4l393aoljf5a860nt82vjvht0>: Inicio de sesion correcto
+[26/12/2020 14:08:55] <0> <SANDRA> <192.168.1.4> <g4l393aoljf5a860nt82vjvht0>: Cierre de sesion
+[26/12/2020 14:18:56] <1> <ZERKENIS> <192.168.1.4> <g4l393aoljf5a860nt82vjvht0>: Inicio de sesion correcto
+[26/12/2020 14:53:33] <0> <ZERKENIS> <192.168.1.4> <g4l393aoljf5a860nt82vjvht0>: Cierre de sesion
+[26/12/2020 14:53:43] <1> <ZERKENIS> <192.168.1.4> <g4l393aoljf5a860nt82vjvht0>: Inicio de sesion correcto
+[26/12/2020 15:35:14] <0> <ZERKENIS> <192.168.1.4> <g4l393aoljf5a860nt82vjvht0>: Cierre de sesion
+[26/12/2020 15:35:21] <1> <ZERKENIS> <192.168.1.4> <g4l393aoljf5a860nt82vjvht0>: Inicio de sesion correcto
+[26/12/2020 16:52:46] <1> <betty> <190.252.113.28> <15jsev9jtc3vktbf0e7mv61hj2>: Inicio de sesion correcto
+[26/12/2020 17:04:24] <0> <ZERKENIS> <192.168.1.4> <g4l393aoljf5a860nt82vjvht0>: Cierre de sesion
+[26/12/2020 17:04:34] <1> <ZERKENIS> <192.168.1.4> <g4l393aoljf5a860nt82vjvht0>: Inicio de sesion correcto
+[26/12/2020 17:07:04] <1> <ZERKENIS> <192.168.1.4> <fe6iteej7bdupn4ntp2hilpoc0>: Inicio de sesion correcto
+[26/12/2020 17:53:31] <0> <ZERKENIS> <192.168.1.4> <fe6iteej7bdupn4ntp2hilpoc0>: Cierre de sesion
+[26/12/2020 17:54:38] <1> <ZERKENIS> <192.168.1.4> <fe6iteej7bdupn4ntp2hilpoc0>: Inicio de sesion correcto
+[26/12/2020 18:16:06] <1> <ZERKENIS> <192.168.1.4> <2qf82u819ttmnkjk8or7oen2m3>: Inicio de sesion correcto
+[26/12/2020 18:50:49] <1> <ZERKENIS> <192.168.1.4> <2g375qcsf2f2qlcn0nlor1rrr6>: Inicio de sesion correcto
+[26/12/2020 19:07:46] <1> <ZERKENIS> <192.168.1.4> <jgann44um2fnfilq2ulsj6tri4>: Inicio de sesion correcto
+[26/12/2020 19:21:20] <0> <ZERKENIS> <192.168.1.4> <jgann44um2fnfilq2ulsj6tri4>: Cierre de sesion
+[27/12/2020 12:58:41] <1> <SANDRA> <192.168.1.5> <3ku3b0lj17443nup5cp3lg4df2>: Inicio de sesion correcto
+[27/12/2020 16:42:08] <0> <SANDRA> <192.168.1.5> <3ku3b0lj17443nup5cp3lg4df2>: Cierre de sesion
+[28/12/2020 10:09:31] <0> <betty> <190.252.113.28> <15jsev9jtc3vktbf0e7mv61hj2>: Cierre de sesion
+[28/12/2020 10:17:46] <1> <betty> <190.252.113.28> <r2vp7o7ttjie8u6cmq0bss9ia6>: Inicio de sesion correcto
+[28/12/2020 11:11:54] <1> <Jadid> <192.168.1.5> <c74g3l546j86gdmqaqqechkbq4>: Inicio de sesion correcto
+[28/12/2020 11:45:42] <1> <ZERKENIS> <192.168.1.4> <4e4pqj43hl8l09paggp8imgpv5>: Inicio de sesion correcto
+[28/12/2020 11:50:31] <1> <ZERKENIS> <192.168.1.4> <4e4pqj43hl8l09paggp8imgpv5>: Inicio de sesion correcto
+[28/12/2020 14:35:10] <0> <ZERKENIS> <192.168.1.4> <4e4pqj43hl8l09paggp8imgpv5>: Cierre de sesion
+[28/12/2020 14:35:16] <1> <ZERKENIS> <192.168.1.4> <4e4pqj43hl8l09paggp8imgpv5>: Inicio de sesion correcto
+[28/12/2020 15:43:51] <1> <ZERKENIS> <192.168.1.4> <4e4pqj43hl8l09paggp8imgpv5>: Inicio de sesion correcto
+[28/12/2020 15:44:50] <1> <ZERKENIS> <192.168.1.4> <4e4pqj43hl8l09paggp8imgpv5>: Inicio de sesion correcto
+[28/12/2020 16:04:13] <1> <ZERKENIS> <192.168.1.4> <4e4pqj43hl8l09paggp8imgpv5>: Inicio de sesion correcto
+[28/12/2020 17:19:57] <0> <ZERKENIS> <192.168.1.4> <4e4pqj43hl8l09paggp8imgpv5>: Cierre de sesion
+[28/12/2020 17:20:03] <1> <SANDRA> <192.168.1.4> <4e4pqj43hl8l09paggp8imgpv5>: Inicio de sesion correcto
+[28/12/2020 17:22:51] <0> <SANDRA> <192.168.1.4> <4e4pqj43hl8l09paggp8imgpv5>: Cierre de sesion
+[28/12/2020 17:23:25] <1> <ZERKENIS> <192.168.1.4> <4e4pqj43hl8l09paggp8imgpv5>: Inicio de sesion correcto
+[28/12/2020 17:38:45] <1> <betty> <190.252.113.28> <h2n930731np8g4etpb3uen0182>: Inicio de sesion correcto
+[28/12/2020 18:33:10] <0> <betty> <190.252.113.28> <h2n930731np8g4etpb3uen0182>: Cierre de sesion
+[28/12/2020 18:50:59] <0> <ZERKENIS> <192.168.1.4> <4e4pqj43hl8l09paggp8imgpv5>: Cierre de sesion
+[28/12/2020 18:56:05] <1> <ZERKENIS> <192.168.1.4> <09k9t16fft1bkabbuhonbkcjt1>: Inicio de sesion correcto
+[28/12/2020 18:58:34] <0> <ZERKENIS> <192.168.1.4> <09k9t16fft1bkabbuhonbkcjt1>: Cierre de sesion
+[29/12/2020 10:03:21] <1> <ZERKENIS> <192.168.1.4> <ec4beut7v99ad0u4c933e6rn04>: Inicio de sesion correcto
+[29/12/2020 10:04:03] <1> <sandra> <190.252.113.28> <uiola8i19r9oofvm906qa56sr0>: Inicio de sesion correcto
+[29/12/2020 10:33:03] <1> <ZERKENIS> <192.168.1.4> <ec4beut7v99ad0u4c933e6rn04>: Inicio de sesion correcto
+[29/12/2020 11:11:17] <1> <Jadid> <192.168.1.5> <f6bj4ml0tnei614nvrfd63c9r0>: Inicio de sesion correcto
+[29/12/2020 11:23:35] <1> <ZERKENIS> <192.168.1.4> <7ck0hphv91lrs0hvitib3h6ce2>: Inicio de sesion correcto
+[29/12/2020 11:51:18] <0> <ZERKENIS> <192.168.1.4> <7ck0hphv91lrs0hvitib3h6ce2>: Cierre de sesion
+[29/12/2020 11:51:30] <1> <ZERKENIS> <192.168.1.4> <7ck0hphv91lrs0hvitib3h6ce2>: Inicio de sesion correcto
+[29/12/2020 12:28:09] <1> <zerkenis> <192.168.1.4> <c9qa3bt88n756n40vsdjnfvrm6>: Inicio de sesion correcto
+[29/12/2020 12:29:43] <1> <ZERKENIS> <192.168.1.4> <c9qa3bt88n756n40vsdjnfvrm6>: Inicio de sesion correcto
+[29/12/2020 14:27:45] <0> <ZERKENIS> <192.168.1.4> <c9qa3bt88n756n40vsdjnfvrm6>: Cierre de sesion
+[29/12/2020 14:27:53] <1> <ZERKENIS> <192.168.1.4> <c9qa3bt88n756n40vsdjnfvrm6>: Inicio de sesion correcto
+[29/12/2020 15:11:58] <1> <sandra> <192.168.1.5> <km1nv3arnvoeldhbm3v4esrur7>: Inicio de sesion correcto
+[29/12/2020 18:27:45] <0> <ZERKENIS> <192.168.1.4> <c9qa3bt88n756n40vsdjnfvrm6>: Cierre de sesion
+[29/12/2020 18:27:58] <1> <ZERKENIS> <192.168.1.4> <c9qa3bt88n756n40vsdjnfvrm6>: Inicio de sesion correcto
+[29/12/2020 18:50:29] <0> <sandra> <190.252.113.28> <uiola8i19r9oofvm906qa56sr0>: Cierre de sesion
+[29/12/2020 18:54:05] <0> <sandra> <192.168.1.5> <km1nv3arnvoeldhbm3v4esrur7>: Cierre de sesion
+[29/12/2020 19:03:58] <0> <ZERKENIS> <192.168.1.4> <c9qa3bt88n756n40vsdjnfvrm6>: Cierre de sesion
+[30/12/2020 9:03:54] <1> <ZERKENIS > <192.168.1.5> <ev1biht1ijdh7klva9f3ksuaf6>: Inicio de sesion correcto
+[30/12/2020 9:40:43] <1> <ZERKENIS> <192.168.1.4> <of588qkh1ljocorkbfkjq271g6>: Inicio de sesion correcto
+[30/12/2020 10:04:39] <0> <ZERKENIS > <192.168.1.5> <ev1biht1ijdh7klva9f3ksuaf6>: Cierre de sesion
+[30/12/2020 10:04:46] <1> <SANDRA> <192.168.1.5> <ev1biht1ijdh7klva9f3ksuaf6>: Inicio de sesion correcto
+[30/12/2020 10:12:02] <1> <SANDRA> <192.168.1.5> <ttsedr85kqqlrkdact3ad3oa56>: Inicio de sesion correcto
+[30/12/2020 10:36:59] <0> <SANDRA> <192.168.1.5> <ttsedr85kqqlrkdact3ad3oa56>: Cierre de sesion
+[30/12/2020 11:02:17] <1> <sandra> <190.252.113.28> <fjapcq1siroe5pmgeq8qb7egn2>: Inicio de sesion correcto
+[30/12/2020 11:05:06] <1> <ZERKENIS> <192.168.1.4> <of588qkh1ljocorkbfkjq271g6>: Inicio de sesion correcto
+[30/12/2020 11:09:20] <1> <ZERKENIS> <192.168.1.4> <of588qkh1ljocorkbfkjq271g6>: Inicio de sesion correcto
+[30/12/2020 11:23:33] <1> <Jadid> <192.168.1.5> <ttsedr85kqqlrkdact3ad3oa56>: Inicio de sesion correcto
+[30/12/2020 12:19:43] <0> <sandra> <190.252.113.28> <fjapcq1siroe5pmgeq8qb7egn2>: Cierre de sesion
+[30/12/2020 15:55:39] <1> <SANDRA> <190.252.113.28> <flqqdih3pb66emn5k7ghr3b2g5>: Inicio de sesion correcto
+[30/12/2020 20:27:04] <0> <ZERKENIS> <192.168.1.4> <of588qkh1ljocorkbfkjq271g6>: Cierre de sesion
+[30/12/2020 20:34:13] <1> <ZERKENIS> <192.168.1.4> <of588qkh1ljocorkbfkjq271g6>: Inicio de sesion correcto
+[30/12/2020 20:58:54] <0> <ZERKENIS> <192.168.1.4> <of588qkh1ljocorkbfkjq271g6>: Cierre de sesion
+[31/12/2020 9:19:33] <1> <SANDRA> <192.168.1.5> <ler5ll5prkshnqea76nolr1m80>: Inicio de sesion correcto
+[31/12/2020 11:07:19] <1> <ZERKENIS> <192.168.1.4> <6begn7mouifgqtsoscurpnoi91>: Inicio de sesion correcto
+[31/12/2020 11:26:27] <0> <SANDRA> <192.168.1.5> <ler5ll5prkshnqea76nolr1m80>: Cierre de sesion
+[31/12/2020 11:28:28] <1> <Jadid> <192.168.1.5> <ler5ll5prkshnqea76nolr1m80>: Inicio de sesion correcto
+[31/12/2020 12:38:08] <1> <JADID > <192.168.1.5> <fu195r7j8r1lsnchf3io0272n0>: Inicio de sesion correcto
+[31/12/2020 13:17:07] <1> <Jadid> <190.252.119.9> <sd8lbk49ogiv66fdc6e7qam0m6>: Inicio de sesion correcto
+[31/12/2020 13:20:38] <0> <ZERKENIS> <192.168.1.4> <6begn7mouifgqtsoscurpnoi91>: Cierre de sesion
+[31/12/2020 13:20:58] <1> <SANDRA> <192.168.1.4> <6begn7mouifgqtsoscurpnoi91>: Inicio de sesion correcto
+[31/12/2020 15:48:21] <0> <SANDRA> <192.168.1.4> <6begn7mouifgqtsoscurpnoi91>: Cierre de sesion
+[31/12/2020 15:48:31] <1> <SANDRA> <192.168.1.4> <6begn7mouifgqtsoscurpnoi91>: Inicio de sesion correcto
+[31/12/2020 17:05:23] <0> <SANDRA> <192.168.1.4> <6begn7mouifgqtsoscurpnoi91>: Cierre de sesion
+[31/12/2020 17:07:41] <1> <SANDRA> <192.168.1.4> <6begn7mouifgqtsoscurpnoi91>: Inicio de sesion correcto
+[31/12/2020 17:09:31] <0> <SANDRA> <192.168.1.4> <6begn7mouifgqtsoscurpnoi91>: Cierre de sesion
+[31/12/2020 18:08:38] <1> <ZERKENIS> <192.168.1.4> <6begn7mouifgqtsoscurpnoi91>: Inicio de sesion correcto
+[31/12/2020 19:04:52] <0> <ZERKENIS> <192.168.1.4> <6begn7mouifgqtsoscurpnoi91>: Cierre de sesion
+[02/01/2021 10:31:36] <1> <ZERKENIS> <192.168.1.4> <p2ksoqc40cn7404c4dasd27dr3>: Inicio de sesion correcto
+[02/01/2021 11:16:04] <1> <SANDRA> <192.168.1.5> <c8drdu2hbf6hp3t0j5pdes8de3>: Inicio de sesion correcto
+[02/01/2021 13:40:21] <0> <ZERKENIS> <192.168.1.4> <p2ksoqc40cn7404c4dasd27dr3>: Cierre de sesion
+[02/01/2021 13:40:37] <1> <SANDRA> <192.168.1.4> <p2ksoqc40cn7404c4dasd27dr3>: Inicio de sesion correcto
+[02/01/2021 13:53:30] <0> <SANDRA> <192.168.1.4> <p2ksoqc40cn7404c4dasd27dr3>: Cierre de sesion
+[02/01/2021 14:02:52] <1> <ZERKENIS> <192.168.1.4> <p2ksoqc40cn7404c4dasd27dr3>: Inicio de sesion correcto
+[02/01/2021 15:24:30] <1> <ZERKENIS> <192.168.1.4> <ccbhvu3h0gpqt7c8namrdtst85>: Inicio de sesion correcto
+[02/01/2021 15:25:51] <0> <SANDRA> <192.168.1.5> <c8drdu2hbf6hp3t0j5pdes8de3>: Cierre de sesion
+[02/01/2021 15:26:02] <1> <SANDRA> <192.168.1.5> <c8drdu2hbf6hp3t0j5pdes8de3>: Inicio de sesion correcto
+[02/01/2021 15:42:20] <0> <ZERKENIS> <192.168.1.4> <ccbhvu3h0gpqt7c8namrdtst85>: Cierre de sesion
+[02/01/2021 15:42:45] <1> <ZERKENIS> <192.168.1.4> <18562dh8sqafcasogeehhsd427>: Inicio de sesion correcto
+[02/01/2021 16:31:38] <1> <ZERKENIS> <192.168.1.4> <c7aqe4eh5qjnm9fht5o3il8ng0>: Inicio de sesion correcto
+[02/01/2021 17:24:38] <0> <SANDRA> <192.168.1.5> <c8drdu2hbf6hp3t0j5pdes8de3>: Cierre de sesion
+[02/01/2021 17:24:54] <1> <Jadid> <192.168.1.5> <c8drdu2hbf6hp3t0j5pdes8de3>: Inicio de sesion correcto
+[02/01/2021 17:42:51] <0> <Jadid> <192.168.1.5> <c8drdu2hbf6hp3t0j5pdes8de3>: Cierre de sesion
+[02/01/2021 17:43:01] <1> <SANDRA> <192.168.1.5> <c8drdu2hbf6hp3t0j5pdes8de3>: Inicio de sesion correcto
+[04/01/2021 10:25:22] <1> <JADID> <192.168.1.5> <ckuk4f08i4ashed82ksi2unom0>: Inicio de sesion correcto
+[04/01/2021 11:23:36] <1> <ZERKENIS> <192.168.1.4> <lat5ouni7npe2in450h0uk26n1>: Inicio de sesion correcto
+[04/01/2021 12:23:01] <1> <SANDRA> <192.168.1.5> <ckuk4f08i4ashed82ksi2unom0>: Inicio de sesion correcto
+[04/01/2021 12:26:47] <1> <ZERKENIS> <192.168.1.4> <vhcqg20hdvnd1i6f17gfmv1nb5>: Inicio de sesion correcto
+[04/01/2021 12:30:52] <1> <Jadid> <190.252.118.198> <s83ies53q2kvlc243k3fint4n0>: Inicio de sesion correcto
+[04/01/2021 12:58:14] <1> <ZERKENIS> <192.168.1.4> <vhcqg20hdvnd1i6f17gfmv1nb5>: Inicio de sesion correcto
+[04/01/2021 13:04:39] <1> <ZERKENIS> <192.168.1.4> <vhcqg20hdvnd1i6f17gfmv1nb5>: Inicio de sesion correcto
+[04/01/2021 14:10:34] <1> <ZERKENIS> <192.168.1.4> <cd46olckt6kst316ossljbojv3>: Inicio de sesion correcto
+[04/01/2021 14:40:37] <0> <SANDRA> <192.168.1.5> <ckuk4f08i4ashed82ksi2unom0>: Cierre de sesion
+[04/01/2021 16:19:16] <0> <Jadid> <190.252.118.198> <s83ies53q2kvlc243k3fint4n0>: Cierre de sesion
+[04/01/2021 18:31:13] <0> <ZERKENIS> <192.168.1.4> <cd46olckt6kst316ossljbojv3>: Cierre de sesion
+[05/01/2021 9:31:20] <1> <ZERKENIS> <192.168.1.4> <evph4jihd32f4n42pi6qod4oh7>: Inicio de sesion correcto
+[05/01/2021 11:37:02] <1> <Jadid> <192.168.1.5> <l7dsm12ijlji0anumqsljap6a5>: Inicio de sesion correcto
+[05/01/2021 11:37:52] <1> <ZERKENIS> <192.168.1.4> <j63av30qhprvuf0q6j3mc1mps0>: Inicio de sesion correcto
+[05/01/2021 11:48:44] <0> <ZERKENIS> <192.168.1.4> <j63av30qhprvuf0q6j3mc1mps0>: Cierre de sesion
+[05/01/2021 11:48:53] <1> <sandra> <192.168.1.4> <j63av30qhprvuf0q6j3mc1mps0>: Inicio de sesion correcto
+[05/01/2021 11:54:10] <0> <sandra> <192.168.1.4> <j63av30qhprvuf0q6j3mc1mps0>: Cierre de sesion
+[05/01/2021 11:54:37] <1> <ZERKENIS> <192.168.1.4> <j63av30qhprvuf0q6j3mc1mps0>: Inicio de sesion correcto
+[05/01/2021 12:11:39] <1> <ZERKENIS> <192.168.1.4> <mq3dib13p9d05a861tvcekosk6>: Inicio de sesion correcto
+[05/01/2021 14:18:16] <1> <Jadid> <192.168.1.5> <l7dsm12ijlji0anumqsljap6a5>: Inicio de sesion correcto
+[05/01/2021 16:40:21] <0> <ZERKENIS> <192.168.1.4> <mq3dib13p9d05a861tvcekosk6>: Cierre de sesion
+[05/01/2021 16:40:31] <1> <SANDRA> <192.168.1.4> <mq3dib13p9d05a861tvcekosk6>: Inicio de sesion correcto
+[05/01/2021 16:48:18] <0> <SANDRA> <192.168.1.4> <mq3dib13p9d05a861tvcekosk6>: Cierre de sesion
+[05/01/2021 16:50:04] <1> <SANDRA> <192.168.1.4> <mq3dib13p9d05a861tvcekosk6>: Inicio de sesion correcto
+[05/01/2021 16:50:52] <0> <SANDRA> <192.168.1.4> <mq3dib13p9d05a861tvcekosk6>: Cierre de sesion
+[05/01/2021 16:51:12] <1> <ZERKENIS> <192.168.1.4> <mq3dib13p9d05a861tvcekosk6>: Inicio de sesion correcto
+[05/01/2021 18:04:39] <1> <ZERKENIS> <192.168.1.4> <mq3dib13p9d05a861tvcekosk6>: Inicio de sesion correcto
+[05/01/2021 19:05:11] <0> <ZERKENIS> <192.168.1.4> <mq3dib13p9d05a861tvcekosk6>: Cierre de sesion
+[06/01/2021 10:06:01] <1> <ZERKENIS> <192.168.1.4> <0smjbnhtthdgvmf6rque5a6kg6>: Inicio de sesion correcto
+[06/01/2021 10:41:13] <1> <Jadid> <192.168.1.5> <63mffia9eqdqrpvh4ldjjprji3>: Inicio de sesion correcto
+[06/01/2021 11:20:17] <1> <sandra> <190.252.118.198> <5h68e8ckcqj3902tjvmgqjlmn1>: Inicio de sesion correcto
+[06/01/2021 15:16:09] <0> <ZERKENIS> <192.168.1.4> <0smjbnhtthdgvmf6rque5a6kg6>: Cierre de sesion
+[06/01/2021 15:16:18] <1> <ZERKENIS> <192.168.1.4> <0smjbnhtthdgvmf6rque5a6kg6>: Inicio de sesion correcto
+[06/01/2021 15:29:25] <0> <ZERKENIS> <192.168.1.4> <0smjbnhtthdgvmf6rque5a6kg6>: Cierre de sesion
+[06/01/2021 15:29:44] <1> <SANDRA> <192.168.1.4> <0smjbnhtthdgvmf6rque5a6kg6>: Inicio de sesion correcto
+[06/01/2021 15:36:11] <0> <SANDRA> <192.168.1.4> <0smjbnhtthdgvmf6rque5a6kg6>: Cierre de sesion
+[06/01/2021 15:36:39] <1> <ZERKENIS> <192.168.1.4> <0smjbnhtthdgvmf6rque5a6kg6>: Inicio de sesion correcto
+[06/01/2021 16:50:18] <1> <SANDRA> <190.252.118.198> <5h68e8ckcqj3902tjvmgqjlmn1>: Inicio de sesion correcto
+[06/01/2021 17:50:45] <0> <SANDRA> <190.252.118.198> <5h68e8ckcqj3902tjvmgqjlmn1>: Cierre de sesion
+[06/01/2021 18:59:57] <0> <ZERKENIS> <192.168.1.4> <0smjbnhtthdgvmf6rque5a6kg6>: Cierre de sesion
+[07/01/2021 10:11:08] <1> <ZERKENIS> <192.168.1.4> <lbcl8vnuffvhiv0h5i64bd0uv1>: Inicio de sesion correcto
+[07/01/2021 14:11:35] <1> <sandra> <190.252.118.198> <dtc8gije7u7voa1ta6mtntule0>: Inicio de sesion correcto
+[07/01/2021 15:36:05] <1> <Jadid> <192.168.1.5> <cnk0ks6g6p6b7a7u25mecn1ph7>: Inicio de sesion correcto
+[07/01/2021 18:52:45] <1> <ZERKENIS> <192.168.1.4> <lbcl8vnuffvhiv0h5i64bd0uv1>: Inicio de sesion correcto
+[07/01/2021 18:55:29] <0> <ZERKENIS> <192.168.1.4> <lbcl8vnuffvhiv0h5i64bd0uv1>: Cierre de sesion
+[07/01/2021 18:55:42] <1> <SANDRA> <192.168.1.4> <lbcl8vnuffvhiv0h5i64bd0uv1>: Inicio de sesion correcto
+[07/01/2021 19:06:53] <0> <SANDRA> <192.168.1.4> <lbcl8vnuffvhiv0h5i64bd0uv1>: Cierre de sesion
+[08/01/2021 10:08:55] <1> <ZERKENIS> <192.168.1.4> <7g85jbrukgp8j3beiilntaola7>: Inicio de sesion correcto
+[08/01/2021 10:50:26] <1> <ZERKENIS> <192.168.1.4> <83vet11p5thnqr6do1lqvlq9l4>: Inicio de sesion correcto
+[08/01/2021 12:00:51] <1> <Jadid> <192.168.1.5> <l852jhhh5m1riugg0nclvveer3>: Inicio de sesion correcto
+[08/01/2021 18:01:59] <1> <ZERKENIS> <192.168.1.4> <83vet11p5thnqr6do1lqvlq9l4>: Inicio de sesion correcto
+[08/01/2021 18:46:05] <0> <ZERKENIS> <192.168.1.4> <83vet11p5thnqr6do1lqvlq9l4>: Cierre de sesion
+[09/01/2021 9:57:32] <1> <Jadid> <192.168.1.5> <g6ptsj07b2sbjqq4hbr2tgv4p3>: Inicio de sesion correcto
+[09/01/2021 10:26:01] <1> <ZERKENIS> <192.168.1.4> <ul97g3004hgref029gabjlhgm6>: Inicio de sesion correcto
+[09/01/2021 11:40:04] <1> <ZERKENIS> <192.168.1.4> <ul97g3004hgref029gabjlhgm6>: Inicio de sesion correcto
+[09/01/2021 12:46:28] <0> <Jadid> <192.168.1.5> <g6ptsj07b2sbjqq4hbr2tgv4p3>: Cierre de sesion
+[09/01/2021 12:46:36] <1> <sandra> <192.168.1.5> <g6ptsj07b2sbjqq4hbr2tgv4p3>: Inicio de sesion correcto
+[09/01/2021 12:52:45] <0> <sandra> <192.168.1.5> <g6ptsj07b2sbjqq4hbr2tgv4p3>: Cierre de sesion
+[09/01/2021 13:08:11] <1> <SANDRA> <192.168.1.5> <g6ptsj07b2sbjqq4hbr2tgv4p3>: Inicio de sesion correcto
+[09/01/2021 13:26:33] <0> <SANDRA> <192.168.1.5> <g6ptsj07b2sbjqq4hbr2tgv4p3>: Cierre de sesion
+[09/01/2021 13:26:46] <1> <Jadid> <192.168.1.5> <g6ptsj07b2sbjqq4hbr2tgv4p3>: Inicio de sesion correcto
+[09/01/2021 14:00:32] <1> <SANDRA> <190.252.114.138> <jle1jk9fuiau70l363t9e2alq0>: Inicio de sesion correcto
+[09/01/2021 18:27:37] <0> <Jadid> <192.168.1.5> <g6ptsj07b2sbjqq4hbr2tgv4p3>: Cierre de sesion
+[10/01/2021 13:19:01] <1> <Jadid> <192.168.1.5> <eqo9n49qhe7b2inh068hv77ca3>: Inicio de sesion correcto
+[12/01/2021 10:08:47] <1> <ZERKENIS> <192.168.1.4> <7mnln124am0dgmcn7hikvkb0k1>: Inicio de sesion correcto
+[12/01/2021 10:14:54] <1> <Jadid> <192.168.1.5> <rba9tvsnf59dj5crrkkja781d5>: Inicio de sesion correcto
+[12/01/2021 10:39:29] <1> <sandra> <190.252.117.220> <jrlsbqkhjelden6m5s3om8qda0>: Inicio de sesion correcto
+[12/01/2021 10:41:14] <1> <sandra> <190.252.117.220> <jrlsbqkhjelden6m5s3om8qda0>: Inicio de sesion correcto
+[12/01/2021 14:30:10] <1> <ZERKENIS> <192.168.1.4> <7mnln124am0dgmcn7hikvkb0k1>: Inicio de sesion correcto
+[12/01/2021 18:22:07] <0> <ZERKENIS> <192.168.1.4> <7mnln124am0dgmcn7hikvkb0k1>: Cierre de sesion
+[12/01/2021 18:23:13] <1> <Jadid> <192.168.1.4> <7mnln124am0dgmcn7hikvkb0k1>: Inicio de sesion correcto
+[12/01/2021 18:26:27] <0> <Jadid> <192.168.1.4> <7mnln124am0dgmcn7hikvkb0k1>: Cierre de sesion
+[12/01/2021 18:26:32] <1> <ZERKENIS> <192.168.1.4> <7mnln124am0dgmcn7hikvkb0k1>: Inicio de sesion correcto
+[12/01/2021 18:56:02] <0> <sandra> <190.252.117.220> <jrlsbqkhjelden6m5s3om8qda0>: Cierre de sesion
+[13/01/2021 10:14:39] <1> <ZERKENIS> <192.168.1.4> <pqlsd27vn7gfjsnfm2s608jpp2>: Inicio de sesion correcto
+[13/01/2021 11:34:03] <1> <Jadid> <192.168.1.5> <66t541t8jaf970lurnvmhp93s7>: Inicio de sesion correcto
+[13/01/2021 13:24:00] <0> <Jadid> <192.168.1.5> <66t541t8jaf970lurnvmhp93s7>: Cierre de sesion
+[13/01/2021 13:24:11] <1> <SANDRA> <192.168.1.5> <66t541t8jaf970lurnvmhp93s7>: Inicio de sesion correcto
+[13/01/2021 13:34:10] <0> <SANDRA> <192.168.1.5> <66t541t8jaf970lurnvmhp93s7>: Cierre de sesion
+[13/01/2021 14:08:47] <1> <ZERKENIS> <192.168.1.4> <pqlsd27vn7gfjsnfm2s608jpp2>: Inicio de sesion correcto
+[13/01/2021 14:41:46] <1> <Jadid> <192.168.1.5> <66t541t8jaf970lurnvmhp93s7>: Inicio de sesion correcto
+[13/01/2021 14:58:25] <0> <Jadid> <192.168.1.5> <66t541t8jaf970lurnvmhp93s7>: Cierre de sesion
+[13/01/2021 14:59:20] <1> <ZERKENIS > <192.168.1.5> <66t541t8jaf970lurnvmhp93s7>: Inicio de sesion correcto
+[13/01/2021 15:00:09] <1> <sandra> <190.252.113.147> <virdm6vmfvh49spro26onphkm3>: Inicio de sesion correcto
+[13/01/2021 15:09:34] <0> <ZERKENIS> <192.168.1.4> <pqlsd27vn7gfjsnfm2s608jpp2>: Cierre de sesion
+[13/01/2021 15:09:46] <1> <Jadid> <192.168.1.4> <pqlsd27vn7gfjsnfm2s608jpp2>: Inicio de sesion correcto
+[13/01/2021 15:55:14] <0> <ZERKENIS > <192.168.1.5> <66t541t8jaf970lurnvmhp93s7>: Cierre de sesion
+[13/01/2021 15:55:54] <1> <Jadid> <192.168.1.5> <66t541t8jaf970lurnvmhp93s7>: Inicio de sesion correcto
+[13/01/2021 17:27:19] <0> <Jadid> <192.168.1.4> <pqlsd27vn7gfjsnfm2s608jpp2>: Cierre de sesion
+[13/01/2021 17:27:24] <1> <ZERKENIS> <192.168.1.4> <pqlsd27vn7gfjsnfm2s608jpp2>: Inicio de sesion correcto
+[13/01/2021 18:35:42] <0> <sandra> <190.252.113.147> <virdm6vmfvh49spro26onphkm3>: Cierre de sesion
+[13/01/2021 19:00:00] <0> <ZERKENIS> <192.168.1.4> <pqlsd27vn7gfjsnfm2s608jpp2>: Cierre de sesion
+[14/01/2021 10:04:18] <1> <ZERKENIS> <192.168.1.4> <gnjppdt6a1nop41uv84njj20c5>: Inicio de sesion correcto
+[14/01/2021 10:12:04] <1> <sandra> <190.252.113.147> <8ghptidls68rvr49kq30mjc3s0>: Inicio de sesion correcto
+[14/01/2021 11:36:23] <1> <ZERKENIS > <192.168.1.5> <jm83gprgo19m96kgpbrtlea7s3>: Inicio de sesion correcto
+[14/01/2021 11:52:11] <0> <ZERKENIS > <192.168.1.5> <jm83gprgo19m96kgpbrtlea7s3>: Cierre de sesion
+[14/01/2021 13:24:36] <1> <Jadid> <192.168.1.5> <jm83gprgo19m96kgpbrtlea7s3>: Inicio de sesion correcto
+[14/01/2021 16:55:34] <1> <Jadid> <186.169.133.91> <sd8lbk49ogiv66fdc6e7qam0m6>: Inicio de sesion correcto
+[14/01/2021 18:13:21] <0> <sandra> <190.252.115.105> <8ghptidls68rvr49kq30mjc3s0>: Cierre de sesion
+[15/01/2021 10:02:03] <1> <ZERKENIS> <192.168.1.4> <i85m69ktpqs8gssldb7vacagt4>: Inicio de sesion correcto
+[15/01/2021 10:49:00] <0> <ZERKENIS> <192.168.1.4> <i85m69ktpqs8gssldb7vacagt4>: Cierre de sesion
+[15/01/2021 10:49:07] <1> <ZERKENIS> <192.168.1.4> <i85m69ktpqs8gssldb7vacagt4>: Inicio de sesion correcto
+[15/01/2021 11:00:48] <1> <Jadid> <192.168.1.5> <ijvc8e4rv59da7kpv10lq3jd82>: Inicio de sesion correcto
+[15/01/2021 11:52:32] <1> <sandra> <190.252.115.105> <ilde8k7pem2q0sr9f08d1bgge4>: Inicio de sesion correcto
+[15/01/2021 15:23:18] <1> <sandra> <190.252.115.105> <ilde8k7pem2q0sr9f08d1bgge4>: Inicio de sesion correcto
+[15/01/2021 16:32:25] <1> <Jadid> <186.169.144.197> <kebhhv0g09mak8rgbcpunlbpj5>: Inicio de sesion correcto
+[15/01/2021 18:43:42] <0> <sandra> <190.252.115.105> <ilde8k7pem2q0sr9f08d1bgge4>: Cierre de sesion
+[16/01/2021 10:17:35] <1> <sandra> <190.252.115.105> <ohckf4ft20m3ig0pdfhn5adun4>: Inicio de sesion correcto
+[16/01/2021 10:22:23] <1> <ZERKENIS> <192.168.1.4> <rv1bbcj405dioohhcig56vjcp7>: Inicio de sesion correcto
+[16/01/2021 11:12:33] <1> <Jadid> <192.168.1.5> <ekjr98c9ru9dgmoi3e9pjdeog3>: Inicio de sesion correcto
+[16/01/2021 13:14:06] <1> <ZERKENIS> <192.168.1.4> <rv1bbcj405dioohhcig56vjcp7>: Inicio de sesion correcto
+[16/01/2021 15:36:29] <1> <Jadid> <186.169.144.197> <kd83v464v60kemrsn3g2uhv944>: Inicio de sesion correcto
+[16/01/2021 16:55:21] <0> <sandra> <190.252.115.105> <ohckf4ft20m3ig0pdfhn5adun4>: Cierre de sesion
+[16/01/2021 19:18:52] <0> <ZERKENIS> <192.168.1.4> <rv1bbcj405dioohhcig56vjcp7>: Cierre de sesion
+[18/01/2021 10:04:33] <1> <ZERKENIS> <192.168.1.4> <a6dhk7u1g1dnd754fbhtpq2iq1>: Inicio de sesion correcto
+[18/01/2021 10:10:04] <1> <ZERKENIS> <192.168.1.4> <a6dhk7u1g1dnd754fbhtpq2iq1>: Inicio de sesion correcto
+[18/01/2021 10:56:34] <1> <Jadid> <192.168.1.5> <je98lc1mblmroequs4h34miqn7>: Inicio de sesion correcto
+[18/01/2021 14:05:02] <1> <ZERKENIS> <192.168.1.4> <fcv41vbbl8695beonse1g0v754>: Inicio de sesion correcto
+[18/01/2021 14:13:15] <1> <sandra> <190.252.115.105> <aj655i8nt1ndks1443cse496u4>: Inicio de sesion correcto
+[18/01/2021 16:29:48] <1> <ZERKENIS> <192.168.1.4> <fcv41vbbl8695beonse1g0v754>: Inicio de sesion correcto
+[18/01/2021 18:39:59] <0> <sandra> <190.252.115.105> <aj655i8nt1ndks1443cse496u4>: Cierre de sesion
+[18/01/2021 18:55:17] <0> <ZERKENIS> <192.168.1.4> <fcv41vbbl8695beonse1g0v754>: Cierre de sesion
+[19/01/2021 10:21:00] <1> <ZERKENIS> <192.168.1.4> <12gc9qlmpr7c3q471kis51aav0>: Inicio de sesion correcto
+[19/01/2021 11:01:06] <1> <sandra> <190.252.117.95> <v7r9f8ctcflvi3m3galc2c79c4>: Inicio de sesion correcto
+[19/01/2021 16:45:06] <0> <sandra> <190.252.117.95> <v7r9f8ctcflvi3m3galc2c79c4>: Cierre de sesion
+[19/01/2021 18:31:48] <0> <ZERKENIS> <192.168.1.4> <12gc9qlmpr7c3q471kis51aav0>: Cierre de sesion
+[20/01/2021 9:56:10] <1> <ZERKENIS> <192.168.1.4> <41bes13046s3or9vamhmj39151>: Inicio de sesion correcto
+[20/01/2021 10:46:29] <1> <sandra> <190.252.113.203> <66bkfr4g266ar3r0rhuvm8gfl6>: Inicio de sesion correcto
+[20/01/2021 11:01:08] <1> <ZERKENIS> <192.168.1.4> <1lglmpu1ggf22qnio5hdidcfa2>: Inicio de sesion correcto
+[20/01/2021 14:28:07] <1> <ZERKENIS > <192.168.1.5> <0mqdo16dtdpf3hv7dr8efhd1b0>: Inicio de sesion correcto
+[20/01/2021 18:37:05] <0> <sandra> <190.252.113.203> <66bkfr4g266ar3r0rhuvm8gfl6>: Cierre de sesion
+[20/01/2021 18:40:53] <0> <ZERKENIS > <192.168.1.5> <0mqdo16dtdpf3hv7dr8efhd1b0>: Cierre de sesion
+[20/01/2021 18:44:28] <0> <ZERKENIS> <192.168.1.4> <1lglmpu1ggf22qnio5hdidcfa2>: Cierre de sesion
+[21/01/2021 10:24:28] <1> <ZERKENIS> <192.168.1.4> <mf2m3t8f63kigcgicu06h6ula1>: Inicio de sesion correcto
+[21/01/2021 13:30:01] <1> <sandra> <190.252.113.203> <1c2o4jfcgjpouerrfu6afvm8d7>: Inicio de sesion correcto
+[21/01/2021 17:50:57] <0> <sandra> <190.252.113.203> <1c2o4jfcgjpouerrfu6afvm8d7>: Cierre de sesion
+[22/01/2021 9:41:29] <1> <SANDRA> <192.168.1.5> <mvce32s3b4o10c0l45eg0a5ut6>: Inicio de sesion correcto
+[22/01/2021 10:13:36] <1> <ZERKENIS> <192.168.1.4> <9pdhp4ho9aafh28mo2esn3qka5>: Inicio de sesion correcto
+[22/01/2021 10:25:44] <1> <sandra> <190.252.113.203> <4l0n7a9egih2bf8da3pj2e56l2>: Inicio de sesion correcto
+[22/01/2021 10:26:00] <0> <SANDRA> <192.168.1.5> <mvce32s3b4o10c0l45eg0a5ut6>: Cierre de sesion
+[22/01/2021 10:50:12] <0> <ZERKENIS> <192.168.1.4> <9pdhp4ho9aafh28mo2esn3qka5>: Cierre de sesion
+[22/01/2021 10:50:25] <1> <ZERKENIS> <192.168.1.4> <9pdhp4ho9aafh28mo2esn3qka5>: Inicio de sesion correcto
+[22/01/2021 11:25:33] <1> <sandra> <192.168.1.5> <mvce32s3b4o10c0l45eg0a5ut6>: Inicio de sesion correcto
+[22/01/2021 15:02:30] <1> <ZERKENIS > <192.168.1.4> <vv6ek6uj6fogq2hn2l2v3sbqj1>: Inicio de sesion correcto
+[22/01/2021 18:12:01] <0> <sandra> <190.252.113.203> <4l0n7a9egih2bf8da3pj2e56l2>: Cierre de sesion
+[22/01/2021 18:14:14] <0> <sandra> <192.168.1.5> <mvce32s3b4o10c0l45eg0a5ut6>: Cierre de sesion
+[22/01/2021 18:51:38] <0> <ZERKENIS > <192.168.1.4> <vv6ek6uj6fogq2hn2l2v3sbqj1>: Cierre de sesion
+[23/01/2021 10:03:22] <1> <sandra> <190.252.113.203> <dt7bclfitutk8c2egivoa3l775>: Inicio de sesion correcto
+[23/01/2021 10:14:48] <1> <ZERKENIS> <192.168.1.4> <vjmm7nk0m2l1duh4k4dfipc866>: Inicio de sesion correcto
+[23/01/2021 18:44:05] <0> <ZERKENIS> <192.168.1.4> <vjmm7nk0m2l1duh4k4dfipc866>: Cierre de sesion
+[23/01/2021 18:44:22] <0> <sandra> <190.252.113.203> <dt7bclfitutk8c2egivoa3l775>: Cierre de sesion
+[24/01/2021 12:46:24] <1> <Jadid> <192.168.1.5> <0teqh0dnlvqhrdko7j065d4t34>: Inicio de sesion correcto
+[25/01/2021 10:05:00] <1> <ZERKENIS> <192.168.1.4> <1ov03gne77mjmu1krpfo8opr26>: Inicio de sesion correcto
+[25/01/2021 11:08:23] <1> <Jadid> <192.168.1.5> <c12tuuj1cthq8310mpmr6qfj86>: Inicio de sesion correcto
+[25/01/2021 12:03:43] <1> <ZERKENIS> <192.168.1.4> <1ov03gne77mjmu1krpfo8opr26>: Inicio de sesion correcto
+[25/01/2021 12:14:46] <1> <sandra> <190.252.113.203> <uotk5vlobmb1a6m4pakbn475n0>: Inicio de sesion correcto
+[25/01/2021 19:02:04] <0> <sandra> <190.252.113.203> <uotk5vlobmb1a6m4pakbn475n0>: Cierre de sesion
+[25/01/2021 19:02:07] <0> <ZERKENIS> <192.168.1.4> <1ov03gne77mjmu1krpfo8opr26>: Cierre de sesion
+[26/01/2021 10:12:53] <1> <ZERKENIS> <192.168.1.4> <2ab19pi92rqhds0hqod60gln85>: Inicio de sesion correcto
+[26/01/2021 11:15:30] <1> <Jadid> <192.168.1.5> <p84p122fovfe48hkl1402popb6>: Inicio de sesion correcto
+[26/01/2021 11:32:42] <0> <Jadid> <192.168.1.5> <p84p122fovfe48hkl1402popb6>: Cierre de sesion
+[26/01/2021 11:33:06] <1> <ZERKENIS > <192.168.1.5> <p84p122fovfe48hkl1402popb6>: Inicio de sesion correcto
+[26/01/2021 11:55:39] <0> <ZERKENIS > <192.168.1.5> <p84p122fovfe48hkl1402popb6>: Cierre de sesion
+[26/01/2021 12:48:55] <1> <Jadid> <192.168.1.5> <p84p122fovfe48hkl1402popb6>: Inicio de sesion correcto
+[26/01/2021 15:20:29] <1> <Jadid> <192.168.1.5> <p84p122fovfe48hkl1402popb6>: Inicio de sesion correcto
+[26/01/2021 15:22:47] <1> <sandra> <190.252.113.203> <gofprrmu7she8hscso51ej93s7>: Inicio de sesion correcto
+[26/01/2021 18:59:47] <0> <ZERKENIS> <192.168.1.4> <2ab19pi92rqhds0hqod60gln85>: Cierre de sesion
+[27/01/2021 10:18:50] <1> <ZERKENIS> <192.168.1.4> <4cfj6ipr9fcpvm5an5gbclne93>: Inicio de sesion correcto
+[27/01/2021 11:04:50] <1> <Jadid> <192.168.1.5> <1hvnn8hs7p08j3uvseed7ie6q7>: Inicio de sesion correcto
+[27/01/2021 11:15:22] <1> <sandra> <190.252.113.203> <lqbrg81lthcjsh51tc9flc4mb5>: Inicio de sesion correcto
+[27/01/2021 13:50:22] <1> <ZERKENIS> <192.168.1.4> <4cfj6ipr9fcpvm5an5gbclne93>: Inicio de sesion correcto
+[27/01/2021 18:24:18] <0> <sandra> <190.252.113.203> <lqbrg81lthcjsh51tc9flc4mb5>: Cierre de sesion
+[27/01/2021 18:53:26] <0> <ZERKENIS> <192.168.1.4> <4cfj6ipr9fcpvm5an5gbclne93>: Cierre de sesion
+[28/01/2021 10:05:12] <1> <ZERKENIS> <192.168.1.4> <sp95p9q5qqipt3l63mobjejis1>: Inicio de sesion correcto
+[28/01/2021 10:40:13] <1> <sandra> <190.252.113.203> <aj85va4uf0d74h87uev5jgb3h3>: Inicio de sesion correcto
+[28/01/2021 11:16:37] <1> <Jadid> <192.168.1.5> <nk3n3io4la74l2hhp96tdlgfq4>: Inicio de sesion correcto
+[28/01/2021 15:50:17] <0> <ZERKENIS> <192.168.1.4> <sp95p9q5qqipt3l63mobjejis1>: Cierre de sesion
+[28/01/2021 15:50:30] <1> <ZERKENIS> <192.168.1.4> <sp95p9q5qqipt3l63mobjejis1>: Inicio de sesion correcto
+[29/01/2021 9:39:56] <1> <Jadid> <192.168.1.5> <8p221dm7jgsj3c56lf516iot93>: Inicio de sesion correcto
+[29/01/2021 10:05:11] <1> <ZERKENIS> <192.168.1.4> <s0691m63ufg9bmdv5orjlupa63>: Inicio de sesion correcto
+[29/01/2021 18:20:35] <0> <sandra> <190.252.116.131> <aj85va4uf0d74h87uev5jgb3h3>: Cierre de sesion
+[29/01/2021 18:46:39] <0> <ZERKENIS> <192.168.1.4> <s0691m63ufg9bmdv5orjlupa63>: Cierre de sesion
+[29/01/2021 19:41:08] <1> <Jadid> <186.169.141.22> <kd83v464v60kemrsn3g2uhv944>: Inicio de sesion correcto
+[30/01/2021 10:20:59] <1> <ZERKENIS> <192.168.1.4> <mfeajt66tprlm5ad5nufbe7m95>: Inicio de sesion correcto
+[30/01/2021 10:21:21] <1> <sandra> <190.252.116.131> <vsc5o091257th9qr4c6kqa1q16>: Inicio de sesion correcto
+[30/01/2021 11:08:24] <1> <Jadid> <192.168.1.5> <75r5mhslsrja1ot5t81n7nlno3>: Inicio de sesion correcto
+[30/01/2021 14:28:51] <1> <Jadid> <192.168.1.5> <75r5mhslsrja1ot5t81n7nlno3>: Inicio de sesion correcto
+[30/01/2021 15:39:35] <1> <SANDRA> <190.252.116.131> <vsc5o091257th9qr4c6kqa1q16>: Inicio de sesion correcto
+[30/01/2021 18:01:49] <0> <SANDRA> <190.252.116.131> <vsc5o091257th9qr4c6kqa1q16>: Cierre de sesion
+[30/01/2021 18:20:54] <0> <ZERKENIS> <192.168.1.4> <mfeajt66tprlm5ad5nufbe7m95>: Cierre de sesion
+[01/02/2021 9:59:09] <1> <ZERKENIS> <192.168.1.4> <amr3d2albuek1ettu30a1ii282>: Inicio de sesion correcto
+[01/02/2021 10:38:46] <1> <Jadid> <192.168.1.5> <mnd62fll4jc46ag3oe8oo54b82>: Inicio de sesion correcto
+[01/02/2021 13:45:44] <1> <betty> <190.252.112.148> <h2ssp5ju9pvf44a533p3joq5u5>: Inicio de sesion correcto
+[01/02/2021 17:52:38] <1> <betty> <190.252.112.148> <psh9a2tnbjank2jqe95pg9f382>: Inicio de sesion correcto
+[01/02/2021 18:12:21] <1> <betty> <190.252.112.148> <psh9a2tnbjank2jqe95pg9f382>: Inicio de sesion correcto
+[01/02/2021 18:26:01] <1> <SANDRA> <190.252.112.148> <pi48ap40u4stis2ksblnb6bbq6>: Inicio de sesion correcto
+[01/02/2021 18:56:51] <0> <ZERKENIS> <192.168.1.4> <amr3d2albuek1ettu30a1ii282>: Cierre de sesion
+[01/02/2021 19:01:26] <0> <SANDRA> <190.252.112.148> <pi48ap40u4stis2ksblnb6bbq6>: Cierre de sesion
+[02/02/2021 9:23:07] <1> <Jadid> <192.168.1.5> <69mn1vv6scsiv7m08nspedmbv2>: Inicio de sesion correcto
+[02/02/2021 9:39:15] <1> <ZERKENIS> <192.168.1.4> <neoe3beocusajh4jb88iu0h3t0>: Inicio de sesion correcto
+[02/02/2021 14:02:52] <1> <ZERKENIS> <192.168.1.4> <neoe3beocusajh4jb88iu0h3t0>: Inicio de sesion correcto
+[02/02/2021 14:25:30] <1> <SANDRA> <190.252.112.148> <30ehdqpds2pm2udgi7h0lesbt4>: Inicio de sesion correcto
+[02/02/2021 14:54:49] <0> <ZERKENIS> <192.168.1.4> <neoe3beocusajh4jb88iu0h3t0>: Cierre de sesion
+[02/02/2021 14:55:09] <1> <Jadid> <192.168.1.4> <neoe3beocusajh4jb88iu0h3t0>: Inicio de sesion correcto
+[02/02/2021 15:06:22] <0> <Jadid> <192.168.1.4> <neoe3beocusajh4jb88iu0h3t0>: Cierre de sesion
+[02/02/2021 15:06:28] <1> <ZERKENIS> <192.168.1.4> <neoe3beocusajh4jb88iu0h3t0>: Inicio de sesion correcto
+[02/02/2021 15:22:54] <1> <ZERKENIS> <192.168.1.4> <ne5n1f8o1d8mpgtsek310sn6t0>: Inicio de sesion correcto
+[02/02/2021 18:19:23] <0> <SANDRA> <190.252.112.148> <30ehdqpds2pm2udgi7h0lesbt4>: Cierre de sesion
+[02/02/2021 18:30:00] <0> <ZERKENIS> <192.168.1.4> <ne5n1f8o1d8mpgtsek310sn6t0>: Cierre de sesion
+[03/02/2021 9:59:56] <1> <ZERKENIS> <192.168.1.4> <958o8lujf0t59ejte2abvpqri4>: Inicio de sesion correcto
+[03/02/2021 10:01:43] <1> <sandra> <190.252.117.100> <pomhrqpng0pae5hraarbhba1m1>: Inicio de sesion correcto
+[03/02/2021 10:11:43] <1> <Jadid> <192.168.1.5> <t0r0tt93ul6vniruquff9m8sg7>: Inicio de sesion correcto
+[03/02/2021 12:36:11] <1> <ZERKENIS> <192.168.1.4> <958o8lujf0t59ejte2abvpqri4>: Inicio de sesion correcto
+[03/02/2021 15:57:51] <0> <Jadid> <192.168.1.5> <t0r0tt93ul6vniruquff9m8sg7>: Cierre de sesion
+[03/02/2021 18:14:56] <0> <sandra> <190.252.117.100> <pomhrqpng0pae5hraarbhba1m1>: Cierre de sesion
+[04/02/2021 10:54:21] <1> <sandra> <190.252.117.100> <64a05od8mpminnkpo4qhan83k4>: Inicio de sesion correcto
+[04/02/2021 11:40:37] <1> <Jadid> <192.168.1.5> <904acbvrsm2ubd9farrjtfdek3>: Inicio de sesion correcto
+[04/02/2021 14:09:13] <1> <ZERKENIS> <192.168.1.4> <958o8lujf0t59ejte2abvpqri4>: Inicio de sesion correcto
+[04/02/2021 14:52:48] <0> <Jadid> <192.168.1.5> <904acbvrsm2ubd9farrjtfdek3>: Cierre de sesion
+[04/02/2021 14:53:06] <1> <ZERKENIS > <192.168.1.5> <904acbvrsm2ubd9farrjtfdek3>: Inicio de sesion correcto
+[04/02/2021 17:40:02] <0> <sandra> <190.252.117.100> <64a05od8mpminnkpo4qhan83k4>: Cierre de sesion
+[04/02/2021 17:46:53] <0> <ZERKENIS> <192.168.1.4> <958o8lujf0t59ejte2abvpqri4>: Cierre de sesion
+[04/02/2021 17:47:00] <0> <ZERKENIS > <192.168.1.5> <904acbvrsm2ubd9farrjtfdek3>: Cierre de sesion
+[04/02/2021 17:47:12] <1> <Jadid> <192.168.1.5> <904acbvrsm2ubd9farrjtfdek3>: Inicio de sesion correcto
+[05/02/2021 10:14:09] <1> <ZERKENIS> <192.168.1.4> <958o8lujf0t59ejte2abvpqri4>: Inicio de sesion correcto
+[05/02/2021 11:16:00] <1> <Jadid> <192.168.1.5> <kfoitanpvfr1cn7hl9e11nonq2>: Inicio de sesion correcto
+[05/02/2021 11:21:52] <0> <Jadid> <192.168.1.5> <kfoitanpvfr1cn7hl9e11nonq2>: Cierre de sesion
+[05/02/2021 11:22:01] <1> <Jadid> <192.168.1.5> <kfoitanpvfr1cn7hl9e11nonq2>: Inicio de sesion correcto
+[05/02/2021 17:14:00] <1> <sandra> <190.252.117.100> <2mjorf3klcgb14c92vo4k070a4>: Inicio de sesion correcto
+[05/02/2021 19:00:13] <0> <ZERKENIS> <192.168.1.4> <958o8lujf0t59ejte2abvpqri4>: Cierre de sesion
+[05/02/2021 19:08:56] <0> <sandra> <190.252.117.100> <2mjorf3klcgb14c92vo4k070a4>: Cierre de sesion
+[05/02/2021 19:43:01] <1> <Jadid> <186.169.203.103> <kd83v464v60kemrsn3g2uhv944>: Inicio de sesion correcto
+[06/02/2021 10:06:58] <1> <Jadid> <192.168.1.5> <u1g12crvri7pu7q409qs1bq0d7>: Inicio de sesion correcto
+[06/02/2021 10:07:15] <1> <sandra> <190.252.117.100> <58s900tg04emkqvv338brciku0>: Inicio de sesion correcto
+[06/02/2021 10:10:59] <1> <ZERKENIS> <192.168.1.4> <6vh03q82ied004v5krejh84675>: Inicio de sesion correcto
+[06/02/2021 13:30:54] <0> <ZERKENIS> <192.168.1.4> <6vh03q82ied004v5krejh84675>: Cierre de sesion
+[06/02/2021 13:31:05] <1> <ZERKENIS> <192.168.1.4> <6vh03q82ied004v5krejh84675>: Inicio de sesion correcto
+[06/02/2021 17:19:18] <0> <ZERKENIS> <192.168.1.4> <6vh03q82ied004v5krejh84675>: Cierre de sesion
+[06/02/2021 17:19:25] <1> <ZERKENIS> <192.168.1.4> <6vh03q82ied004v5krejh84675>: Inicio de sesion correcto
+[06/02/2021 17:23:39] <0> <ZERKENIS> <192.168.1.4> <6vh03q82ied004v5krejh84675>: Cierre de sesion
+[06/02/2021 17:24:06] <1> <ZERKENIS> <192.168.1.4> <6vh03q82ied004v5krejh84675>: Inicio de sesion correcto
+[06/02/2021 17:29:47] <1> <Jadid> <192.168.1.5> <u1g12crvri7pu7q409qs1bq0d7>: Inicio de sesion correcto
+[06/02/2021 18:09:54] <0> <ZERKENIS> <192.168.1.4> <6vh03q82ied004v5krejh84675>: Cierre de sesion
+[08/02/2021 9:48:11] <1> <sandra> <190.252.117.188> <kds0hjpqd5mtcee5etsh5ckc60>: Inicio de sesion correcto
+[08/02/2021 10:13:46] <1> <ZERKENIS> <192.168.1.4> <aj4etcrd79emmkbrc0hp4bo1g5>: Inicio de sesion correcto
+[08/02/2021 13:59:40] <1> <Jadid> <192.168.1.5> <d5qrnecrh2b95qpe5evtn442a1>: Inicio de sesion correcto
+[08/02/2021 18:08:57] <0> <ZERKENIS> <192.168.1.4> <aj4etcrd79emmkbrc0hp4bo1g5>: Cierre de sesion
+[08/02/2021 18:09:16] <1> <sandra> <192.168.1.4> <aj4etcrd79emmkbrc0hp4bo1g5>: Inicio de sesion correcto
+[08/02/2021 18:13:05] <0> <sandra> <192.168.1.4> <aj4etcrd79emmkbrc0hp4bo1g5>: Cierre de sesion
+[08/02/2021 18:24:43] <1> <ZERKENIS> <192.168.1.4> <aj4etcrd79emmkbrc0hp4bo1g5>: Inicio de sesion correcto
+[08/02/2021 18:44:18] <0> <ZERKENIS> <192.168.1.4> <aj4etcrd79emmkbrc0hp4bo1g5>: Cierre de sesion
+[09/02/2021 10:04:39] <1> <ZERKENIS> <192.168.1.4> <gccso9q75urs40djg207lu0vf1>: Inicio de sesion correcto
+[09/02/2021 10:33:56] <1> <Jadid> <192.168.1.5> <icqang6mhok084aq2nd2vq3714>: Inicio de sesion correcto
+[09/02/2021 14:59:21] <1> <ZERKENIS> <192.168.1.4> <gccso9q75urs40djg207lu0vf1>: Inicio de sesion correcto
+[09/02/2021 16:31:07] <0> <ZERKENIS> <192.168.1.4> <gccso9q75urs40djg207lu0vf1>: Cierre de sesion
+[09/02/2021 18:13:31] <0> <sandra> <190.252.115.235> <kds0hjpqd5mtcee5etsh5ckc60>: Cierre de sesion
+[10/02/2021 10:09:40] <1> <ZERKENIS> <192.168.1.4> <3sc7cbokmubq5l20s4404r3e90>: Inicio de sesion correcto
+[10/02/2021 12:57:52] <1> <Jadid> <192.168.1.5> <36bt6vn7sg6v4l65tp7ld5v5c0>: Inicio de sesion correcto
+[10/02/2021 17:38:53] <1> <SANDRA> <190.252.115.235> <tku6a8c3pi8nc5996edkjq1jq0>: Inicio de sesion correcto
+[10/02/2021 18:14:13] <0> <ZERKENIS> <192.168.1.4> <3sc7cbokmubq5l20s4404r3e90>: Cierre de sesion
+[10/02/2021 18:14:25] <1> <Jadid> <192.168.1.4> <3sc7cbokmubq5l20s4404r3e90>: Inicio de sesion correcto
+[10/02/2021 18:27:28] <0> <SANDRA> <190.252.115.235> <tku6a8c3pi8nc5996edkjq1jq0>: Cierre de sesion
+[10/02/2021 8:53:01] <1> <admin> <192.168.1.210> <3vog5p4n2e2mpevfjnibnucpp2>: Inicio de sesion correcto
+[10/02/2021 8:58:04] <1> <admin> <192.168.1.210> <iti49059dhhik62b5tfops0sj6>: Inicio de sesion correcto
+[10/02/2021 9:44:24] <1> <admin> <192.168.1.210> <iti49059dhhik62b5tfops0sj6>: Inicio de sesion correcto
+[10/02/2021 9:46:59] <1> <Jadid> <192.168.1.5> <tkh4svpfvm9k22lflkj907pvm0>: Inicio de sesion correcto
+[10/02/2021 10:03:18] <1> <sandra> <190.252.115.235> <0n64qjbqgm5jp68d0s9jke7mb2>: Inicio de sesion correcto
+[11/02/2021 10:09:16] <1> <ZERKENIS> <192.168.1.4> <9ttcp0du98acfbvorjiusj4102>: Inicio de sesion correcto
+[11/02/2021 11:57:45] <1> <admin> <192.168.1.210> <32gauprvgfuh963748r2gjfa46>: Inicio de sesion correcto
+[11/02/2021 12:07:02] <1> <admin> <192.168.1.210> <l4c8e0i7aajjagdnsdmr9heto0>: Inicio de sesion correcto
+[11/02/2021 16:25:42] <1> <admin> <192.168.1.210> <9449eif6fghikvg1t4qi2bn102>: Inicio de sesion correcto
+[11/02/2021 18:01:36] <1> <Jadid> <192.168.1.5> <tkh4svpfvm9k22lflkj907pvm0>: Inicio de sesion correcto
+[11/02/2021 18:55:44] <0> <sandra> <190.252.115.235> <0n64qjbqgm5jp68d0s9jke7mb2>: Cierre de sesion
+[11/02/2021 18:55:51] <0> <ZERKENIS> <192.168.1.4> <9ttcp0du98acfbvorjiusj4102>: Cierre de sesion
+[12/02/2021 9:13:52] <1> <admin> <192.168.1.210> <lnqfptq8ir24khol55oci9rqn6>: Inicio de sesion correcto
+[16/02/2021 20:12:00] <1> <admin> <::1> <u59ij7siah35mj6dii68r96um6>: Inicio de sesion correcto
+[16/02/2021 20:12:35] <1> <admin> <::1> <u59ij7siah35mj6dii68r96um6>: Inicio de sesion correcto
+[16/02/2021 20:13:10] <1> <admin> <127.0.0.1> <ojnjjdv7h2hrgoqjb5l3d8b974>: Inicio de sesion correcto
+[16/02/2021 20:18:17] <1> <admin> <127.0.0.1> <ojnjjdv7h2hrgoqjb5l3d8b974>: Inicio de sesion correcto
+[16/02/2021 20:18:21] <1> <admin> <127.0.0.1> <ojnjjdv7h2hrgoqjb5l3d8b974>: Inicio de sesion correcto
+[16/02/2021 20:19:03] <1> <admin> <127.0.0.1> <ojnjjdv7h2hrgoqjb5l3d8b974>: Inicio de sesion correcto
+[16/02/2021 20:20:25] <1> <admin> <127.0.0.1> <ojnjjdv7h2hrgoqjb5l3d8b974>: Inicio de sesion correcto
+[16/02/2021 20:21:42] <1> <admin> <127.0.0.1> <ojnjjdv7h2hrgoqjb5l3d8b974>: Inicio de sesion correcto
+[16/02/2021 20:24:30] <1> <admin> <127.0.0.1> <ojnjjdv7h2hrgoqjb5l3d8b974>: Inicio de sesion correcto
+[16/02/2021 20:25:44] <1> <admin> <127.0.0.1> <ojnjjdv7h2hrgoqjb5l3d8b974>: Inicio de sesion correcto
+[16/02/2021 21:07:52] <0> <admin> <127.0.0.1> <ojnjjdv7h2hrgoqjb5l3d8b974>: Cierre de sesion
+[16/02/2021 21:08:00] <1> <admin> <127.0.0.1> <ojnjjdv7h2hrgoqjb5l3d8b974>: Inicio de sesion correcto
+[16/02/2021 23:09:34] <0> <admin> <127.0.0.1> <ojnjjdv7h2hrgoqjb5l3d8b974>: Cierre de sesion
+[16/02/2021 23:09:42] <1> <admin> <127.0.0.1> <ojnjjdv7h2hrgoqjb5l3d8b974>: Inicio de sesion correcto
+[17/02/2021 20:42:25] <1> <admin> <127.0.0.1> <totvthod7cl7tjm8rn5kua2te4>: Inicio de sesion correcto
+[18/02/2021 14:06:36] <1> <admin> <127.0.0.1> <sp9aam4350c133pmbda760mgl6>: Inicio de sesion correcto
+[18/02/2021 17:09:16] <1> <admin> <127.0.0.1> <sp9aam4350c133pmbda760mgl6>: Inicio de sesion correcto
+[22/02/2021 20:45:50] <1> <admin> <::1> <9cddmh6gdg8drb80vs96t4js54>: Inicio de sesion correcto
+[22/02/2021 20:51:58] <1> <admin> <127.0.0.1> <pssp1ctqfl2cs9o764tj708gp6>: Inicio de sesion correcto

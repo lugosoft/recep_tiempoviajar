@@ -1,0 +1,38 @@
+------------------------------------
+
+
+- NIT que sea único. [OK]
+
+- En la creacion de prog tour sale un mensaje degub [OK]
+- Al crear una reserva esta no esta quedando asociada a la oficina [OK]
+
+- HORA IN HORA OUT EN RESERVA [OK]
+
+- NUEVO CAMPO PAQUETE EN RESERVAS (LISTA DESPLEGABLE) [OK]
+- Incluir columna paquete en reporte de llegadas [OK]
+
+- Agregar Tel pasajero en Reporte de Llegadas. [OK]
+- Agregar Tel pasajero en Reporte de Salidas. [OK]
+
+- Agencia y hotel => concatenado (codigo + nombre) [OK]
+
+- TELEFONOS DISCRMNAR POR OFICINA [OK]
+- INCLUIR LEYENDA POR CADA OFICINA [OK]
+
+- CONFIGURAR PAQUETES EN EL MODULO DE TABLAS [OK]
+
+- Asesor agencia en reservas
+
+- Programacion de tours indicando fecha inicio y fecha fin. (Rango de fechas)
+
+---------------------------------------------------
+
+cargar:
+  cod age [ok]
+  cod hot [ok]
+  guia [ok]
+  usuarios [ok]
+  paquetes [PENDIENTE DATA]
+  
+  tours [TEO LOS DEBE CARGAR]
+

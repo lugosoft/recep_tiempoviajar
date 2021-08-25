@@ -1,0 +1,361 @@
+
+[14/08/2021 14:14:45] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'RES', fechares = '20210814' WHERE tipo='RES' and num = '1743'
+[14/08/2021 14:14:45] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE VUELOS SET HORAVLO = '13:30' WHERE TIPOVLO = 'IN' AND NROVLO = 'GCA1519'
+[14/08/2021 14:14:45] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE VUELOS SET HORAVLO = '14:30' WHERE TIPOVLO = 'OUT' AND NROVLO = 'GCA1514'
+[14/08/2021 14:14:45] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO RESERVAS (FDIGITA, NUMRES, RESRES, FLLEGA, FSALE, 
+									  CODCLI, NOMPAX, CODNAC, NUMPAX, VUELLE, 
+									  CODHOT, VUESAL, CODUSR, OBS, BORRADA, 
+                    VOUCHER, TELPAX, DOCUMENTO, CODOFI, HORALLE, 
+                    HORASAL, CODPAQ) 
+									  VALUES ('20210814', '1743', '1', '20210815', '20210819', 
+									  '50173', 'EDWIN ALEXIS MINA ', 'COL', '4', 'GCA1519', 
+									  '40163', 'GCA1514', 'YERISSEL', 'COMBO 1', NULL, 
+                    '', '', '', 'ADZ', '13:30', 
+                    '14:30', 'ADZ001')
+[14/08/2021 14:14:45] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('1743', '1', '00004', 'YERISSEL', '20210814')
+[14/08/2021 14:14:45] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('1743', '1', '00050', 'YERISSEL', '20210814')
+[14/08/2021 14:14:45] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('1743', '1', '00051', 'YERISSEL', '20210814')
+[14/08/2021 14:14:45] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('1743', '1', '00005', 'YERISSEL', '20210814')
+[14/08/2021 14:14:45] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'OCU' WHERE tipo='RES' and num = '1743'
+[14/08/2021 14:14:45] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO LOGS 
+						(FECHA, CODUSR, TIPO, 
+						TABLA, NUM, DESCRIPCION) 
+						VALUES(	'20210814 14:14', 'YERISSEL', 'REG', 
+								'RES', '1743', 'Registro de Reserva # 1743')
+[14/08/2021 14:15:05] <SQL> <admin> <181.51.32.152> <boeu4s36951srq2pvm9bu8egg0>:
+UPDATE PROVEEDORES SET 
+							NOMPRO = 'Jimmy Lewis Parra Gonz√°lez', 
+							DIRPRO = '', 
+							TE1PRO = '', 
+							TE2PRO = '444444', 
+							CELPRO = '', 
+							CONPRO = ''
+							WHERE CODPRO = 'JIMMY'
+[14/08/2021 14:15:17] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'RES', fechares = '20210814' WHERE tipo='VOU ADZ' and num = '2251'
+[14/08/2021 14:15:17] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO SERVICIOS_PARTICULAR (NUMVOU, CODTOUR, DOCUMENTO, NOMPAX, 
+																  CODHOT, CUARTOHOT, CODNAC, NUMPAX, 
+																  PRECIOXPER, TOTAL, OBS, CODUSR, FDIGITA, TIPO, 
+																  NUMPAX1, NUMPAX2, PRECIOXPER2, CODOFI) 
+																  VALUES('2251', '00004_20210816_09:00', '1743-1', 'EDWIN ALEXIS MINA',
+																		'40163', '', 'COL', '4', 
+																		'0', '0', 'NO INCLUYE IMPUESTO NI ALMUERZO ', 'YERISSEL', '20210814', 'Plan', 
+																		4, 0, 0, 'ADZ')
+[14/08/2021 14:15:17] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE RESERVAS_TOUR SET CONFIRMADA = 'SI' WHERE numres = '1743' and resres = '1' and codser = '00004'
+[14/08/2021 14:15:17] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'OCU' WHERE tipo='VOU ADZ' and num = '2251'
+[14/08/2021 14:15:17] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO LOGS 
+						(FECHA, CODUSR, TIPO, 
+						TABLA, NUM, DESCRIPCION) 
+						VALUES(	'20210814 14:15', 'YERISSEL', 'VEN', 
+								'TOUR', '2251', 'Venta de Tour. Voucher # ADZ-2251')
+[14/08/2021 14:15:43] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'RES', fechares = '20210814' WHERE tipo='VOU ADZ' and num = '2252'
+[14/08/2021 14:15:43] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO SERVICIOS_PARTICULAR (NUMVOU, CODTOUR, DOCUMENTO, NOMPAX, 
+																  CODHOT, CUARTOHOT, CODNAC, NUMPAX, 
+																  PRECIOXPER, TOTAL, OBS, CODUSR, FDIGITA, TIPO, 
+																  NUMPAX1, NUMPAX2, PRECIOXPER2, CODOFI) 
+																  VALUES('2252', '00005_20210817_09:40', '1743-1', 'EDWIN ALEXIS MINA',
+																		'40163', '', 'COL', '4', 
+																		'0', '0', 'NO INCLUYE ENTRADAS, PRESENTARSE 10 MIN ANTES', 'YERISSEL', '20210814', 'Plan', 
+																		4, 0, 0, 'ADZ')
+[14/08/2021 14:15:43] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE RESERVAS_TOUR SET CONFIRMADA = 'SI' WHERE numres = '1743' and resres = '1' and codser = '00005'
+[14/08/2021 14:15:43] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'OCU' WHERE tipo='VOU ADZ' and num = '2252'
+[14/08/2021 14:15:43] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO LOGS 
+						(FECHA, CODUSR, TIPO, 
+						TABLA, NUM, DESCRIPCION) 
+						VALUES(	'20210814 14:15', 'YERISSEL', 'VEN', 
+								'TOUR', '2252', 'Venta de Tour. Voucher # ADZ-2252')
+[14/08/2021 14:16:25] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'RES', fechares = '20210814' WHERE tipo='VOU ADZ' and num = '2253'
+[14/08/2021 14:16:25] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO SERVICIOS_PARTICULAR (NUMVOU, CODTOUR, DOCUMENTO, NOMPAX, 
+																  CODHOT, CUARTOHOT, CODNAC, NUMPAX, 
+																  PRECIOXPER, TOTAL, OBS, CODUSR, FDIGITA, TIPO, 
+																  NUMPAX1, NUMPAX2, PRECIOXPER2, CODOFI) 
+																  VALUES('2253', '00051_20210819_12:00', '1743-1', 'EDWIN ALEXIS MINA',
+																		'40163', '', 'COL', '4', 
+																		'0', '0', 'ESTAR 10 MINUTOS ANTES EN LA RECEPCION ', 'YERISSEL', '20210814', 'Plan', 
+																		4, 0, 0, 'ADZ')
+[14/08/2021 14:16:25] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE RESERVAS_TOUR SET CONFIRMADA = 'SI' WHERE numres = '1743' and resres = '1' and codser = '00051'
+[14/08/2021 14:16:25] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'OCU' WHERE tipo='VOU ADZ' and num = '2253'
+[14/08/2021 14:16:25] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO LOGS 
+						(FECHA, CODUSR, TIPO, 
+						TABLA, NUM, DESCRIPCION) 
+						VALUES(	'20210814 14:16', 'YERISSEL', 'VEN', 
+								'TOUR', '2253', 'Venta de Tour. Voucher # ADZ-2253')
+[14/08/2021 14:17:06] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'RES', fechares = '20210814' WHERE tipo='VOU ADZ' and num = '2254'
+[14/08/2021 14:17:06] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO SERVICIOS_PARTICULAR (NUMVOU, CODTOUR, DOCUMENTO, NOMPAX, 
+																  CODHOT, CUARTOHOT, CODNAC, NUMPAX, 
+																  PRECIOXPER, TOTAL, OBS, CODUSR, FDIGITA, TIPO, 
+																  NUMPAX1, NUMPAX2, PRECIOXPER2, CODOFI) 
+																  VALUES('2254', '00050_20210815_13:30', '1743-1', 'EDWIN ALEXIS MINA',
+																		'40163', '', 'COL', '4', 
+																		'0', '0', '', 'YERISSEL', '20210814', 'Plan', 
+																		4, 0, 0, 'ADZ')
+[14/08/2021 14:17:06] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE RESERVAS_TOUR SET CONFIRMADA = 'SI' WHERE numres = '1743' and resres = '1' and codser = '00050'
+[14/08/2021 14:17:06] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'OCU' WHERE tipo='VOU ADZ' and num = '2254'
+[14/08/2021 14:17:06] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO LOGS 
+						(FECHA, CODUSR, TIPO, 
+						TABLA, NUM, DESCRIPCION) 
+						VALUES(	'20210814 14:17', 'YERISSEL', 'VEN', 
+								'TOUR', '2254', 'Venta de Tour. Voucher # ADZ-2254')
+[14/08/2021 14:24:30] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'RES', fechares = '20210814' WHERE tipo='RES' and num = '1744'
+[14/08/2021 14:24:31] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE VUELOS SET HORAVLO = '19:45' WHERE TIPOVLO = 'IN' AND NROVLO = 'GCA1519'
+[14/08/2021 14:24:31] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE VUELOS SET HORAVLO = '11:55' WHERE TIPOVLO = 'OUT' AND NROVLO = 'GCA1518'
+[14/08/2021 14:24:31] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO RESERVAS (FDIGITA, NUMRES, RESRES, FLLEGA, FSALE, 
+									  CODCLI, NOMPAX, CODNAC, NUMPAX, VUELLE, 
+									  CODHOT, VUESAL, CODUSR, OBS, BORRADA, 
+                    VOUCHER, TELPAX, DOCUMENTO, CODOFI, HORALLE, 
+                    HORASAL, CODPAQ) 
+									  VALUES ('20210814', '1744', '1', '20210815', '20210819', 
+									  '50173', 'NICOLAS ALBERTO ARANGO ', 'COL', '3', 'GCA1519', 
+									  '40178', 'GCA1518', 'YERISSEL', 'COMBOL FULL', NULL, 
+                    '', '', '', 'ADZ', '19:45', 
+                    '11:55', 'PREMADZ')
+[14/08/2021 14:24:31] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('1744', '1', '00004', 'YERISSEL', '20210814')
+[14/08/2021 14:24:31] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('1744', '1', '00006', 'YERISSEL', '20210814')
+[14/08/2021 14:24:31] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('1744', '1', '00050', 'YERISSEL', '20210814')
+[14/08/2021 14:24:31] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('1744', '1', '00051', 'YERISSEL', '20210814')
+[14/08/2021 14:24:31] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('1744', '1', '00005', 'YERISSEL', '20210814')
+[14/08/2021 14:24:31] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'OCU' WHERE tipo='RES' and num = '1744'
+[14/08/2021 14:24:31] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO LOGS 
+						(FECHA, CODUSR, TIPO, 
+						TABLA, NUM, DESCRIPCION) 
+						VALUES(	'20210814 14:24', 'YERISSEL', 'REG', 
+								'RES', '1744', 'Registro de Reserva # 1744')
+[14/08/2021 14:24:44] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+UPDATE VUELOS SET HORAVLO = '16:55' WHERE TIPOVLO = 'IN' AND NROVLO = 'VH5780'
+[14/08/2021 14:24:44] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+INSERT INTO RESERVAS (FDIGITA, NUMRES, RESRES, FLLEGA, FSALE, 
+									  CODCLI, NOMPAX, CODNAC, NUMPAX, VUELLE, 
+									  CODHOT, VUESAL, CODUSR, OBS, BORRADA, 
+                    VOUCHER, TELPAX, DOCUMENTO, CODOFI, HORALLE, 
+                    HORASAL, CODPAQ) 
+									  VALUES ('20210812', '-1596', '1', '20210813', '20210816', 
+									  '50184', 'NUBIA DE JESUS SALAZAR', 'COL', '5', 'VH5780', 
+									  'DUBAI', '', 'daniela', 'Falta el vuelo de salida--', NULL, 
+                    '', '3176768178', '', 'CTG', '16:55', 
+                    '', 'PREMCTG')
+[14/08/2021 14:24:44] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('-1596', '1', '00021', 'daniela', '20210814')
+[14/08/2021 14:24:44] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('-1596', '1', '00024', 'daniela', '20210814')
+[14/08/2021 14:24:44] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('-1596', '1', '00027', 'daniela', '20210814')
+[14/08/2021 14:24:44] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('-1596', '1', '00050', 'daniela', '20210814')
+[14/08/2021 14:24:45] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+INSERT INTO RESERVAS_TOUR (NUMRES, RESRES, CODSER, CODUSR, FDIGITA)  
+										VALUES ('-1596', '1', '00051', 'daniela', '20210814')
+[14/08/2021 14:24:45] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+DELETE FROM RESERVAS_TOUR WHERE numres = '1596'
+[14/08/2021 14:24:45] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+DELETE FROM RESERVAS WHERE numres = '1596'
+[14/08/2021 14:24:45] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+INSERT INTO RESERVAS (FDIGITA, NUMRES, RESRES, FLLEGA, FSALE, 
+                                                        CODCLI, NOMPAX, CODNAC, NUMPAX, VUELLE, 
+                                                        CODHOT, VUESAL, CODUSR, OBS, BORRADA, 
+                                                        VOUCHER, TELPAX, DOCUMENTO, CODOFI, HORALLE, 
+                                                        HORASAL, CODPAQ) 
+                                                        (SELECT 
+                                                            FDIGITA, (NUMRES*(-1)) AS NUMRES, RESRES, FLLEGA, FSALE, 
+                                                            CODCLI, NOMPAX, CODNAC, NUMPAX, VUELLE, 
+                                                            CODHOT, VUESAL, CODUSR, OBS, BORRADA, 
+                                                            VOUCHER, TELPAX, DOCUMENTO, CODOFI, HORALLE, 
+                                                            HORASAL, CODPAQ 
+                                                        FROM RESERVAS WHERE NUMRES = '-1596')
+[14/08/2021 14:24:45] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+UPDATE RESERVAS_TOUR SET numres = '1596' WHERE numres = '-1596'
+[14/08/2021 14:24:45] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+DELETE FROM RESERVAS WHERE numres = '-1596'
+[14/08/2021 14:24:45] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+INSERT INTO LOGS 
+						(FECHA, CODUSR, TIPO, 
+						TABLA, NUM, DESCRIPCION) 
+						VALUES(	'20210814 14:24', 'daniela', 'ACT', 
+								'RES', '1596', 'Actualizacion de Reserva # 1596')
+[14/08/2021 14:25:08] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'RES', fechares = '20210814' WHERE tipo='VOU ADZ' and num = '2255'
+[14/08/2021 14:25:08] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO SERVICIOS_PARTICULAR (NUMVOU, CODTOUR, DOCUMENTO, NOMPAX, 
+																  CODHOT, CUARTOHOT, CODNAC, NUMPAX, 
+																  PRECIOXPER, TOTAL, OBS, CODUSR, FDIGITA, TIPO, 
+																  NUMPAX1, NUMPAX2, PRECIOXPER2, CODOFI) 
+																  VALUES('2255', '00004_20210816_08:45', '1744-1', 'NICOLAS ALBERTO ARANGO',
+																		'40178', '', 'COL', '3', 
+																		'0', '0', 'NO INCLUYE IMPUESTO NI ALMUERZO ', 'YERISSEL', '20210814', 'Plan', 
+																		3, 0, 0, 'ADZ')
+[14/08/2021 14:25:08] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE RESERVAS_TOUR SET CONFIRMADA = 'SI' WHERE numres = '1744' and resres = '1' and codser = '00004'
+[14/08/2021 14:25:08] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+UPDATE CONSECUTIVOS set estado = 'OCU' WHERE tipo='VOU ADZ' and num = '2255'
+[14/08/2021 14:25:08] <SQL> <YERISSEL> <191.102.221.140> <tatdj8ljdh1nubava8p6m9mg07>:
+INSERT INTO LOGS 
+						(FECHA, CODUSR, TIPO, 
+						TABLA, NUM, DESCRIPCION) 
+						VALUES(	'20210814 14:25', 'YERISSEL', 'VEN', 
+								'TOUR', '2255', 'Venta de Tour. Voucher # ADZ-2255')
+[14/08/2021 14:25:44] <SQL decode> <admin> <181.51.32.152> <boeu4s36951srq2pvm9bu8egg0>:
+UPDATE PROVEEDORES SET 
+							NOMPRO = 'Jimmy Lewis Parra Gonz√°lez', 
+							DIRPRO = '', 
+							TE1PRO = '', 
+							TE2PRO = '444444', 
+							CELPRO = '', 
+							CONPRO = ''
+							WHERE CODPRO = 'JIMMY'
+[14/08/2021 14:25:44] <SQL encode> <admin> <181.51.32.152> <boeu4s36951srq2pvm9bu8egg0>:
+UPDATE PROVEEDORES SET 
+							NOMPRO = 'Jimmy Lewis Parra Gonz√É¬É√Ç¬°lez', 
+							DIRPRO = '', 
+							TE1PRO = '', 
+							TE2PRO = '444444', 
+							CELPRO = '', 
+							CONPRO = ''
+							WHERE CODPRO = 'JIMMY'
+[14/08/2021 14:26:05] <SQL decode> <admin> <181.51.32.152> <boeu4s36951srq2pvm9bu8egg0>:
+UPDATE PROVEEDORES SET 
+							NOMPRO = 'Jimmy Lewis Parra Gonz·lez', 
+							DIRPRO = '', 
+							TE1PRO = '', 
+							TE2PRO = '444444', 
+							CELPRO = '', 
+							CONPRO = ''
+							WHERE CODPRO = 'JIMMY'
+[14/08/2021 14:26:05] <SQL encode> <admin> <181.51.32.152> <boeu4s36951srq2pvm9bu8egg0>:
+UPDATE PROVEEDORES SET 
+							NOMPRO = 'Jimmy Lewis Parra Gonz√É¬°lez', 
+							DIRPRO = '', 
+							TE1PRO = '', 
+							TE2PRO = '444444', 
+							CELPRO = '', 
+							CONPRO = ''
+							WHERE CODPRO = 'JIMMY'
+[14/08/2021 14:28:33] <SQL encode> <admin> <181.51.32.152> <boeu4s36951srq2pvm9bu8egg0>:
+UPDATE PROVEEDORES SET 
+							NOMPRO = 'Jimmy Lewis Parra Gonz√É¬°lez', 
+							DIRPRO = '', 
+							TE1PRO = '', 
+							TE2PRO = '444444', 
+							CELPRO = '', 
+							CONPRO = ''
+							WHERE CODPRO = 'JIMMY'
+[14/08/2021 14:30:43] <SQL decode> <admin> <181.51.32.152> <boeu4s36951srq2pvm9bu8egg0>:
+UPDATE PROVEEDORES SET 
+							NOMPRO = 'Jimmy Lewis Parra Gonz·lez', 
+							DIRPRO = '', 
+							TE1PRO = '', 
+							TE2PRO = '444444', 
+							CELPRO = '', 
+							CONPRO = ''
+							WHERE CODPRO = 'JIMMY'
+[14/08/2021 14:39:23] <SQL decode> <admin> <181.51.32.152> <boeu4s36951srq2pvm9bu8egg0>:
+UPDATE PROVEEDORES SET 
+							NOMPRO = 'Jimmy Lewis Parra Gonz·lez', 
+							DIRPRO = '', 
+							TE1PRO = '', 
+							TE2PRO = '444444', 
+							CELPRO = '', 
+							CONPRO = ''
+							WHERE CODPRO = 'JIMMY'
+[14/08/2021 14:40:42] <SQL decode> <admin> <181.51.32.152> <boeu4s36951srq2pvm9bu8egg0>:
+UPDATE PROVEEDORES SET 
+							NOMPRO = 'Jimmy Lewis Parra Gonz·lez', 
+							DIRPRO = '', 
+							TE1PRO = '', 
+							TE2PRO = '444444', 
+							CELPRO = '', 
+							CONPRO = ''
+							WHERE CODPRO = 'JIMMY'
+[14/08/2021 14:40:53] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+INSERT INTO TOURS (CODTOUR, CODSER, FTOUR, LUGAR, CODPRO, CUPOS, CODOFI) 
+                        VALUES('00051_20210817_15:45', '00051', '20210817 15:45', 'se recoge en la recepcion del hotel ', 'MARIA', '50', 'CTG')
+[14/08/2021 14:40:53] <1111> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+[0] Violation of PRIMARY KEY constraint 'pk_tours'. Cannot insert duplicate key in object 'lugosoft_tiempoviajar.TOURS'. The duplicate key value is (00051_20210817_15:45).
+[14/08/2021 14:41:07] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+INSERT INTO TOURS (CODTOUR, CODSER, FTOUR, LUGAR, CODPRO, CUPOS, CODOFI) 
+                        VALUES('00051_20210817_15:45', '00051', '20210817 15:45', 'se recoge en la recepcion del hotel ', 'MARIA', '50', 'CTG')
+[14/08/2021 14:41:07] <1111> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+[0] Violation of PRIMARY KEY constraint 'pk_tours'. Cannot insert duplicate key in object 'lugosoft_tiempoviajar.TOURS'. The duplicate key value is (00051_20210817_15:45).
+[14/08/2021 14:41:14] <SQL> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+INSERT INTO TOURS (CODTOUR, CODSER, FTOUR, LUGAR, CODPRO, CUPOS, CODOFI) 
+                        VALUES('00051_20210817_15:45', '00051', '20210817 15:45', 'se recoge en la recepcion del hotel ', 'MARIA', '50', 'CTG')
+[14/08/2021 14:41:14] <1111> <daniela> <186.99.138.193> <pi5cnjphehtr268l6ou6qtdbi1>:
+[0] Violation of PRIMARY KEY constraint 'pk_tours'. Cannot insert duplicate key in object 'lugosoft_tiempoviajar.TOURS'. The duplicate key value is (00051_20210817_15:45).
+[14/08/2021 14:41:36] <SQL decode> <admin> <181.51.32.152> <boeu4s36951srq2pvm9bu8egg0>:
+UPDATE PROVEEDORES SET 
+							NOMPRO = 'Jimmy Lewis Parra Gonz·lez', 
+							DIRPRO = '', 
+							TE1PRO = '', 
+							TE2PRO = '444444', 
+							CELPRO = '', 
+							CONPRO = ''
+							WHERE CODPRO = 'JIMMY'
+[14/08/2021 14:44:03] <SQL decode> <admin> <181.51.32.152> <boeu4s36951srq2pvm9bu8egg0>:
+UPDATE PROVEEDORES SET 
+							NOMPRO = 'Jimmy Lewis Parra Gonz·lez', 
+							DIRPRO = '', 
+							TE1PRO = '', 
+							TE2PRO = '444444', 
+							CELPRO = '', 
+							CONPRO = ''
+							WHERE CODPRO = 'JIMMY'
+[14/08/2021 14:44:03] <SQL encode> <admin> <181.51.32.152> <boeu4s36951srq2pvm9bu8egg0>:
+UPDATE PROVEEDORES SET 
+							NOMPRO = 'Jimmy Lewis Parra Gonz√°lez', 
+							DIRPRO = '', 
+							TE1PRO = '', 
+							TE2PRO = '444444', 
+							CELPRO = '', 
+							CONPRO = ''
+							WHERE CODPRO = 'JIMMY'

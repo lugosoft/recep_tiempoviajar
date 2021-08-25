@@ -1,0 +1,2213 @@
+﻿* 
+{
+margin:0px; 
+padding:0px;
+}
+
+a.menu
+{
+text-decoration: none;
+font-family: tahoma;
+font-size: 12px;
+font-weight: bold;
+color: #3A3A3A;
+}
+
+a.menu:hover
+{
+text-decoration: underline;
+font-family: tahoma;
+font-size: 12px;
+font-weight: bold;
+color: #3A3A3A;
+}
+
+a.menu:visited
+{
+font-family: tahoma;
+font-size: 12px;
+font-weight: bold;
+color: #3A3A3A;
+}
+
+td
+{
+font-family: tahoma;
+font-size: 11px;
+color: #6A6A6A;
+}
+
+a.more
+{
+color: #FF0000;
+text-decoration: none;
+font-family: tahoma;
+font-size: 11px;
+font-weight: bold;
+}
+
+a.more:visited
+{
+color: #FF0000;
+font-family: tahoma;
+font-size: 11px;
+font-weight: bold;
+}
+
+a.more:hover
+{
+color: #FF0000;
+font-family: tahoma;
+text-decoration: underline;
+font-size: 11px;
+font-weight: bold;
+}
+
+a.footer
+{
+color: #585858;
+text-decoration: none;
+font-family: tahoma;
+font-size: 12px;
+font-weight: bold;
+}
+
+a.footer:visited
+{
+color: #585858;
+font-family: tahoma;
+font-size: 12px;
+font-weight: bold;
+}
+
+a.footer:hover
+{
+color: #585858;
+text-decoration: underline;
+font-family: tahoma;
+font-size: 12px;
+font-weight: bold;
+}
+
+a.metamorph
+{
+color: #ffffff;
+text-decoration: none;
+font-family: tahoma;
+font-size: 11px;
+font-weight: normal;
+}
+
+a.metamorph:visited
+{
+color: #ffffff;
+font-family: tahoma;
+font-size: 11px;
+font-weight: normal;
+}
+
+a.metamorph:hover
+{
+color: #ffffff;
+text-decoration: underline;
+font-family: tahoma;
+font-size: 11px;
+font-weight: normal;
+}
+
+.title
+{
+color: #3A3A3A;
+font-size: 12px;
+font-weight: bold;
+}
+
+.container { 
+width:230px; 
+color:#FFF; 
+font-size:12px; 
+font-family:tahoma; 
+font-weight: bold;
+}
+ 
+.top { 
+padding:5px; 
+background-color: #004080; 
+}
+ 
+.content{
+padding-left:20px;
+padding-right:20px;
+padding-top:5px;
+padding-bottom:5px;
+background-color:#079; 
+}
+ 
+.message{ 
+padding:5px; 
+font-weight:bold; 
+background-color:#000; 
+}
+
+.boton{
+	font-size:12px; 
+	font-family:tahoma; 
+	color: #173F77;
+	border:1px solid #173F77;
+	padding:3px 2px 6px;
+	font-weight:bold;	
+	background:url(boton.gif); 
+	height:27px;
+}
+
+.botonHover{
+	font-size:12px; 
+	font-family:tahoma; 
+	color: #173F77;
+	border:1px solid #173F77;
+	padding:3px 2px 6px;
+	font-weight:bold;	
+	background:url(boton_over.gif);
+	height:27px;
+}
+
+
+.imgLanguage{
+cursor:pointer;
+}
+
+.labelUserHeader{
+font-family: tahoma;
+color: #173F77;
+font-size: 12px;
+font-weight: bold;
+}
+
+.labelFechaHeader{
+font-family: tahoma;
+color: black;
+font-size: 12px;
+font-weight: bold;
+}
+
+.text1{
+font-family: tahoma;
+color: black;
+font-size: 12px;
+}
+
+.labelUserNameHeader{
+font-family: tahoma;
+color: black;
+font-size: 12px;
+font-weight: bold;
+}
+
+.cajaUser{
+width:120px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;	
+}
+
+.cajaPass{
+width:94px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+}
+
+.textoPanelInicio{
+color:#FFF; 
+font-size:12px; 
+font-family:tahoma; 
+}
+
+p{
+margin:5px;
+color:white; 
+font-size:12px; 
+font-family:tahoma; 
+}
+
+.btnIniciarSesion{
+	width:60px; 
+}
+
+.textoFormReservas{
+color: #173F77;
+font-size:12px; 
+font-family:tahoma; 
+font-weight: bold;
+}
+
+.cajaCodAge{
+width:90px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+text-transform: uppercase;	
+}
+
+.cajaCantRes{
+width:40px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;	
+}
+
+.selNomAge{
+width:300px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelOficina{
+width:123px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+/** Controls Raw Display of Images **/
+.rawimages {
+	text-align: center;
+	margin-top: 3px;
+}
+.rawimages img {
+	border: none;
+	margin:2px;
+}
+.rawimages span#active_language img
+{
+	margin:2px;
+	border: none;
+}
+
+.cajaNomPax1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+}
+.cajaNomPax2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+}
+.cajaTelPax1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+}
+.cajaTelPax2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+}
+.cajaNac1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaNac2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaNumPax1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaNumPax2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaVoucher1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+}
+.cajaVoucher2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+}
+.textoCabeceraTablaReservas{
+color:#FFF; 
+font-size:14px; 
+font-family:tahoma; 
+}
+.textoIdRes{
+color: #173F77;
+font-size:10px; 
+font-family:tahoma;
+font-weight: bold;
+}
+.textoServ{
+color: #173F77;
+font-size:14px; 
+font-family:tahoma;
+}
+.btnServRes{
+width:60px; 
+height:22px;
+font-size:12px; 
+font-family:tahoma; 
+color: #000033;
+padding-bottom:3px;
+cursor:pointer;
+}
+
+.btnCerrarVenServicios{
+width:70px; 
+height:27;
+font-size:12px; 
+font-family:tahoma; 
+color: #000033;
+padding-bottom:3px;
+}
+
+.textoNomServicios{
+color: #173F77;
+font-size:12px; 
+font-family:tahoma;
+font-weight: bold;
+cursor:pointer;
+}
+
+.textoPaqServicios{
+color: #173F77;
+font-size:10px; 
+font-family:tahoma;
+cursor:pointer;
+}
+
+.chkServicio{
+cursor:pointer;
+}
+
+.cajaFecLlega1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaFecLlega2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaFecSale1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaFecSale2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.imgCalendario{
+cursor:pointer;
+}
+
+.cajaCodHot1{
+width:50px;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border-style:solid;
+border-width:1px;
+border-color: #83E4F5;
+text-transform: uppercase;
+text-align:left;
+}
+
+.cajaCodHot2{
+width:50px;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border-style:solid;
+border-width:1px;
+border-color: #EAEAEA;
+text-transform: uppercase;
+text-align:left;
+}
+
+.cajaCodPaq1{
+width:70px;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border-style:solid;
+border-width:1px;
+border-color: #83E4F5;
+text-transform: uppercase;
+text-align:left;
+}
+
+.cajaCodPaq2{
+width:70px;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border-style:solid;
+border-width:1px;
+border-color: #EAEAEA;
+text-transform: uppercase;
+text-align:left;
+}
+
+.selNomHot1{
+width:20px;
+font-family:tahoma;
+font-size:1.05em;
+border-style:solid;
+border-width:1px;
+border-color: #EAEAEA;
+background-color:#CBEEF5; 
+line-height:19px; 
+height:19px;
+}
+
+.selNomHot2{
+width:20px;
+font-family:tahoma;
+font-size:1.05em;
+border-style:solid;
+border-width:1px;
+border-color: #EAEAEA;
+background-color:#FFFFFF; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaVloLlega1{
+width:80%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaVloLlega2{
+width:80%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaHoraLlega1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaHoraLlega2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaVloSale1{
+width:80%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaVloSale2{
+width:80%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaHoraSale1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaHoraSale2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaObs1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaObs2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaCliente1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+}
+
+.cajaCliente2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+}
+
+.imgObs{
+cursor:pointer;
+}
+
+.textoObs{
+color: #173F77;
+font-size:12px; 
+font-family:tahoma;
+font-weight: bold;
+cursor:pointer;
+}
+
+.labelNumRes{
+font-family: tahoma;
+color: #FFFFFF;
+font-size: 16px;
+font-weight: bold;
+background-color:#1373A6;
+}
+
+.textoConsultaReserva{
+color: #173F77;
+font-size:12px; 
+font-family:tahoma;
+font-weight: bold;
+cursor:pointer;
+}
+
+.cajaConsultaReserva{
+width:70px;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+text-transform: uppercase;
+}
+
+.textoConsultaReservaNom{
+color: #173F77;
+font-size:12px; 
+font-family:tahoma;
+font-weight: bold;
+cursor:pointer;
+}
+
+.cajaConsultaReservaNom{
+width:150px;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+text-transform: uppercase;
+}
+
+.cajaConsultaReservaHidden{
+width:1px;
+height:22px;
+display:none;
+}
+
+.btnReserva{
+width:70px; 
+}
+
+.btnReserva2{
+width:110px; 
+}
+
+.btnLogOut{
+	width:110px; 
+}
+
+.btnTablas2{
+	width:70px; 
+}
+
+.btnTablas3{
+	width:110px; 
+}
+
+.btnTablas4{
+	width:130px; 
+}
+
+.textoTituloTablas{
+color:#FFFFFF;
+font-size:16px; 
+font-family:tahoma; 
+font-weight: bold;
+}
+
+.textoFormTablas{
+color: #173F77;
+font-size:12px; 
+font-family:tahoma; 
+font-weight: bold;
+}
+
+.selSelTipoAge{
+width:100px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaNomAge{
+width:350px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaNitAge{
+width:150px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaDirAge{
+width:250px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;	
+}
+
+.cajaCiuAge{
+width:100px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;	
+}
+
+.cajaTelAge{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;	
+}
+
+.cajaCelAge{
+width:100px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;	
+}
+
+.cajaContacAge{
+width:350px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;	
+}
+
+.textoConsulta{
+color: #173F77;
+font-size:12px; 
+font-family:tahoma;
+font-weight: bold;
+cursor:pointer;
+}
+
+.cajaConsultaAgencia{
+width:100px;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+text-transform: uppercase;
+}
+
+.cajaNomSer{
+width:250px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;	
+}
+
+.cajaCodSer{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;	
+text-transform: uppercase;
+}
+
+.cajaOrdenSale{
+width:30px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;	
+}
+
+.selSelDefecto{
+width:43px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaCosSer{
+width:60px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CBEEF5;	
+}
+
+.cajaConsultaServicio{
+width:70px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#FFFFFF;
+text-transform: uppercase;
+}
+
+.selServicio{
+width:250px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaConsultaHotel{
+width:70px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+text-transform: uppercase;
+}
+
+.cajaCodHot{
+width:50px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+text-transform: uppercase;
+}
+
+.selSelTipoUbi{
+width:60px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaNomHot{
+width:200px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaDirHot{
+width:200px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaTel1Hot{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaTel2Hot{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaCelHot{
+width:100px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaConHot{
+width:270px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaCodUsr{
+width:100px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+text-transform: lowercase;
+}
+
+.cajaClave{
+width:100px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaNombreUsu{
+width:180px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaApellidosUsu{
+width:180px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.selSelRol{
+width:190px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaConsultaUsuario{
+width:100px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaCodNac{
+width:50px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+text-transform: uppercase;
+}
+
+.cajaNacional{
+width:150px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaConsultaNacionalidad{
+width:50px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaCodPro{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+text-transform: uppercase;
+}
+
+.cajaNomPro{
+width:200px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaDirPro{
+width:200px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaTel1Pro{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaTel2Pro{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaCelPro{
+width:100px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaConPro{
+width:270px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaConsultaHotel{
+width:100px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.textoNomProveedores{
+color: #173F77;
+font-size:12px; 
+font-family:tahoma;
+font-weight: bold;
+cursor:pointer;
+}
+
+.cajaDesde{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaHasta{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.selSelTipoConsec{
+width:130px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelTipoConsec2{
+width:110px;
+font-family:tahoma;
+font-size:0.7em; 
+line-height:19px; 
+height:19px;
+}
+
+.textoConsultaTransferNom{
+color: #173F77;
+font-size:12px; 
+font-family:tahoma;
+font-weight: bold;
+cursor:pointer;
+}
+
+.textoCabeceraTablaTransfer{
+color:#FFF; 
+font-size:14px; 
+font-family:tahoma;
+font-weight: bold; 
+}
+
+.cajaConsultaTransferNom{
+width:150px;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+text-transform: uppercase;
+}
+
+.cajaCampoTrans1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaCampoTrans2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaCampoTransIzq1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+}
+.cajaCampoTransIzq2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+}
+
+.textoCabeceraTablaConsecutivos{
+color:#FFF; 
+font-size:14px; 
+font-family:tahoma; 
+font-weight: bold;
+}
+
+.cajaTipoConsec1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaTipoConsec2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaNumConsec1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaNumConsec2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaEstadoConsec1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaEstadoConsec2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.selSelTipoTrans{
+width:130px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelCateTrans{
+width:110px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaHoraVlo{
+width:40px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaHoraTour{
+width:40px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+}
+
+.cajaCantVou{
+width:30px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaNroVlo{
+width:60px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+text-transform: uppercase;
+}
+
+.selSelNroVlo{
+width:70px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelOficina{
+width:120px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaNomPax{
+width:200px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+text-transform: uppercase;
+}
+
+.cajaCantPax{
+width:30px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaFecSerTrans{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaValTrans{
+width:60px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaPlacaTax{
+width:60px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+text-transform: uppercase;
+}
+
+.cajaConducTax{
+width:150px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+text-transform: uppercase;
+}
+
+.cajaDocuTax{
+width:100px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.selSelOrigenTrans{
+width:150px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelDestinoTrans{
+width:150px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.textoOrdenTrans{
+color: #F21A1A;
+font-size:16px; 
+font-family:tahoma; 
+font-weight: bold;
+}
+
+.btnTransfer{
+width:70px; 
+}
+
+.btnTransfer2{
+width:110px; 
+}
+
+.cajaConsultaTransfer{
+width:70px;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+text-transform: uppercase;
+}
+
+.selSelTipoConTrans{
+width:130px;
+font-family:tahoma;
+font-size:0.80em; 
+line-height:15px; 
+height:15px;
+}
+
+.textoValReporte{
+color: #173F77;
+font-size:12px; 
+font-family:tahoma;
+}
+
+.textoEncReporte{
+color: #FFFFFF;
+font-size:12px; 
+font-family:tahoma;
+font-weight: bold;
+}
+
+.selSelTipoVlo{
+width:60px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaNroVlo{
+width:70px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaFecVlo1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaFecVlo2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaSelTipoVlo1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaSelTipoVlo2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaNroVlo1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaNroVlo2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.cajaHoraVlo1{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#CBEEF5;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+.cajaHoraVlo2{
+width:100%;
+height:22px;
+font-family: tahoma;
+font-size: 14px;
+background-color:#FFFFFF;
+border:0;
+text-transform: uppercase;
+text-align:center;
+}
+
+.textoCabeceraTablaVuelos{
+color:#FFF; 
+font-size:14px; 
+font-family:tahoma; 
+font-weight: bold;
+}
+
+.cajaConNroVlo{
+width:70px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#FFFFFF;
+}
+
+.selConSelTipoVlo{
+width:60px;
+font-family:tahoma;
+font-size:0.8em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaFechaIni{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#FFFFFF;
+}
+
+.cajaFechaFin{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#FFFFFF;
+}
+
+.selSelHotel{
+width:180px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelCliente{
+width:180px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelNac{
+width:90px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaNumres{
+width:70px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#FFFFFF;
+}
+
+.selSelPeriodo{
+width:170px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelClasificar{
+width:80px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaAno{
+width:60px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#FFFFFF;
+}
+
+#tabvuelo{
+	float:left;
+	margin:0px 0px 0px 0px;
+	/*Ancho de div donde esta la tabla*/
+	width:250px;
+	/*Alto de div donde esta la tabla*/
+	height:350px;
+	overflow:auto;
+}
+
+#tabconsecutivo{
+	float:left;
+	margin:0px 0px 0px 0px;
+	/*Ancho de div donde esta la tabla*/
+	width:250px;
+	/*Alto de div donde esta la tabla*/
+	height:330px;
+	overflow:auto;
+}
+
+#tabreserva{
+	float:left;
+	margin:0px 0px 0px 0px;
+	/*Ancho de div donde esta la tabla*/
+	width:570px;
+	/*Alto de div donde esta la tabla*/
+	height:300px;
+	overflow:auto;
+}
+
+#tabtransfer{
+	float:left;
+	margin:0px 0px 0px 0px;
+	/*Ancho de div donde esta la tabla*/
+	width:650px;
+	/*Alto de div donde esta la tabla*/
+	height:300px;
+	overflow:auto;
+}
+
+/****************************************************************** TABLA tuneles **********************************/
+
+#wrap{
+	margin:0;
+	width:1380px;
+	height:380px;
+	background:url("bg_reporte2.png") no-repeat;
+}
+#reporte{
+	float:left;
+	margin:10px 5px 10px 5px;
+	/*Ancho de div donde esta la tabla*/
+	width:1370px;
+	/*Alto de div donde esta la tabla*/
+	height:365px;
+	overflow:auto;
+}
+
+.tabla_reporte
+{
+	font-size: 12px;
+	margin:0 0 0 7px;
+	/*Ancho de tabla*/
+	width: 0px;
+	text-align: left;	
+	border: 1px solid #173F77;
+	border-collapse: collapse;
+}
+
+.tabla_reporte th
+{
+	padding:0px;
+	font-size: 12px;
+	font-weight:bold;
+	color:#FFFFFF;
+	/*border: 1px solid #FFFFFF;*/
+	background:#1373A6;
+	border-top: 1px solid #173F77;
+	border-left: 1px solid #173F77;
+}
+
+.tabla_reporte tbody
+{
+	/*Color de fondo de las celdas*/
+	/*background:#FFFFFF;*/
+}
+
+.tabla_reporte td
+{
+	padding:0px;
+	color: #173F77;
+	/*border: 1px solid #FFFFFF;*/
+	border-top: 1px solid #173F77;
+	border-left: 1px solid #173F77;
+}
+
+.tabla_reporte tbody tr td
+{
+	height:20px;
+}
+
+.tabla_reporte tbody tr:hover td
+{
+	/*Color de fila seleccionada
+	color: black;
+	background:#D1D300;*/
+}
+
+.tabla_reporte tbody th .titulos_tabla{
+	font-weight:bold;
+	color:#666666;
+	}
+
+/* Estilos de configuración del menú desplegable.*/
+
+#dhtmlgoodies_menu ul li ul{
+	display:none; /* Necesario para visualizarse bien en opera */
+}
+#dhtmlgoodies_menu{
+	visibility:hidden; 
+}
+#dhtmlgoodies_menu ul{
+	margin:0px; /* Sin sangria */
+	padding:0px; /* Sin sangria */
+}
+#dhtmlgoodies_menu li{
+	list-style-type:none; /* Sin iconos */
+} 
+#dhtmlgoodies_menu a{
+	margin:0px;
+	padding:0px;
+}
+
+/* Estilos de la estética del menú. Aquí puedes modificarlos de acuerdo al estilo de tu web
+Estilos que se aplican a todo el menú*/
+
+#dhtmlgoodies_menu ul{
+	border:1px solid #000;
+	background-color:#FFF;
+	padding:0px;
+}
+
+#dhtmlgoodies_menu ul.menuBlock1{ /* Barra de menú - elementos del menu principal*/
+	border:0px;
+	padding:0px;
+	background-color:#FFFFFF;
+	overflow:visible;
+}
+#dhtmlgoodies_menu ul.menuBlock2{ /* Barra de menú - elementos del menu principal*/
+	border:0px;
+	padding:0px;
+	border:1px solid #555;
+}
+
+#dhtmlgoodies_menu a{
+	color: #173F77;
+	text-decoration:none;
+	margin:0px;
+	padding:0px;
+	padding-left:2px;
+	/*padding-right:0px;*/
+}
+
+#dhtmlgoodies_menu div{
+	cursor:pointer;
+}
+
+/* Estilos del menú principal. El que esta siempre visible */
+
+#dhtmlgoodies_menu .currentDepth1{
+background: url(menu_back.gif);
+height:29px;
+width:279px;			/*Ancho de cada item del menú = AnchoTotal/#Item (width = 1400px/5)*/
+padding:0px;
+margin:0px;
+}
+
+#dhtmlgoodies_menu .currentDepth1over{
+background: url(footer.gif);
+height:29px;
+width:279px;			/*Ancho de cada item del menú = AnchoTotal/#Item (width = 1400px/5)*/
+padding:0px;
+margin:0px;
+}
+
+#dhtmlgoodies_menu .currentDepth1over a{ 
+color:#FFF;
+font-weight:bold;
+}
+
+#dhtmlgoodies_menu .currentDepth1 div{ 
+	text-align:center;
+	margin: 0px;
+	padding: 0px;
+	padding-top: 7px;
+	height:100%;
+	width:100%;
+	font-weight:bold;
+	/*border:1px solid #000;*/
+}
+
+#dhtmlgoodies_menu .currentDepth1over div{ 
+	text-align:center;
+	margin: 0px;
+	padding: 0px;
+	padding-top: 7px;
+	height:100%;
+	width:100%;
+	font-weight:bold;
+	/*border:1px solid #000;*/
+}
+
+
+/* Estilos submenu nivel 1 */
+
+#dhtmlgoodies_menu .currentDepth2{
+/*padding-right:2px;
+border:1px solid #FFF;*/
+height:20px;
+width:180px;
+}
+#dhtmlgoodies_menu .currentDepth2over{
+/*padding-right:2px;
+border:1px solid #000;
+background-color:#E2EBED;*/
+background: url(footer.gif);
+height:20px;
+width:180px;
+} 
+#dhtmlgoodies_menu .currentDepth2over a{
+color:#FFF;
+font-weight:bold;
+} 
+
+/* Estilos submenu nivel 2 */
+
+#dhtmlgoodies_menu .currentDepth3{
+/*padding-right:2px;
+border:1px solid #FFF;*/
+height:20px;
+width:190px;
+}
+#dhtmlgoodies_menu .currentDepth3over{
+/*padding-right:2px;
+background-color:#EDE3EB;
+border:1px solid #000;*/
+background: url(footer.gif);
+height:20px;
+width:190px;
+}
+#dhtmlgoodies_menu .currentDepth3over a{
+color:#FFF;
+font-weight:bold;
+} 
+
+/* Estilos submenu nivel 3 */
+
+#dhtmlgoodies_menu .currentDepth4{
+/*padding-right:2px;
+border:1px solid #FFF;*/
+height:20px;
+width:150px;
+}
+#dhtmlgoodies_menu .currentDepth4over{
+/*padding-right:2px;
+background-color:#EDE3EB;
+border:1px solid #000;*/
+background: url(footer.gif);
+height:20px;
+width:150px;
+}
+#dhtmlgoodies_menu .currentDepth4over a{
+color:#FFF;
+font-weight:bold;
+}
+
+.textoFormReporte{
+color: #173F77;
+font-size:12px; 
+font-family:tahoma; 
+font-weight: bold;
+}
+
+.textoFormReporte2{
+color: #173F77;
+font-size:16px; 
+font-family:tahoma; 
+font-weight: bold;
+}
+
+.btnConReporte{
+	width:80px; 
+}
+
+.selSelAno{
+width:60px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelMes{
+width:100px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+  	
+.selSelUsu{
+width:130px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelOpe{
+width:80px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelTabla{
+width:100px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaNumCLog{
+width:60px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+}
+
+.textoNoPermisos{
+color: red;
+font-size:16px; 
+font-family:tahoma; 
+font-weight: bold;
+}
+
+.selSelTour{
+width:240px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelProv{
+width:150px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaLugar{
+width:300px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaNumPax{
+width:50px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaNumPaxSmall{
+width:25px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaPrecXPax{
+width:80px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaPrecXPaxSmall{
+width:45px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaTotal{
+width:100px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaDocuPax{
+width:100px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaNombPax{
+width:150px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+text-transform: uppercase;
+}
+
+.selSelNombPax{
+width:200px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelHotelPax{
+width:150px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaCuarto{
+width:60px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.selSelNacPax{
+width:120px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.selSelFechaTour{
+width:160px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}
+
+.cajaObsPax{
+width:400px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaCelularPax{
+width:120px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaEmailPax{
+width:250px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaCupos{
+width:50px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaNumResP{
+width:70px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.cajaDocuP{
+width:120px;
+height:22px;
+font-family: tahoma;
+font-size: 12px;
+background-color:#CCCCCC;
+}
+
+.selSelServicio{
+width:200px;
+font-family:tahoma;
+font-size:1.05em; 
+line-height:19px; 
+height:19px;
+}

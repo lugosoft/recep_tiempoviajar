@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project name="service2" soapui-version="3.6.1" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:WsdlInterface" wsaVersion="NONE" name="ReceptivosServiceBinding" type="wsdl" bindingName="{http://localhost/receptivos/webservice/namespace}ReceptivosServiceBinding" soapVersion="1_1" anonymous="optional" definition="http://localhost/receptivos/webservice/wsdl/service2.wsdl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart="http://localhost/receptivos/webservice/wsdl/service2.wsdl"><con:part><con:url>http://localhost/receptivos/webservice/wsdl/service2.wsdl</con:url><con:content><![CDATA[<definitions targetNamespace="http://localhost/receptivos/webservice/namespace" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://localhost/receptivos/webservice/namespace" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema targetNamespace="http://localhost/receptivos/webservice/namespace">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/"/>
+      <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/"/>
+    </xsd:schema>
+  </types>
+  <message name="interfazRequest">
+    <part name="operacion" type="xsd:string"/>
+    <part name="param1" type="xsd:string"/>
+    <part name="param2" type="xsd:string"/>
+    <part name="param3" type="xsd:string"/>
+    <part name="param4" type="xsd:string"/>
+    <part name="param5" type="xsd:string"/>
+    <part name="param6" type="xsd:string"/>
+    <part name="param7" type="xsd:string"/>
+    <part name="param8" type="xsd:string"/>
+    <part name="param9" type="xsd:string"/>
+    <part name="param10" type="xsd:string"/>
+  </message>
+  <xsd:element name="interfazResponse2">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element minOccurs="0" maxOccurs="1" name="interfazResult" type="tns:Resultado"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:complexType name="Resultado">
+    <xsd:sequence>
+      <xsd:element minOccurs="1" maxOccurs="1" name="name" type="xsd:string"/>
+      <xsd:element minOccurs="0" maxOccurs="1" name="id" type="xsd:string"/>
+      <xsd:element minOccurs="0" maxOccurs="1" name="latitud" type="xsd:string"/>
+      <xsd:element minOccurs="0" maxOccurs="1" name="longitud" type="xsd:string"/>
+    </xsd:sequence>
+  </xsd:complexType>
+  <message name="interfazResponse">
+    <part name="parameters" element="tns:interfazResponse2"/>
+  </message>
+  <portType name="ReceptivosServicePortType">
+    <operation name="interfaz">
+      <input message="tns:interfazRequest"/>
+      <output message="tns:interfazResponse"/>
+    </operation>
+  </portType>
+  <binding name="ReceptivosServiceBinding" type="tns:ReceptivosServicePortType">
+    <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <operation name="interfaz">
+      <soap:operation soapAction="http://localhost/receptivos/webservice/service2.php/interfaz" style="rpc"/>
+      <input>
+        <soap:body use="encoded" namespace="http://localhost/receptivos/webservice/namespace" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="http://localhost/receptivos/webservice/namespace" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+      </output>
+    </operation>
+  </binding>
+  <service name="ReceptivosService">
+    <port name="ReceptivosServicePort" binding="tns:ReceptivosServiceBinding">
+      <soap:address location="http://localhost/receptivos/webservice/service2.php"/>
+    </port>
+  </service>
+</definitions>]]></con:content><con:type>http://schemas.xmlsoap.org/wsdl/</con:type></con:part></con:definitionCache><con:endpoints><con:endpoint>http://localhost/receptivos/webservice/service2.php</con:endpoint></con:endpoints><con:operation isOneWay="false" action="http://localhost/receptivos/webservice/service2.php/interfaz" name="interfaz" bindingOperationName="interfaz" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call name="Request 1"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://localhost/receptivos/webservice/service2.php</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:nam="http://localhost/receptivos/webservice/namespace">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <nam:interfaz soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+         <operacion xsi:type="xsd:string">confirmareserva</operacion>
+         <param1 xsi:type="xsd:string">1</param1>
+         <param2 xsi:type="xsd:string">555</param2>
+         <param3 xsi:type="xsd:string">2012-02-10</param3>
+         <param4 xsi:type="xsd:string">ninguna</param4>
+      </nam:interfaz>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://localhost/receptivos/webservice/service2.php/interfaz"/><con:wsrmConfig version="1.2"/></con:call></con:operation></con:interface><con:properties/><con:wssContainer/></con:soapui-project>

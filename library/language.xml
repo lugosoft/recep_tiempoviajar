@@ -1,0 +1,1041 @@
+<?xml version="1.0"?> 
+<etiquetas>
+	<mensajes>
+		<errorInicioSesion>Usuario y/o contrasen'a inva'lidos.</errorInicioSesion>
+		<errorAgenciaNoexiste>Cliente no existe. Verifique.</errorAgenciaNoexiste>
+		<errorHotelNoexiste>Hotel no existe. Verifique.</errorHotelNoexiste>
+		<errorPaqueteNoexiste>Paquete no existe. Verifique.</errorPaqueteNoexiste>
+		
+		<errorReservaNoGuardada>La reserva no se guardo'.</errorReservaNoGuardada>
+		<errorReservaNoActualizada>La reserva no se actualizo'.</errorReservaNoActualizada>
+		<errorReservaNoEliminada>No fue posible eliminar la reserva</errorReservaNoEliminada>
+		<errorPermisoEliminarReserva>No tiene permisos para anular una reserva</errorPermisoEliminarReserva>
+		<errorReservaNoexiste>Reserva no encontrada.</errorReservaNoexiste>
+		<errorAgregarReserva>Error al agregar reserva</errorAgregarReserva>
+		<errorAgregarSerReserva>Error al agregar servicio en reserva</errorAgregarSerReserva>
+		
+		<infoRegistroReserva>Se registro' la reserva</infoRegistroReserva>
+		<infoActualizarReserva>Se actualizo' la reserva</infoActualizarReserva>
+		<infoAnularReserva>Se anulo' la reserva</infoAnularReserva>
+		<infoReservaEliminada>Se elimino' la reserva</infoReservaEliminada>
+		
+		<errorClienteNoGuardado>Error registrando cliente</errorClienteNoGuardado>
+		<errorClienteNoActualizado>Error actualizando cliente</errorClienteNoActualizado>
+		<errorClienteNoEliminado>Error eliminando cliente</errorClienteNoEliminado>
+				
+		<infoClienteGuardado>Se registro' el cliente</infoClienteGuardado>
+		<infoClienteActualizado>Se actualizo' el cliente</infoClienteActualizado>
+		<infoClienteEliminado>Se elimino' el cliente</infoClienteEliminado>
+		
+		<errorServicioNoGuardado>Error registrando servicio</errorServicioNoGuardado>
+		<errorProServicioNoGuardado>Error al asociar proveedor al servicio</errorProServicioNoGuardado>
+		<errorServicioNoActualizado>Error actualizando servicio</errorServicioNoActualizado>
+		<errorServicioNoEliminado>Error eliminando servicio</errorServicioNoEliminado>
+		
+		<infoServicioGuardado>Se registro' el servicio</infoServicioGuardado>
+		<infoServicioActualizado>Se actualizo' el servicio</infoServicioActualizado>
+		<infoServicioEliminado>Se elimino' el servicio</infoServicioEliminado>
+		
+		<errorVueloNoGuardado>Error registrando vuelo</errorVueloNoGuardado>
+		<errorVueloNoEliminado>Error eliminando vuelo</errorVueloNoEliminado>
+				
+		<infoVueloGuardado>Se registro' vuelo</infoVueloGuardado>
+		<infoVueloEliminado>Se elimino' vuelo</infoVueloEliminado>
+		
+		<errorConsecutivoNoGuardado>Error registrando nu'mero</errorConsecutivoNoGuardado>
+		<errorRangoNoGuardado>El rango no se registro'</errorRangoNoGuardado>		
+		<errorRangoNoEliminado>Error. deleting range.</errorRangoNoEliminado>
+		<errorRangoExiste>Error. Parte del rango ya existe para e'ste tipo de transfer</errorRangoExiste>
+		
+		<infoRangoGuardado>Se registro' rango de nu'meros</infoRangoGuardado>
+		<infoConsecutivoEliminado>Se elimino' rango</infoConsecutivoEliminado>
+		
+		<errorHotelNoGuardado>Error registrando</errorHotelNoGuardado>
+		<errorHotelNoActualizado>Error actualizando</errorHotelNoActualizado>
+		<errorHotelNoEliminado>Error eliminando</errorHotelNoEliminado>
+				
+		<infoHotelGuardado>Se registro'</infoHotelGuardado>
+		<infoHotelActualizado>Se actualizo'</infoHotelActualizado>
+		<infoHotelEliminado>Se elimino'</infoHotelEliminado>
+		
+		<errorUsuarioNoGuardado>Error registrando usuario</errorUsuarioNoGuardado>
+		<errorUsuarioNoActualizado>Error actualizando usuario</errorUsuarioNoActualizado>
+		<errorUsuarioNoEliminado>Error eliminando usuario</errorUsuarioNoEliminado>
+				
+		<infoUsuarioGuardado>Se registro' usuario</infoUsuarioGuardado>
+		<infoUsuarioActualizado>Se actualizo' usuario</infoUsuarioActualizado>
+		<infoUsuarioEliminado>Se elimino' usuario</infoUsuarioEliminado>
+
+		<errorNacioNoGuardada>Error registrando nacionalidad</errorNacioNoGuardada>
+		<errorNacioNoActualizada>Error actualizando nacionalidad</errorNacioNoActualizada>
+		<errorNacioNoEliminada>Error eliminando nacionalidad</errorNacioNoEliminada>
+				
+		<infoNacioGuardada>Se registro' nacionalidad</infoNacioGuardada>
+		<infoNacioActualizada>Se actualizo' nacionalidad</infoNacioActualizada>
+		<infoNacioEliminada>Se elimino' nacionalidad</infoNacioEliminada>		
+
+		<errorPaqueteNoGuardado>Error registrando paquete</errorPaqueteNoGuardado>
+		<errorPaqueteNoActualizado>Error actualizando paquete</errorPaqueteNoActualizado>
+		<errorPaqueteNoEliminado>Error eliminando paquete</errorPaqueteNoEliminado>
+
+		<infoPaqueteGuardado>Se registro' paquete</infoPaqueteGuardado>
+		<infoPaqueteActualizado>Se actualizo' paquete</infoPaqueteActualizado>
+		<infoPaqueteEliminado>Se elimino' paquete</infoPaqueteEliminado>
+    
+		<errorProveedorNoGuardado>Error registrando gui'a</errorProveedorNoGuardado>
+		<errorProveedorNoActualizado>Error actualizando gui'a</errorProveedorNoActualizado>
+		<errorProveedorNoEliminado>Error eliminando gui'a</errorProveedorNoEliminado>
+				
+		<infoProveedorGuardado>Se registro' gui'a</infoProveedorGuardado>
+		<infoProveedorActualizado>Se actualizo' gui'a</infoProveedorActualizado>
+		<infoProveedorEliminado>Se elimino' gui'a</infoProveedorEliminado>
+		
+		<errorReservaNoEliminado>No es posible anular la reserva seleccionada.</errorReservaNoEliminado>
+		<errorItReservaNoEliminado>No es posible anular el item seleccionado.</errorItReservaNoEliminado>
+		<errorItReservaNoActivado>No es posible activar el item seleccionado.</errorItReservaNoActivado>
+		
+		<infoReservaEliminado>La reserva ha sido anulada.</infoReservaEliminado>
+		<infoReservaAnulada>La reserva fue anulada por el usuario</infoReservaAnulada>
+		<infoItemReservaAnulada>Algunos i'tems de la reserva se encuentran anulados.</infoItemReservaAnulada>
+		
+		<errorTransferNoEliminado>No es posible anular el Transfer seleccionada.</errorTransferNoEliminado>
+		
+		<infoTransferEliminado>El Transfer ha sido anulado.</infoTransferEliminado>
+		<infoTransferAnulado>El Transfer fue anulado por el usuario</infoTransferAnulado>
+		
+		<errorTransferNoGuardado>No fue posible registrar el Transfer.</errorTransferNoGuardado>
+		<errorTransferNoActualizado>Error actualizando Transfer</errorTransferNoActualizado>
+		<errorTransferNoEliminado>Error eliminando Transfer</errorTransferNoEliminado>
+		
+		<infoTransferGuardado>Se registro' la orden de Transfer #</infoTransferGuardado>
+		<infoTransferActualizado>Se actualizo' Transfer #</infoTransferActualizado>
+		<infoTransferEliminado>Se elimino' Transfer #</infoTransferEliminado>
+		
+		<errorTaxistaNoGuardado>No fue posible registrar el Taxi.</errorTaxistaNoGuardado>
+		
+		<errorSelOriTrans>Debe seleccionar el origen y destino.</errorSelOriTrans>
+		<errorSelTipoTrans>Debe seleccionar el tipo.</errorSelTipoTrans>
+		
+		<errorCamposObligatorios>Estos campos son obligatorios:</errorCamposObligatorios>
+		<errorReporteNoDatos>No se obtuvieron resultados.</errorReporteNoDatos>
+		
+		<errorLongitud>caracteres</errorLongitud>
+		
+		<errorLongitudAgencia>El co'digo de la agencia debe tener</errorLongitudAgencia>
+		
+		<errorLongitudServicio>El co'digo del servicio debe tener</errorLongitudServicio>
+		
+		<errorLongitudHotel>El co'digo del hotel debe tener</errorLongitudHotel>
+		
+		<errorLongitudNac>El co'digo de la nacionalidad debe tener</errorLongitudNac>
+		
+		<errorLongitudVlo>El co'digo del vuelo debe tener</errorLongitudVlo>
+		
+		<errorLongitudProveedor>El co'digo de la gui'a debe tener</errorLongitudProveedor>
+		
+    <errorLongitudPaquete>El co'digo del paquete no puede tener mas de</errorLongitudPaquete>
+    
+		<errorNoSeleccionConsecutivo>No ha seleccionado i'tems a eliminar.</errorNoSeleccionConsecutivo>		
+		<errorNoBorradoConsecutivo>No fue posible eliminar el i'tem</errorNoBorradoConsecutivo>
+
+		<errorLogNoGuardado>No se registro' log de esta operacio'n</errorLogNoGuardado>
+		<errorLogNoBorrado>No fue posible borrar el log.</errorLogNoBorrado>
+		
+		<infoLogBorrado>El log ha sido borrado.</infoLogBorrado>
+		
+		<errorPaginaNoPermitida>No tiene los suficientes privilegios para ingresar a esta seccio'n.</errorPaginaNoPermitida>
+		
+		<errorObsObligatoria1>Error. Debido a que actualizo' el i'tem #</errorObsObligatoria1>
+		<errorObsObligatoria2>debe agregar observaciones a e'ste</errorObsObligatoria2>
+		
+		<errorObsObligatoriaAnu>Error. Debe agregar observaciones para poder anular la reserva.</errorObsObligatoriaAnu>
+
+		<errorTourNoGuardado>No fue posible registrar la programacio'n el tour.</errorTourNoGuardado>
+		<infoTourGuardado>Se registro' la programacio'n el tour</infoTourGuardado>
+
+		<errorVentaTourNoGuardado>No fue posible registrar la venta del tour.</errorVentaTourNoGuardado>
+		<infoVentaTourGuardado>Se registro' la venta del tour con Voucher No.</infoVentaTourGuardado>
+		
+		<errorAnulaTourNoGuardado>No fue posible anular la asistencia al tour.</errorAnulaTourNoGuardado>
+		<anulaTourCancelado>El voucher NO fue anulado.</anulaTourCancelado>
+		<infoAnulaTourGuardado>Se anulo' el tour con Voucher No.</infoAnulaTourGuardado>
+		
+		<errorAnulaProgTourNoGuardado>No fue posible anular la programacio'n del tour.</errorAnulaProgTourNoGuardado>
+		<infoAnulaProgTourGuardado>Se anulo' la programacio'n del tour</infoAnulaProgTourGuardado>
+		
+		<errorCupoTourSuperado1>Error. So'lo se tienen</errorCupoTourSuperado1>
+		<errorCupoTourSuperado2>cupos disponibles para este tour.</errorCupoTourSuperado2>
+		<errorNoCuposTour>No hay cupos disponibles para este tour.</errorNoCuposTour>
+		
+		<errorTourConfirSuperado1>Error. So'lo quedan</errorTourConfirSuperado1>
+		<errorTourConfirSuperado2>pasajeros de la reserva pendientes por confirmar este tour.</errorTourConfirSuperado2>
+		
+		<errorSuperaMaxFilas1>Se supera el nu'mero de filas permitido. Se muestran los primeros</errorSuperaMaxFilas1>
+		<errorSuperaMaxFilas2>registros encontrados.</errorSuperaMaxFilas2>
+		
+		<errorPasswordNoCoincide>Error. La nueva contrasen'a no coincide. Verifique.</errorPasswordNoCoincide>		
+		<errorPasswordNoValido>Error. La contrasen'a actual no es correcta.</errorPasswordNoValido>
+		<errorCambioPassNoGuardado>Error. No fue posible cambiar la contrasen'a.</errorCambioPassNoGuardado>
+		
+		<infoCambioPassGuardado>Se cambio' la contrasen'a con exito.</infoCambioPassGuardado>
+		
+		<errorNoCargoConsecutivoRes>No fue posible, cargar un consecutivo para la nueva reserva. Intentelo nuevamente.</errorNoCargoConsecutivoRes>
+		
+		<errorVloNoExiste1>Error. El vuelo</errorVloNoExiste1>
+		<errorVloNoExiste2>no existe. Verifique.</errorVloNoExiste2>
+		
+		<errorTourTieneCupos>El tour actualmente tiene cupos confirmados. Primero debe cancelar la asistencia de los pasajeros a este tour.</errorTourTieneCupos>
+	</mensajes>
+	<titulos>
+		<titSelectServicios>Servicios para reserva</titSelectServicios>
+		<titEditObs>Observaciones para reserva</titEditObs>		
+	</titulos>
+	<reportes>
+		<queryReporteIN>Reporte de Transfer IN</queryReporteIN>
+		<queryReporteINMes>Reporte de Transfer IN Mensual</queryReporteINMes>
+		<queryReporteConsecReserva>Reporte de Reservas</queryReporteConsecReserva>
+		<queryReporteLog>Reporte de Logs</queryReporteLog>
+		
+		<queryReporteINCampo1>80::Fecha::CEN</queryReporteINCampo1>
+		<queryReporteINCampo2>50::Hora::CEN</queryReporteINCampo2>
+		<queryReporteINCampo3>100::Vuelo::IZQ</queryReporteINCampo3>
+		<queryReporteINCampo4>70::Tot Pax::DER::SUM</queryReporteINCampo4>
+		<queryReporteINCampo5>70::Tot Tax::DER::SUM</queryReporteINCampo5>
+		<queryReporteINCampo6>100::Total::DER::SUM</queryReporteINCampo6>
+		<queryReporteINCampo7>70::Prom Pax::DER::OPE::4::/::5</queryReporteINCampo7>
+		<queryReporteINCampo8>100::Cost X Pax::DER::OPE::6::/::4</queryReporteINCampo8>
+		<queryReporteINCampo9>70::Vouchers::CEN::SUM</queryReporteINCampo9>
+
+		<queryReporteINMesCampo1>100::Fecha::CEN</queryReporteINMesCampo1>
+		<queryReporteINMesCampo2>70::Pax Trans::CEN::SUM</queryReporteINMesCampo2>
+		<queryReporteINMesCampo3>50::No Tax::CEN::SUM</queryReporteINMesCampo3>
+		<queryReporteINMesCampo4>70::Cost Total::DER::SUM</queryReporteINMesCampo4>
+		<queryReporteINMesCampo5>50::Prom Pax::CEN::OPE::2::/::3</queryReporteINMesCampo5>
+		<queryReporteINMesCampo6>70::Cost X Pax::DER::OPE::4::/::2</queryReporteINMesCampo6>
+		<queryReporteINMesCampo7>50::Vouchers::CEN::SUM</queryReporteINMesCampo7>
+		
+		<queryReporteOUTCampo1>80::Fecha::CEN</queryReporteOUTCampo1>
+		<queryReporteOUTCampo2>50::Hora::CEN</queryReporteOUTCampo2>
+		<queryReporteOUTCampo3>100::Vuelo::IZQ</queryReporteOUTCampo3>
+		<queryReporteOUTCampo4>70::Tot Pax::DER::SUM</queryReporteOUTCampo4>
+		<queryReporteOUTCampo5>70::Tot Tax::DER::SUM</queryReporteOUTCampo5>
+		<queryReporteOUTCampo6>100::Total::DER::SUM</queryReporteOUTCampo6>
+		<queryReporteOUTCampo7>70::Prom Pax::DER::OPE::4::/::5</queryReporteOUTCampo7>
+		<queryReporteOUTCampo8>100::Cost X Pax::DER::OPE::6::/::4</queryReporteOUTCampo8>
+		
+		<queryReporteOUTMesCampo1>100::Fecha::CEN</queryReporteOUTMesCampo1>
+		<queryReporteOUTMesCampo2>70::Pax Trans::CEN::SUM</queryReporteOUTMesCampo2>
+		<queryReporteOUTMesCampo3>50::No Tax::CEN::SUM</queryReporteOUTMesCampo3>
+		<queryReporteOUTMesCampo4>70::Cost Total::DER::SUM</queryReporteOUTMesCampo4>
+		<queryReporteOUTMesCampo5>50::Prom Pax::CEN::OPE::2::/::3</queryReporteOUTMesCampo5>
+		<queryReporteOUTMesCampo6>70::Cost X Pax::DER::OPE::4::/::2</queryReporteOUTMesCampo6>
+		
+		<queryReporteOTRCampo1>80::Fecha::CEN</queryReporteOTRCampo1>
+		<queryReporteOTRCampo2>70::Tot Pax::DER::SUM</queryReporteOTRCampo2>
+		<queryReporteOTRCampo3>70::Tot Tax::DER::SUM</queryReporteOTRCampo3>
+		<queryReporteOTRCampo4>100::Total::DER::SUM</queryReporteOTRCampo4>
+		<queryReporteOTRCampo5>70::Prom Pax::DER::OPE::2::/::3</queryReporteOTRCampo5>
+		<queryReporteOTRCampo6>100::Cost X Pax::DER::OPE::4::/::2</queryReporteOTRCampo6>
+		
+    <queryReporteConsecReservaCampo1>40::Ofi::CEN</queryReporteConsecReservaCampo1>
+		<queryReporteConsecReservaCampo2>50::No Reserva::IZQ</queryReporteConsecReservaCampo2>
+		<queryReporteConsecReservaCampo3>40::Item::IZQ</queryReporteConsecReservaCampo3>
+		<queryReporteConsecReservaCampo4>60::Anulada::CEN</queryReporteConsecReservaCampo4>
+		<queryReporteConsecReservaCampo5>80::Fecha Registro::CEN</queryReporteConsecReservaCampo5>
+		<queryReporteConsecReservaCampo6>170::Agencia::IZQ</queryReporteConsecReservaCampo6>
+		<queryReporteConsecReservaCampo7>170::Nombre Pax::IZQ</queryReporteConsecReservaCampo7>
+		<queryReporteConsecReservaCampo8>30::# Pax::IZQ</queryReporteConsecReservaCampo8>
+		<queryReporteConsecReservaCampo9>80::Tele'fono Pax::IZQ</queryReporteConsecReservaCampo9>
+		<queryReporteConsecReservaCampo10>100::Paquete::IZQ</queryReporteConsecReservaCampo10>
+		<queryReporteConsecReservaCampo11>100::Asesor Agencia::IZQ</queryReporteConsecReservaCampo11>
+		<queryReporteConsecReservaCampo12>100::Voucher Agencia::IZQ</queryReporteConsecReservaCampo12>
+    <queryReporteConsecReservaCampo13>80::Fecha IN::CEN</queryReporteConsecReservaCampo13>
+		<queryReporteConsecReservaCampo14>80::Fecha OUT::CEN</queryReporteConsecReservaCampo14>
+		<queryReporteConsecReservaCampo15>100::Hotel::IZQ</queryReporteConsecReservaCampo15>
+		<queryReporteConsecReservaCampo16>50::Trf IN::CEN</queryReporteConsecReservaCampo16>
+		<queryReporteConsecReservaCampo17>50::Trf OUT::CEN</queryReporteConsecReservaCampo17>
+		<queryReporteConsecReservaCampo18>50::Otr Serv::CEN</queryReporteConsecReservaCampo18>
+    
+    <queryReporteAgenciasCampo1>60::Co'digo::CEN</queryReporteAgenciasCampo1>
+    <queryReporteAgenciasCampo2>100::NIT::IZQ</queryReporteAgenciasCampo2>
+    <queryReporteAgenciasCampo3>300::Nombre::IZQ</queryReporteAgenciasCampo3>
+    <queryReporteAgenciasCampo4>150::Nombre Corto::IZQ</queryReporteAgenciasCampo4>
+    <queryReporteAgenciasCampo5>300::Direccio'n::IZQ</queryReporteAgenciasCampo5>
+    <queryReporteAgenciasCampo6>100::Ciudad::IZQ</queryReporteAgenciasCampo6>
+    <queryReporteAgenciasCampo7>100::Tele'fono::IZQ</queryReporteAgenciasCampo7>
+    <queryReporteAgenciasCampo8>100::Celular::IZQ</queryReporteAgenciasCampo8>
+    <queryReporteAgenciasCampo9>100::Email::IZQ</queryReporteAgenciasCampo9>
+    
+    <queryReporteHotelesCampo1>70::Co'digo::CEN</queryReporteHotelesCampo1>
+    <queryReporteHotelesCampo2>300::Nombre::IZQ</queryReporteHotelesCampo2>
+    <queryReporteHotelesCampo3>60::Oficina::CEN</queryReporteHotelesCampo3>    
+    
+		<queryReporteReserNoConfirCampo1>50::Oficina::CEN</queryReporteReserNoConfirCampo1>
+		<queryReporteReserNoConfirCampo2>70::Reserva::IZQ</queryReporteReserNoConfirCampo2>
+		<queryReporteReserNoConfirCampo3>20::It::IZQ</queryReporteReserNoConfirCampo3>
+		<queryReporteReserNoConfirCampo4>80::Asesor::IZQ</queryReporteReserNoConfirCampo4>
+		<queryReporteReserNoConfirCampo5>150::Nombre Pax::IZQ</queryReporteReserNoConfirCampo5>
+		<queryReporteReserNoConfirCampo6>30::# Pax::IZQ</queryReporteReserNoConfirCampo6>
+		<queryReporteReserNoConfirCampo7>130::Tour Pendiente::IZQ</queryReporteReserNoConfirCampo7>
+		<queryReporteReserNoConfirCampo8>80::Fecha IN::CEN</queryReporteReserNoConfirCampo8>
+		<queryReporteReserNoConfirCampo9>80::Fecha OUT::CEN</queryReporteReserNoConfirCampo9>
+    <queryReporteReserNoConfirCampo10>120::Paquete::IZQ</queryReporteReserNoConfirCampo10>
+    <queryReporteReserNoConfirCampo11>150::Agencia::IZQ</queryReporteReserNoConfirCampo11>
+    <queryReporteReserNoConfirCampo12>90::Voucher Agencia::IZQ</queryReporteReserNoConfirCampo12>
+    <queryReporteReserNoConfirCampo13>80::Fecha Registro::CEN</queryReporteReserNoConfirCampo13>
+
+		<queryReporteNoConfirByReservaCampo1>50::Oficina::CEN</queryReporteNoConfirByReservaCampo1>
+		<queryReporteNoConfirByReservaCampo2>70::Reserva::IZQ</queryReporteNoConfirByReservaCampo2>
+		<queryReporteNoConfirByReservaCampo3>20::It::IZQ</queryReporteNoConfirByReservaCampo3>
+		<queryReporteNoConfirByReservaCampo4>80::Asesor::IZQ</queryReporteNoConfirByReservaCampo4>
+		<queryReporteNoConfirByReservaCampo5>150::Nombre Pax::IZQ</queryReporteNoConfirByReservaCampo5>
+		<queryReporteNoConfirByReservaCampo6>30::# Pax::IZQ</queryReporteNoConfirByReservaCampo6>
+		<queryReporteNoConfirByReservaCampo7>130::Tour Pendiente::IZQ</queryReporteNoConfirByReservaCampo7>
+		<queryReporteNoConfirByReservaCampo8>80::Fecha IN::CEN</queryReporteNoConfirByReservaCampo8>
+		<queryReporteNoConfirByReservaCampo9>80::Fecha OUT::CEN</queryReporteNoConfirByReservaCampo9>
+    <queryReporteNoConfirByReservaCampo10>120::Paquete::IZQ</queryReporteNoConfirByReservaCampo10>
+    <queryReporteNoConfirByReservaCampo11>150::Agencia::IZQ</queryReporteNoConfirByReservaCampo11>
+    <queryReporteNoConfirByReservaCampo12>90::Voucher Agencia::IZQ</queryReporteNoConfirByReservaCampo12>
+    <queryReporteNoConfirByReservaCampo13>80::Fecha Registro::CEN</queryReporteNoConfirByReservaCampo13>
+		
+		<queryReporteConsecReservaCliCampo1>70::No Reserva::IZQ</queryReporteConsecReservaCliCampo1>
+		<queryReporteConsecReservaCliCampo2>40::Item::IZQ</queryReporteConsecReservaCliCampo2>
+		<queryReporteConsecReservaCliCampo3>80::Fecha::CEN</queryReporteConsecReservaCliCampo3>
+		<queryReporteConsecReservaCliCampo4>250::Agencia::IZQ</queryReporteConsecReservaCliCampo4>
+		<queryReporteConsecReservaCliCampo5>100::Nombre Pax::IZQ</queryReporteConsecReservaCliCampo5>
+		<queryReporteConsecReservaCliCampo6>30::# Pax::IZQ</queryReporteConsecReservaCliCampo6>
+		<queryReporteConsecReservaCliCampo7>70::Voucher Reserva::IZQ</queryReporteConsecReservaCliCampo7>
+		<queryReporteConsecReservaCliCampo8>80::Fecha IN::CEN</queryReporteConsecReservaCliCampo8>
+		<queryReporteConsecReservaCliCampo9>80::Fecha OUT::CEN</queryReporteConsecReservaCliCampo9>
+		<queryReporteConsecReservaCliCampo10>50::Hotel::IZQ</queryReporteConsecReservaCliCampo10>
+		<queryReporteConsecReservaCliCampo11>50::Trf IN::CEN</queryReporteConsecReservaCliCampo11>
+		<queryReporteConsecReservaCliCampo12>50::Trf OUT::CEN</queryReporteConsecReservaCliCampo12>
+		<queryReporteConsecReservaCliCampo13>50::Otr Serv::CEN</queryReporteConsecReservaCliCampo13>
+		
+		<queryReporteLog1Campo1>100::Fecha::CEN</queryReporteLog1Campo1>
+		<queryReporteLog1Campo2>60::Hora::CEN</queryReporteLog1Campo2>
+		<queryReporteLog1Campo3>80::Usuario::IZQ</queryReporteLog1Campo3>
+		<queryReporteLog1Campo4>120::Operacio'n::IZQ</queryReporteLog1Campo4>
+		<queryReporteLog1Campo5>100::Tabla::IZQ</queryReporteLog1Campo5>
+		<queryReporteLog1Campo6>60::#::IZQ</queryReporteLog1Campo6>
+		<queryReporteLog1Campo7>300::Descripcio'n::IZQ</queryReporteLog1Campo7>
+		<queryReporteLog1Campo8>20::Oficina::CEN</queryReporteLog1Campo8>
+		
+		<queryReporteLog2Campo1>100::Fecha::CEN</queryReporteLog2Campo1>
+		<queryReporteLog2Campo2>60::Hora::CEN</queryReporteLog2Campo2>
+		<queryReporteLog2Campo3>80::Usuario::IZQ</queryReporteLog2Campo3>
+		<queryReporteLog2Campo4>120::Operacio'n::IZQ</queryReporteLog2Campo4>
+		<queryReporteLog2Campo5>100::Tabla::IZQ</queryReporteLog2Campo5>
+		<queryReporteLog2Campo6>60::#::IZQ</queryReporteLog2Campo6>
+		<queryReporteLog2Campo7>300::Descripcio'n::IZQ</queryReporteLog2Campo7>
+		<queryReporteLog2Campo8>20::Oficina::CEN</queryReporteLog2Campo8>
+    
+		<queryReporteLlegadasCampo1>50::Reserva::CEN</queryReporteLlegadasCampo1>
+		<queryReporteLlegadasCampo2>20::It::CEN</queryReporteLlegadasCampo2>
+		<queryReporteLlegadasCampo3>60::Vuelo IN::CEN</queryReporteLlegadasCampo3>
+		<queryReporteLlegadasCampo4>50::Hora Vuelo::CEN</queryReporteLlegadasCampo4>
+    <queryReporteLlegadasCampo5>80::Agencia::IZQ</queryReporteLlegadasCampo5>
+		<queryReporteLlegadasCampo6>60::Hora Servicio::CEN</queryReporteLlegadasCampo6>
+		<queryReporteLlegadasCampo7>160::Nombre Pasajero::IZQ</queryReporteLlegadasCampo7>
+		<queryReporteLlegadasCampo8>30::# Pax::CEN</queryReporteLlegadasCampo8>
+		<queryReporteLlegadasCampo9>60::Tel Pax::IZQ</queryReporteLlegadasCampo9>
+    <queryReporteLlegadasCampo10>80::Paquete::IZQ</queryReporteLlegadasCampo10>
+		<queryReporteLlegadasCampo11>80::Hotel::IZQ</queryReporteLlegadasCampo11>
+		<queryReporteLlegadasCampo12>150::Firma Pax::IZQ</queryReporteLlegadasCampo12>
+
+		<queryReporteSalidasCampo1>60::Vuelo OUT::CEN</queryReporteSalidasCampo1>
+		<queryReporteSalidasCampo2>50::Hora Vuelo::CEN</queryReporteSalidasCampo2>
+		<queryReporteSalidasCampo3>100::Hotel::IZQ</queryReporteSalidasCampo3>
+		<queryReporteSalidasCampo4>50::Reserva::IZQ</queryReporteSalidasCampo4>
+		<queryReporteSalidasCampo5>20::It::CEN</queryReporteSalidasCampo5>
+		<queryReporteSalidasCampo6>60::Hora Servicio::CEN</queryReporteSalidasCampo6>
+		<queryReporteSalidasCampo7>180::Nombre Pasajero::IZQ</queryReporteSalidasCampo7>
+		<queryReporteSalidasCampo8>30::# Pax::CEN</queryReporteSalidasCampo8>
+		<queryReporteSalidasCampo9>80::Tel Pax::IZQ</queryReporteSalidasCampo9>
+		<queryReporteSalidasCampo10>150::Agencia::IZQ</queryReporteSalidasCampo10>
+		<queryReporteSalidasCampo11>170::Firma Pax::CEN</queryReporteSalidasCampo11>
+    
+		<queryReporteSalidasXResCampo1>70::Fecha OUT::IZQ</queryReporteSalidasXResCampo1>
+		<queryReporteSalidasXResCampo2>70::Vuelo OUT::IZQ</queryReporteSalidasXResCampo2>
+		<queryReporteSalidasXResCampo3>40::Hora::CEN</queryReporteSalidasXResCampo3>
+		<queryReporteSalidasXResCampo4>120::Hotel::IZQ</queryReporteSalidasXResCampo4>	
+		<queryReporteSalidasXResCampo5>80::No. Reserva::DER</queryReporteSalidasXResCampo5>
+		<queryReporteSalidasXResCampo6>20::#::CEN</queryReporteSalidasXResCampo6>
+		<queryReporteSalidasXResCampo7>80::Documento::IZQ</queryReporteSalidasXResCampo7>
+		<queryReporteSalidasXResCampo8>180::Nombre Pasajero::IZQ</queryReporteSalidasXResCampo8>
+		<queryReporteSalidasXResCampo9>40::# Pax::CEN</queryReporteSalidasXResCampo9>
+		<queryReporteSalidasXResCampo10>50::Agencia::IZQ</queryReporteSalidasXResCampo10>
+		<queryReporteSalidasXResCampo11>170::Firma Pax::CEN</queryReporteSalidasXResCampo11>
+    <queryReporteSalidasXResCampo12>40::Ofi::CEN</queryReporteSalidasXResCampo12>
+		
+    <queryReportePasXResCampo1>40::Ofi::CEN</queryReportePasXResCampo1>
+		<queryReportePasXResCampo2>20::#::CEN</queryReportePasXResCampo2>
+		<queryReportePasXResCampo3>80::Documento::IZQ</queryReportePasXResCampo3>
+		<queryReportePasXResCampo4>150::Nombre Pasajero::IZQ</queryReportePasXResCampo4>
+		<queryReportePasXResCampo5>40::# Pax::DER</queryReportePasXResCampo5>
+		<queryReportePasXResCampo6>40::Nac::CEN</queryReportePasXResCampo6>
+		<queryReportePasXResCampo7>80::Fecha IN::CEN</queryReportePasXResCampo7>
+		<queryReportePasXResCampo8>80::Fecha OUT::CEN</queryReportePasXResCampo8>
+		<queryReportePasXResCampo9>60::Hotel::CEN</queryReportePasXResCampo9>
+		<queryReportePasXResCampo10>60::Vuelo IN::IZQ</queryReportePasXResCampo10>
+		<queryReportePasXResCampo11>60::Vuelo OUT::IZQ</queryReportePasXResCampo11>
+		<queryReportePasXResCampo12>50::Trf IN::CEN</queryReportePasXResCampo12>
+		<queryReportePasXResCampo13>50::Trf OUT::CEN</queryReportePasXResCampo13>
+		<queryReportePasXResCampo14>50::Otr Serv::CEN</queryReportePasXResCampo14>
+		<queryReportePasXResCampo15>300::Observaciones::IZQ</queryReportePasXResCampo15>
+		<queryReportePasXResCampo16>250::Agencia::IZQ</queryReportePasXResCampo16>
+		<queryReportePasXResCampo17>100::Asesor Agencia::IZQ</queryReportePasXResCampo17>
+		<queryReportePasXResCampo18>100::Voucher Agencia::IZQ</queryReportePasXResCampo18>
+		
+		<queryReportePasXVouCampo1>70::Voucher Reserva::DER</queryReportePasXVouCampo1>
+		<queryReportePasXVouCampo2>80::No. Reserva::DER</queryReportePasXVouCampo2>
+		<queryReportePasXVouCampo3>20::#::CEN</queryReportePasXVouCampo3>
+		<queryReportePasXVouCampo4>80::Documento::IZQ</queryReportePasXVouCampo4>
+		<queryReportePasXVouCampo5>150::Nombre Pasajero::IZQ</queryReportePasXVouCampo5>
+		<queryReportePasXVouCampo6>40::# Pax::DER</queryReportePasXVouCampo6>		
+		<queryReportePasXVouCampo7>40::Nac::CEN</queryReportePasXVouCampo7>
+		<queryReportePasXVouCampo8>100::Fecha IN::CEN</queryReportePasXVouCampo8>
+		<queryReportePasXVouCampo9>100::Fecha OUT::CEN</queryReportePasXVouCampo9>
+		<queryReportePasXVouCampo10>60::Hotel::CEN</queryReportePasXVouCampo10>
+		<queryReportePasXVouCampo11>60::Vuelo IN::IZQ</queryReportePasXVouCampo11>
+		<queryReportePasXVouCampo12>60::Vuelo OUT::IZQ</queryReportePasXVouCampo12>
+		<queryReportePasXVouCampo13>50::Trf IN::CEN</queryReportePasXVouCampo13>
+		<queryReportePasXVouCampo14>50::Trf OUT::CEN</queryReportePasXVouCampo14>
+		<queryReportePasXVouCampo15>50::Otr Serv::CEN</queryReportePasXVouCampo15>
+		<queryReportePasXVouCampo16>300::Observaciones::IZQ</queryReportePasXVouCampo16>
+		<queryReportePasXVouCampo17>150::Cliente::IZQ</queryReportePasXVouCampo17>
+
+
+    <queryReporteVentaTourCampo1>80::Voucher::IZQ</queryReporteVentaTourCampo1>
+		<queryReporteVentaTourCampo2>70::Documento::IZQ</queryReporteVentaTourCampo2>
+		<queryReporteVentaTourCampo3>60::Tipo::IZQ</queryReporteVentaTourCampo3>
+		<queryReporteVentaTourCampo4>170::Nombre Pasajero::IZQ</queryReporteVentaTourCampo4>
+		<queryReporteVentaTourCampo5>80::Tele'fono Pax::IZQ</queryReporteVentaTourCampo5>
+		<queryReporteVentaTourCampo6>130::Servicio::IZQ</queryReporteVentaTourCampo6>
+		<queryReporteVentaTourCampo7>80::Fecha Tour::CEN</queryReporteVentaTourCampo7>
+		<queryReporteVentaTourCampo8>40::Hora::CEN</queryReporteVentaTourCampo8>
+		<queryReporteVentaTourCampo9>120::Hotel::IZQ</queryReporteVentaTourCampo9>
+		<queryReporteVentaTourCampo10>30::Nac::CEN</queryReporteVentaTourCampo10>
+		<queryReporteVentaTourCampo11>40::# Pax::CEN</queryReporteVentaTourCampo11>
+		<queryReporteVentaTourCampo12>40::Adultos::CEN</queryReporteVentaTourCampo12>
+		<queryReporteVentaTourCampo13>40::Nin'os::CEN</queryReporteVentaTourCampo13>
+		<queryReporteVentaTourCampo14>200::Lugar de salida::IZQ</queryReporteVentaTourCampo14>
+		<queryReporteVentaTourCampo15>120::Gui'a Turi'stico::IZQ</queryReporteVentaTourCampo15>	
+		<queryReporteVentaTourCampo16>150::Agencia::IZQ</queryReporteVentaTourCampo16>	
+		<queryReporteVentaTourCampo17>100::Asesor Agencia::IZQ</queryReporteVentaTourCampo17>	
+    <queryReporteVentaTourCampo18>50::Asesor Venta::IZQ</queryReporteVentaTourCampo18>
+    <queryReporteVentaTourCampo19>80::Tel. Asesor::IZQ</queryReporteVentaTourCampo19>
+    <queryReporteVentaTourCampo20>80::Fecha Venta::CEN</queryReporteVentaTourCampo20>
+		<queryReporteVentaTourCampo21>200::Obs::IZQ</queryReporteVentaTourCampo21>
+
+    <queryReporteVentaDirectaTourCampo1>80::Voucher::IZQ</queryReporteVentaDirectaTourCampo1>
+		<queryReporteVentaDirectaTourCampo2>70::Documento::IZQ</queryReporteVentaDirectaTourCampo2>
+		<queryReporteVentaDirectaTourCampo3>60::Tipo::IZQ</queryReporteVentaDirectaTourCampo3>
+		<queryReporteVentaDirectaTourCampo4>170::Nombre Pasajero::IZQ</queryReporteVentaDirectaTourCampo4>
+		<queryReporteVentaDirectaTourCampo5>130::Servicio::IZQ</queryReporteVentaDirectaTourCampo5>
+		<queryReporteVentaDirectaTourCampo6>80::Fecha Tour::CEN</queryReporteVentaDirectaTourCampo6>
+		<queryReporteVentaDirectaTourCampo7>40::Hora::CEN</queryReporteVentaDirectaTourCampo7>
+		<queryReporteVentaDirectaTourCampo8>120::Hotel::IZQ</queryReporteVentaDirectaTourCampo8>
+		<queryReporteVentaDirectaTourCampo9>30::Nac::CEN</queryReporteVentaDirectaTourCampo9>
+		<queryReporteVentaDirectaTourCampo10>40::# Pax::CEN::SUM</queryReporteVentaDirectaTourCampo10>
+    <queryReporteVentaDirectaTourCampo11>70::Total::DER::SUM</queryReporteVentaDirectaTourCampo11>    
+		<queryReporteVentaDirectaTourCampo12>40::Adultos::CEN</queryReporteVentaDirectaTourCampo12>
+    <queryReporteVentaDirectaTourCampo13>60::Precio X Adulto::DER</queryReporteVentaDirectaTourCampo13>
+		<queryReporteVentaDirectaTourCampo14>40::Nin'os::CEN</queryReporteVentaDirectaTourCampo14>
+		<queryReporteVentaDirectaTourCampo15>60::Precio X Nin'o::DER</queryReporteVentaDirectaTourCampo15>
+    <queryReporteVentaDirectaTourCampo16>200::Lugar de salida::IZQ</queryReporteVentaDirectaTourCampo16>
+		<queryReporteVentaDirectaTourCampo17>120::Gui'a Turi'stico::IZQ</queryReporteVentaDirectaTourCampo17>	
+		<queryReporteVentaDirectaTourCampo18>50::Asesor Venta::IZQ</queryReporteVentaDirectaTourCampo18>
+    <queryReporteVentaDirectaTourCampo19>80::Tel. Asesor::CEN</queryReporteVentaDirectaTourCampo19>
+		<queryReporteVentaDirectaTourCampo20>80::Fecha Venta::CEN</queryReporteVentaDirectaTourCampo20>
+		<queryReporteVentaDirectaTourCampo21>200::Obs::IZQ</queryReporteVentaDirectaTourCampo21>
+    
+    <queryConsecutivoVentaTourCampo1>80::Voucher::CEN</queryConsecutivoVentaTourCampo1>
+    <queryConsecutivoVentaTourCampo2>60::Anulado::CEN</queryConsecutivoVentaTourCampo2>
+		<queryConsecutivoVentaTourCampo3>50::Reserva::CEN</queryConsecutivoVentaTourCampo3>
+		<queryConsecutivoVentaTourCampo4>60::Tipo::IZQ</queryConsecutivoVentaTourCampo4>
+		<queryConsecutivoVentaTourCampo5>170::Nombre Pasajero::IZQ</queryConsecutivoVentaTourCampo5>
+		<queryConsecutivoVentaTourCampo6>100::Paquete::IZQ</queryConsecutivoVentaTourCampo6>
+		<queryConsecutivoVentaTourCampo7>130::Servicio::IZQ</queryConsecutivoVentaTourCampo7>
+		<queryConsecutivoVentaTourCampo8>80::Fecha Tour::CEN</queryConsecutivoVentaTourCampo8>
+		<queryConsecutivoVentaTourCampo9>40::Hora::CEN</queryConsecutivoVentaTourCampo9>
+		<queryConsecutivoVentaTourCampo10>120::Hotel::IZQ</queryConsecutivoVentaTourCampo10>
+		<queryConsecutivoVentaTourCampo11>30::Nac::CEN</queryConsecutivoVentaTourCampo11>
+		<queryConsecutivoVentaTourCampo12>40::# Pax::CEN</queryConsecutivoVentaTourCampo12>
+		<queryConsecutivoVentaTourCampo13>40::Adultos::CEN</queryConsecutivoVentaTourCampo13>
+		<queryConsecutivoVentaTourCampo14>40::Nin'os::CEN</queryConsecutivoVentaTourCampo14>
+		<queryConsecutivoVentaTourCampo15>200::Lugar de salida::IZQ</queryConsecutivoVentaTourCampo15>
+		<queryConsecutivoVentaTourCampo16>120::Gui'a Turi'stico::IZQ</queryConsecutivoVentaTourCampo16>	
+		<queryConsecutivoVentaTourCampo17>250::Agencia::IZQ</queryConsecutivoVentaTourCampo17>		
+		<queryConsecutivoVentaTourCampo18>100::Asesor Agencia::IZQ</queryConsecutivoVentaTourCampo18>		
+		<queryConsecutivoVentaTourCampo19>50::Asesor Venta::IZQ</queryConsecutivoVentaTourCampo19>
+		<queryConsecutivoVentaTourCampo20>80::Fecha Venta::CEN</queryConsecutivoVentaTourCampo20>
+		<queryConsecutivoVentaTourCampo21>200::Obs::IZQ</queryConsecutivoVentaTourCampo21>
+		<queryConsecutivoVentaTourCampo22>80::Fecha Anulacion::CEN</queryConsecutivoVentaTourCampo22>
+		<queryConsecutivoVentaTourCampo23>50::Asesor Anula::IZQ</queryConsecutivoVentaTourCampo23>
+    
+    <queryConsecutivoVentaTourAgeCampo1>80::Voucher::CEN</queryConsecutivoVentaTourAgeCampo1>
+    <queryConsecutivoVentaTourAgeCampo2>60::Anulado::CEN</queryConsecutivoVentaTourAgeCampo2>
+		<queryConsecutivoVentaTourAgeCampo3>50::Reserva::CEN</queryConsecutivoVentaTourAgeCampo3>
+		<queryConsecutivoVentaTourAgeCampo4>60::Tipo::IZQ</queryConsecutivoVentaTourAgeCampo4>
+		<queryConsecutivoVentaTourAgeCampo5>170::Nombre Pasajero::IZQ</queryConsecutivoVentaTourAgeCampo5>
+		<queryConsecutivoVentaTourAgeCampo6>100::Paquete::IZQ</queryConsecutivoVentaTourAgeCampo6>
+		<queryConsecutivoVentaTourAgeCampo7>130::Servicio::IZQ</queryConsecutivoVentaTourAgeCampo7>
+		<queryConsecutivoVentaTourAgeCampo8>80::Fecha Tour::CEN</queryConsecutivoVentaTourAgeCampo8>
+		<queryConsecutivoVentaTourAgeCampo9>40::Hora::CEN</queryConsecutivoVentaTourAgeCampo9>
+		<queryConsecutivoVentaTourAgeCampo10>120::Hotel::IZQ</queryConsecutivoVentaTourAgeCampo10>
+		<queryConsecutivoVentaTourAgeCampo11>30::Nac::CEN</queryConsecutivoVentaTourAgeCampo11>
+		<queryConsecutivoVentaTourAgeCampo12>40::# Pax::CEN</queryConsecutivoVentaTourAgeCampo12>
+		<queryConsecutivoVentaTourAgeCampo13>40::Adultos::CEN</queryConsecutivoVentaTourAgeCampo13>
+		<queryConsecutivoVentaTourAgeCampo14>40::Nin'os::CEN</queryConsecutivoVentaTourAgeCampo14>
+		<queryConsecutivoVentaTourAgeCampo15>200::Lugar de salida::IZQ</queryConsecutivoVentaTourAgeCampo15>
+		<queryConsecutivoVentaTourAgeCampo16>120::Gui'a Turi'stico::IZQ</queryConsecutivoVentaTourAgeCampo16>	
+		<queryConsecutivoVentaTourAgeCampo17>250::Agencia::IZQ</queryConsecutivoVentaTourAgeCampo17>		
+		<queryConsecutivoVentaTourAgeCampo18>100:: Asesor Agencia::IZQ</queryConsecutivoVentaTourAgeCampo18>		
+		<queryConsecutivoVentaTourAgeCampo19>50::Asesor Venta::IZQ</queryConsecutivoVentaTourAgeCampo19>
+		<queryConsecutivoVentaTourAgeCampo20>80::Fecha Venta::CEN</queryConsecutivoVentaTourAgeCampo20>
+		<queryConsecutivoVentaTourAgeCampo21>200::Obs::IZQ</queryConsecutivoVentaTourAgeCampo21>
+		<queryConsecutivoVentaTourAgeCampo22>80::Fecha Anulacion::CEN</queryConsecutivoVentaTourAgeCampo22>
+		<queryConsecutivoVentaTourAgeCampo23>50::Asesor Anula::IZQ</queryConsecutivoVentaTourAgeCampo23>
+    
+		<queryConsolidadoTours1Campo1>80::Voucher::IZQ</queryConsolidadoTours1Campo1>
+		<queryConsolidadoTours1Campo2>80::Documento / Reserva::IZQ</queryConsolidadoTours1Campo2>
+		<queryConsolidadoTours1Campo3>60::Tipo::IZQ</queryConsolidadoTours1Campo3>
+		<queryConsolidadoTours1Campo4>170::Nombre Pasajero::IZQ</queryConsolidadoTours1Campo4>
+		<queryConsolidadoTours1Campo5>130::Tour::IZQ</queryConsolidadoTours1Campo5>
+		<queryConsolidadoTours1Campo6>70::Fecha Tour::CEN</queryConsolidadoTours1Campo6>
+		<queryConsolidadoTours1Campo7>50::# Adultos::CEN::SUM</queryConsolidadoTours1Campo7>
+		<queryConsolidadoTours1Campo8>60::Precio X Adulto::DER</queryConsolidadoTours1Campo8>
+		<queryConsolidadoTours1Campo9>40::# Nin'os::CEN::SUM</queryConsolidadoTours1Campo9>
+		<queryConsolidadoTours1Campo10>60::Precio X Nin'o::DER</queryConsolidadoTours1Campo10>
+		<queryConsolidadoTours1Campo11>50::# Pax Total::CEN::SUM</queryConsolidadoTours1Campo11>
+		<queryConsolidadoTours1Campo12>70::Total::DER::SUM</queryConsolidadoTours1Campo12>
+		<queryConsolidadoTours1Campo13>70::Fecha Venta::CEN</queryConsolidadoTours1Campo13>
+		<queryConsolidadoTours1Campo14>120::Agencia::IZQ</queryConsolidadoTours1Campo14>	
+		<queryConsolidadoTours1Campo15>120::Proveedor::IZQ</queryConsolidadoTours1Campo15>	
+
+		<queryConsolidadoTours2Campo1>80::Voucher::IZQ</queryConsolidadoTours2Campo1>
+		<queryConsolidadoTours2Campo2>80::Documento / Reserva::IZQ</queryConsolidadoTours2Campo2>
+		<queryConsolidadoTours2Campo3>60::Tipo::IZQ</queryConsolidadoTours2Campo3>
+		<queryConsolidadoTours2Campo4>170::Nombre Pasajero::IZQ</queryConsolidadoTours2Campo4>
+		<queryConsolidadoTours2Campo5>130::Tour::IZQ</queryConsolidadoTours2Campo5>
+		<queryConsolidadoTours2Campo6>70::Fecha Tour::CEN</queryConsolidadoTours2Campo6>
+		<queryConsolidadoTours2Campo7>50::# Adultos::CEN::SUM</queryConsolidadoTours2Campo7>
+		<queryConsolidadoTours2Campo8>60::Precio X Adulto::DER</queryConsolidadoTours2Campo8>
+		<queryConsolidadoTours2Campo9>40::# Nin'os::CEN::SUM</queryConsolidadoTours2Campo9>
+		<queryConsolidadoTours2Campo10>60::Precio X Nin'o::DER</queryConsolidadoTours2Campo10>
+		<queryConsolidadoTours2Campo11>50::# Pax Total::CEN::SUM</queryConsolidadoTours2Campo11>
+		<queryConsolidadoTours2Campo12>70::Total::DER::SUM</queryConsolidadoTours2Campo12>
+		<queryConsolidadoTours2Campo13>70::Fecha Venta::CEN</queryConsolidadoTours2Campo13>
+		<queryConsolidadoTours2Campo14>120::Agencia::IZQ</queryConsolidadoTours2Campo14>	
+		<queryConsolidadoTours2Campo15>120::Proveedor::IZQ</queryConsolidadoTours2Campo15>			
+
+		<queryReporteVentaTourXResCampo1>90::Voucher::IZQ</queryReporteVentaTourXResCampo1>
+		<queryReporteVentaTourXResCampo2>90::Reserva::IZQ</queryReporteVentaTourXResCampo2>
+		<queryReporteVentaTourXResCampo3>80::Documento::IZQ</queryReporteVentaTourXResCampo3>
+		<queryReporteVentaTourXResCampo4>150::Nombre Pasajero::IZQ</queryReporteVentaTourXResCampo4>
+		<queryReporteVentaTourXResCampo5>80::Tele'fono Pax::IZQ</queryReporteVentaTourXResCampo5>
+		<queryReporteVentaTourXResCampo6>130::Servicio::IZQ</queryReporteVentaTourXResCampo6>
+		<queryReporteVentaTourXResCampo7>80::Fecha Tour::CEN</queryReporteVentaTourXResCampo7>
+		<queryReporteVentaTourXResCampo8>50::Hora::CEN</queryReporteVentaTourXResCampo8>
+		<queryReporteVentaTourXResCampo9>120::Hotel::IZQ</queryReporteVentaTourXResCampo9>
+		<queryReporteVentaTourXResCampo10>60::Nac::CEN</queryReporteVentaTourXResCampo10>
+		<queryReporteVentaTourXResCampo11>40::# Pax::DER</queryReporteVentaTourXResCampo11>
+		<queryReporteVentaTourXResCampo12>40::Adultos::CEN</queryReporteVentaTourXResCampo12>
+		<queryReporteVentaTourXResCampo13>40::Nin'os::CEN</queryReporteVentaTourXResCampo13>
+		<queryReporteVentaTourXResCampo14>180::Lugar de salida::IZQ</queryReporteVentaTourXResCampo14>
+		<queryReporteVentaTourXResCampo15>150::Gui'a Turi'stico::IZQ</queryReporteVentaTourXResCampo15>
+		<queryReporteVentaTourXResCampo16>150::Agencia::IZQ</queryReporteVentaTourXResCampo16>		
+		<queryReporteVentaTourXResCampo17>100::Asesor Agencia::IZQ</queryReporteVentaTourXResCampo17>		
+		<queryReporteVentaTourXResCampo18>100::Asesor Venta::IZQ</queryReporteVentaTourXResCampo18>
+    <queryReporteVentaTourXResCampo19>80::Tel. Asesor::CEN</queryReporteVentaTourXResCampo19>
+		<queryReporteVentaTourXResCampo20>100::Fecha Venta::CEN</queryReporteVentaTourXResCampo20>
+		<queryReporteVentaTourXResCampo21>200::Obs::IZQ</queryReporteVentaTourXResCampo21>
+
+		<queryRepContactosCampo1>100::Documento::IZQ</queryRepContactosCampo1>
+		<queryRepContactosCampo2>180::Nombre::IZQ</queryRepContactosCampo2>
+		<queryRepContactosCampo3>100::Celular::IZQ</queryRepContactosCampo3>
+		<queryRepContactosCampo4>200::Correo Electronico::IZQ</queryRepContactosCampo4>
+		<queryRepContactosCampo5>100::Ultima Actualizacion::CEN</queryRepContactosCampo5>
+		
+		
+		<queryEstadisticaNacRangoAgeCampo1>120::Agencia::IZQ</queryEstadisticaNacRangoAgeCampo1>
+		<queryEstadisticaNacRangoAgeCampo2>80::Pasajeros::DER</queryEstadisticaNacRangoAgeCampo2>
+		
+		<queryEstadisticaNacRangoHotCampo1>120::Hotel::IZQ</queryEstadisticaNacRangoHotCampo1>
+		<queryEstadisticaNacRangoHotCampo2>80::Pasajeros::DER</queryEstadisticaNacRangoHotCampo2>
+		
+		<queryEstadisticaNacRangoSerCampo1>120::Servicio::IZQ</queryEstadisticaNacRangoSerCampo1>
+		<queryEstadisticaNacRangoSerCampo2>80::Pasajeros::DER</queryEstadisticaNacRangoSerCampo2>
+		
+		<queryEstadisticaNacMensualAgeCampo1>120::Agencia::IZQ</queryEstadisticaNacMensualAgeCampo1>
+		<queryEstadisticaNacMensualAgeCampo2>60::Ene::DER</queryEstadisticaNacMensualAgeCampo2>
+		<queryEstadisticaNacMensualAgeCampo3>60::Feb::DER</queryEstadisticaNacMensualAgeCampo3>
+		<queryEstadisticaNacMensualAgeCampo4>60::Mar::DER</queryEstadisticaNacMensualAgeCampo4>
+		<queryEstadisticaNacMensualAgeCampo5>60::Abr::DER</queryEstadisticaNacMensualAgeCampo5>
+		<queryEstadisticaNacMensualAgeCampo6>60::May::DER</queryEstadisticaNacMensualAgeCampo6>
+		<queryEstadisticaNacMensualAgeCampo7>60::Jun::DER</queryEstadisticaNacMensualAgeCampo7>
+		<queryEstadisticaNacMensualAgeCampo8>60::Jul::DER</queryEstadisticaNacMensualAgeCampo8>
+		<queryEstadisticaNacMensualAgeCampo9>60::Ago::DER</queryEstadisticaNacMensualAgeCampo9>
+		<queryEstadisticaNacMensualAgeCampo10>60::Sep::DER</queryEstadisticaNacMensualAgeCampo10>
+		<queryEstadisticaNacMensualAgeCampo11>60::Oct::DER</queryEstadisticaNacMensualAgeCampo11>
+		<queryEstadisticaNacMensualAgeCampo12>60::Nov::DER</queryEstadisticaNacMensualAgeCampo12>
+		<queryEstadisticaNacMensualAgeCampo13>60::Dic::DER</queryEstadisticaNacMensualAgeCampo13>
+		
+		<queryEstadisticaNacMensualHotCampo1>120::Hotel::IZQ</queryEstadisticaNacMensualHotCampo1>
+		<queryEstadisticaNacMensualHotCampo2>60::Ene::DER</queryEstadisticaNacMensualHotCampo2>
+		<queryEstadisticaNacMensualHotCampo3>60::Feb::DER</queryEstadisticaNacMensualHotCampo3>
+		<queryEstadisticaNacMensualHotCampo4>60::Mar::DER</queryEstadisticaNacMensualHotCampo4>
+		<queryEstadisticaNacMensualHotCampo5>60::Abr::DER</queryEstadisticaNacMensualHotCampo5>
+		<queryEstadisticaNacMensualHotCampo6>60::May::DER</queryEstadisticaNacMensualHotCampo6>
+		<queryEstadisticaNacMensualHotCampo7>60::Jun::DER</queryEstadisticaNacMensualHotCampo7>
+		<queryEstadisticaNacMensualHotCampo8>60::Jul::DER</queryEstadisticaNacMensualHotCampo8>
+		<queryEstadisticaNacMensualHotCampo9>60::Ago::DER</queryEstadisticaNacMensualHotCampo9>
+		<queryEstadisticaNacMensualHotCampo10>60::Sep::DER</queryEstadisticaNacMensualHotCampo10>
+		<queryEstadisticaNacMensualHotCampo11>60::Oct::DER</queryEstadisticaNacMensualHotCampo11>
+		<queryEstadisticaNacMensualHotCampo12>60::Nov::DER</queryEstadisticaNacMensualHotCampo12>
+		<queryEstadisticaNacMensualHotCampo13>60::Dic::DER</queryEstadisticaNacMensualHotCampo13>
+		
+		<queryEstadisticaNacMensualSerCampo1>120::Servicio::IZQ</queryEstadisticaNacMensualSerCampo1>
+		<queryEstadisticaNacMensualSerCampo2>60::Ene::DER</queryEstadisticaNacMensualSerCampo2>
+		<queryEstadisticaNacMensualSerCampo3>60::Feb::DER</queryEstadisticaNacMensualSerCampo3>
+		<queryEstadisticaNacMensualSerCampo4>60::Mar::DER</queryEstadisticaNacMensualSerCampo4>
+		<queryEstadisticaNacMensualSerCampo5>60::Abr::DER</queryEstadisticaNacMensualSerCampo5>
+		<queryEstadisticaNacMensualSerCampo6>60::May::DER</queryEstadisticaNacMensualSerCampo6>
+		<queryEstadisticaNacMensualSerCampo7>60::Jun::DER</queryEstadisticaNacMensualSerCampo7>
+		<queryEstadisticaNacMensualSerCampo8>60::Jul::DER</queryEstadisticaNacMensualSerCampo8>
+		<queryEstadisticaNacMensualSerCampo9>60::Ago::DER</queryEstadisticaNacMensualSerCampo9>
+		<queryEstadisticaNacMensualSerCampo10>60::Sep::DER</queryEstadisticaNacMensualSerCampo10>
+		<queryEstadisticaNacMensualSerCampo11>60::Oct::DER</queryEstadisticaNacMensualSerCampo11>
+		<queryEstadisticaNacMensualSerCampo12>60::Nov::DER</queryEstadisticaNacMensualSerCampo12>
+		<queryEstadisticaNacMensualSerCampo13>60::Dic::DER</queryEstadisticaNacMensualSerCampo13>
+		
+		<queryEstadisticaSerRangoNacCampo1>120::Nacionalidad::IZQ</queryEstadisticaSerRangoNacCampo1>
+		<queryEstadisticaSerRangoNacCampo2>80::Pasajeros::DER::SUM</queryEstadisticaSerRangoNacCampo2>
+		
+		<queryEstadisticaSerMensualNacCampo1>120::Nacionalidad::IZQ</queryEstadisticaSerMensualNacCampo1>
+		<queryEstadisticaSerMensualNacCampo2>60::Ene::DER::SUM</queryEstadisticaSerMensualNacCampo2>
+		<queryEstadisticaSerMensualNacCampo3>60::Feb::DER::SUM</queryEstadisticaSerMensualNacCampo3>
+		<queryEstadisticaSerMensualNacCampo4>60::Mar::DER::SUM</queryEstadisticaSerMensualNacCampo4>
+		<queryEstadisticaSerMensualNacCampo5>60::Abr::DER::SUM</queryEstadisticaSerMensualNacCampo5>
+		<queryEstadisticaSerMensualNacCampo6>60::May::DER::SUM</queryEstadisticaSerMensualNacCampo6>
+		<queryEstadisticaSerMensualNacCampo7>60::Jun::DER::SUM</queryEstadisticaSerMensualNacCampo7>
+		<queryEstadisticaSerMensualNacCampo8>60::Jul::DER::SUM</queryEstadisticaSerMensualNacCampo8>
+		<queryEstadisticaSerMensualNacCampo9>60::Ago::DER::SUM</queryEstadisticaSerMensualNacCampo9>
+		<queryEstadisticaSerMensualNacCampo10>60::Sep::DER::SUM</queryEstadisticaSerMensualNacCampo10>
+		<queryEstadisticaSerMensualNacCampo11>60::Oct::DER::SUM</queryEstadisticaSerMensualNacCampo11>
+		<queryEstadisticaSerMensualNacCampo12>60::Nov::DER::SUM</queryEstadisticaSerMensualNacCampo12>
+		<queryEstadisticaSerMensualNacCampo13>60::Dic::DER::SUM</queryEstadisticaSerMensualNacCampo13>
+		
+		<queryEstadisticaHotRangoNacCampo1>120::Nacionalidad::IZQ</queryEstadisticaHotRangoNacCampo1>
+		<queryEstadisticaHotRangoNacCampo2>80::Pasajeros::DER</queryEstadisticaHotRangoNacCampo2>
+		
+		<queryEstadisticaHotRangoAgeCampo1>120::Agencia::IZQ</queryEstadisticaHotRangoAgeCampo1>
+		<queryEstadisticaHotRangoAgeCampo2>80::Pasajeros::DER</queryEstadisticaHotRangoAgeCampo2>
+
+		<queryEstadisticaHotMensualNacCampo1>120::Nacionalidad::IZQ</queryEstadisticaHotMensualNacCampo1>
+		<queryEstadisticaHotMensualNacCampo2>60::Ene::DER</queryEstadisticaHotMensualNacCampo2>
+		<queryEstadisticaHotMensualNacCampo3>60::Feb::DER</queryEstadisticaHotMensualNacCampo3>
+		<queryEstadisticaHotMensualNacCampo4>60::Mar::DER</queryEstadisticaHotMensualNacCampo4>
+		<queryEstadisticaHotMensualNacCampo5>60::Abr::DER</queryEstadisticaHotMensualNacCampo5>
+		<queryEstadisticaHotMensualNacCampo6>60::May::DER</queryEstadisticaHotMensualNacCampo6>
+		<queryEstadisticaHotMensualNacCampo7>60::Jun::DER</queryEstadisticaHotMensualNacCampo7>
+		<queryEstadisticaHotMensualNacCampo8>60::Jul::DER</queryEstadisticaHotMensualNacCampo8>
+		<queryEstadisticaHotMensualNacCampo9>60::Ago::DER</queryEstadisticaHotMensualNacCampo9>
+		<queryEstadisticaHotMensualNacCampo10>60::Sep::DER</queryEstadisticaHotMensualNacCampo10>
+		<queryEstadisticaHotMensualNacCampo11>60::Oct::DER</queryEstadisticaHotMensualNacCampo11>
+		<queryEstadisticaHotMensualNacCampo12>60::Nov::DER</queryEstadisticaHotMensualNacCampo12>
+		<queryEstadisticaHotMensualNacCampo13>60::Dic::DER</queryEstadisticaHotMensualNacCampo13>
+
+		<queryEstadisticaHotMensualAgeCampo1>120::Agencia::IZQ</queryEstadisticaHotMensualAgeCampo1>
+		<queryEstadisticaHotMensualAgeCampo2>60::Ene::DER</queryEstadisticaHotMensualAgeCampo2>
+		<queryEstadisticaHotMensualAgeCampo3>60::Feb::DER</queryEstadisticaHotMensualAgeCampo3>
+		<queryEstadisticaHotMensualAgeCampo4>60::Mar::DER</queryEstadisticaHotMensualAgeCampo4>
+		<queryEstadisticaHotMensualAgeCampo5>60::Abr::DER</queryEstadisticaHotMensualAgeCampo5>
+		<queryEstadisticaHotMensualAgeCampo6>60::May::DER</queryEstadisticaHotMensualAgeCampo6>
+		<queryEstadisticaHotMensualAgeCampo7>60::Jun::DER</queryEstadisticaHotMensualAgeCampo7>
+		<queryEstadisticaHotMensualAgeCampo8>60::Jul::DER</queryEstadisticaHotMensualAgeCampo8>
+		<queryEstadisticaHotMensualAgeCampo9>60::Ago::DER</queryEstadisticaHotMensualAgeCampo9>
+		<queryEstadisticaHotMensualAgeCampo10>60::Sep::DER</queryEstadisticaHotMensualAgeCampo10>
+		<queryEstadisticaHotMensualAgeCampo11>60::Oct::DER</queryEstadisticaHotMensualAgeCampo11>
+		<queryEstadisticaHotMensualAgeCampo12>60::Nov::DER</queryEstadisticaHotMensualAgeCampo12>
+		<queryEstadisticaHotMensualAgeCampo13>60::Dic::DER</queryEstadisticaHotMensualAgeCampo13>
+
+		<queryEstadisticaResRangoCampo1>80::Pasajeros::DER</queryEstadisticaResRangoCampo1>
+
+		<queryEstadisticaResMensualCampo1>50::Mes::IZQ</queryEstadisticaResMensualCampo1>
+		<queryEstadisticaResMensualCampo2>80::Pasajeros::DER</queryEstadisticaResMensualCampo2>
+		
+		<queryEstadisticaPaxAgeMensualCampo1>150::Agencia::IZQ</queryEstadisticaPaxAgeMensualCampo1>
+		<queryEstadisticaPaxAgeMensualCampo2>60::Ene::DER::SUM</queryEstadisticaPaxAgeMensualCampo2>
+		<queryEstadisticaPaxAgeMensualCampo3>60::Feb::DER::SUM</queryEstadisticaPaxAgeMensualCampo3>
+		<queryEstadisticaPaxAgeMensualCampo4>60::Mar::DER::SUM</queryEstadisticaPaxAgeMensualCampo4>
+		<queryEstadisticaPaxAgeMensualCampo5>60::Abr::DER::SUM</queryEstadisticaPaxAgeMensualCampo5>
+		<queryEstadisticaPaxAgeMensualCampo6>60::May::DER::SUM</queryEstadisticaPaxAgeMensualCampo6>
+		<queryEstadisticaPaxAgeMensualCampo7>60::Jun::DER::SUM</queryEstadisticaPaxAgeMensualCampo7>
+		<queryEstadisticaPaxAgeMensualCampo8>60::Jul::DER::SUM</queryEstadisticaPaxAgeMensualCampo8>
+		<queryEstadisticaPaxAgeMensualCampo9>60::Ago::DER::SUM</queryEstadisticaPaxAgeMensualCampo9>
+		<queryEstadisticaPaxAgeMensualCampo10>60::Sep::DER::SUM</queryEstadisticaPaxAgeMensualCampo10>
+		<queryEstadisticaPaxAgeMensualCampo11>60::Oct::DER::SUM</queryEstadisticaPaxAgeMensualCampo11>
+		<queryEstadisticaPaxAgeMensualCampo12>60::Nov::DER::SUM</queryEstadisticaPaxAgeMensualCampo12>
+		<queryEstadisticaPaxAgeMensualCampo13>60::Dic::DER::SUM</queryEstadisticaPaxAgeMensualCampo13>
+		
+		<queryEstadisticaPaxAgeRangoCampo1>300::Agencia::IZQ</queryEstadisticaPaxAgeRangoCampo1>
+		<queryEstadisticaPaxAgeRangoCampo2>80::Pasajeros::DER::SUM</queryEstadisticaPaxAgeRangoCampo2>
+		
+		<queryProgramacionTourCampo1>150::Cod Tour::IZQ</queryProgramacionTourCampo1>
+		<queryProgramacionTourCampo2>200::Servicio::IZQ</queryProgramacionTourCampo2>
+		<queryProgramacionTourCampo3>100::Fecha Tour::CEN</queryProgramacionTourCampo3>
+		<queryProgramacionTourCampo4>60::Hora::CEN</queryProgramacionTourCampo4>
+		<queryProgramacionTourCampo5>200::Lugar::IZQ</queryProgramacionTourCampo5>
+		<queryProgramacionTourCampo6>160::Gui'a Turi'stico::IZQ</queryProgramacionTourCampo6>
+		<queryProgramacionTourCampo7>60::Cupos Creados::IZQ</queryProgramacionTourCampo7>
+		<queryProgramacionTourCampo8>60::Cupos Vendidos::IZQ</queryProgramacionTourCampo8>
+		<queryProgramacionTourCampo9>70::Cupos Disponibles::IZQ</queryProgramacionTourCampo9>
+	</reportes>
+	<menu>
+		<inicio>Inicio</inicio>
+		<reservas>Reservas</reservas>
+		<transfer>Transfers</transfer>
+		<estadisticas>Estadi'sticas</estadisticas>
+		<reportes>Reportes</reportes>
+		<tablas>Tablas</tablas>
+		<tablaClientes>Agencias</tablaClientes>
+		<tablaServicios>Servicios (Tours)</tablaServicios>
+		<tablaVuelos>Vuelos</tablaVuelos>
+		<tablaHoteles>Hoteles</tablaHoteles>
+		<tablaProveedores>Gui'as Turi'sticos</tablaProveedores>
+		<tablaPaquetes>Paquetes</tablaPaquetes>
+		<tablaUsuarios>Usuarios</tablaUsuarios>
+		<tablaNacionalidades>Nacionalidades</tablaNacionalidades>
+		<tablaConsecutivos>Stock de Transfers</tablaConsecutivos>
+	</menu>	
+	<formHeader>
+		<labelUser>Usuario: </labelUser>
+		<btnLogOut>Cerrar sesio'n</btnLogOut>
+    <labelOfi>Oficina: </labelOfi>
+	</formHeader>
+	<formIniciar>
+		<inicioSesion>Iniciar Sesio'n</inicioSesion>
+		<user>Usuario:</user>
+		<pass>Contrasen'a:</pass>
+		<selOficina>Oficina</selOficina>
+		<btnEntrar>Entrar</btnEntrar>
+	</formIniciar>		
+	<formReservas>
+		<codAge>Co'digo Agencia:</codAge>
+		<codAgeOption>Seleccione Agencia...</codAgeOption>
+		<codHotOption>Hotel...</codHotOption>		
+		<cantRes>Nu'mero de Transfers:</cantRes>
+		<etiqRes>#</etiqRes>
+		<etiqNom>Nombre</etiqNom>
+		<etiqTelPax>Telefono</etiqTelPax>
+		<etiqNac>Nac</etiqNac>
+		<etiqNumpax>No. PAX</etiqNumpax>
+		<etiqVoucher>Voucher Agencia</etiqVoucher>		
+		<etiqAsesorAge>Asesor Agencia</etiqAsesorAge>		
+		<etiqServ>Tours</etiqServ>
+		<txtImgServ>Seleccionar tours</txtImgServ>	
+		<etiqFecLlega>Fecha IN dd/mm/yyyy</etiqFecLlega>
+		<etiqFecSale>Fecha OUT dd/mm/yyyy</etiqFecSale>
+		<etiqHot>Hotel</etiqHot>
+		<etiqPaq>Paquete</etiqPaq>
+		<etiqVloLlega>Vuelo IN</etiqVloLlega>
+		<etiqVloSale>Vuelo OUT</etiqVloSale>
+    <etiqHoraLlega>Hora IN</etiqHoraLlega>
+		<etiqHoraSale>Hora OUT</etiqHoraSale>
+		<etiqObs>Obs</etiqObs>
+		<etiqEli></etiqEli>
+		<txtImgObs>Observaciones</txtImgObs>
+		<txtImgEli>Anular item</txtImgEli>							
+		<txtImgAct>Activar item</txtImgAct>
+		<btnIngresar>Ingresar</btnIngresar>
+		<btnGuardar>Guardar</btnGuardar>
+		<btnConsultar>Consultar</btnConsultar>
+		<btnActualizar>Actualizar</btnActualizar>
+		<btnEliminar>Anular</btnEliminar>
+		<btnCancelar>Limpiar Ventana</btnCancelar>
+		<etiqReserva>Reserva</etiqReserva>
+		<etiqCliente>Agencia</etiqCliente>
+	</formReservas>	
+	<formServicios>
+		<textoSelectServicios>Seleccione los servicios para la reserva</textoSelectServicios>
+	</formServicios>
+	<formObservaciones>
+		<textoObservaciones>Observaciones para la reserva</textoObservaciones>
+	</formObservaciones>	
+	<formConsultaReserva>
+		<labelConsultaReserva>Digite Nro de reserva a consultar:</labelConsultaReserva>
+		<labelConsultaReservaNom>Digite Nombre o Documento del pasajero:</labelConsultaReservaNom>
+		<labelResulConsultaReservaNomTrue>Resultados:</labelResulConsultaReservaNomTrue>
+		<labelResulConsultaReservaNomFalse>No se obtuvieron resultados</labelResulConsultaReservaNomFalse>
+	</formConsultaReserva>
+	<formTablas>
+		<btnIngresar>Ingresar</btnIngresar>
+		<btnGuardar>Guardar</btnGuardar>
+		<btnConsultar>Consultar</btnConsultar>
+		<btnActualizar>Actualizar</btnActualizar>
+		<btnRetirar>Retirar</btnRetirar>
+		<btnCancelar>Limpiar Ventana</btnCancelar>
+	</formTablas>
+	<formTablaAgencias>
+		<etiqAgencias>AGENCIAS</etiqAgencias>
+		<codAge>Co'digo:</codAge>
+		<nitAge>NIT:</nitAge>
+		<selTipoAge>Tipo:</selTipoAge>
+		<nomAge>Razo'n Social:</nomAge>
+		<dirAge>Direccio'n:</dirAge>
+		<ciuAge>Ciudad:</ciuAge>
+		<tel1Age>Tele'fono:</tel1Age>
+		<tel2Age>Nombre Corto:</tel2Age>
+		<celAge>Celular:</celAge>
+		<contacAge>Email:</contacAge>	
+	</formTablaAgencias>
+	<formConsultaAgencia>
+		<labelConsultaAgencia>Seleccione el cliente:</labelConsultaAgencia>
+	</formConsultaAgencia>	
+	<formTablaServicios>
+		<etiqServicios>SERVICIOS (TOURS)</etiqServicios>
+		<codSer>Co'digo:</codSer>
+		<nomSer>Nombre:</nomSer>
+		<selDefecto>Por defecto en las reservas:</selDefecto>		
+		<ordenSale>Orden visualizacio'n:</ordenSale>
+		<btnProveedores>Gui'as Turi'sticos</btnProveedores>
+	</formTablaServicios>
+	<formConsultaServicio>
+		<labelConsultaServicio>Seleccione el servicio:</labelConsultaServicio>
+	</formConsultaServicio>
+	<formTablaVuelos>
+		<etiqVuelos>VUELOS</etiqVuelos>
+		<selTipoVlo>Tipo:</selTipoVlo>
+		<nroVlo>No Vuelo:</nroVlo>		
+	</formTablaVuelos>
+	<formConsultaVuelo>
+		<labelConsultaVuelo>Digite al menos un dato:</labelConsultaVuelo>
+		<etiqTipoVlo>Tipo</etiqTipoVlo>
+		<etiqNroVlo>No Vuelo</etiqNroVlo>
+		<etiqHoraVlo>Hora</etiqHoraVlo>
+		<etiqEli></etiqEli>
+		<labelResulConsultaVueloTrue>Resultados:</labelResulConsultaVueloTrue>
+		<labelResulConsultaVueloFalse>No se obtuvo resultados.</labelResulConsultaVueloFalse>
+	</formConsultaVuelo>
+	<formTablaConsecutivos>
+		<etiqConsecutivos>STOCK DE TRANFERS</etiqConsecutivos>
+		<selTipoConsec>Tipo:</selTipoConsec>
+		<selEstadoConsec>Estado:</selEstadoConsec>		
+		<desde>Desde:</desde>
+		<hasta>Hasta:</hasta>
+	</formTablaConsecutivos>
+	<formConsultaConsecutivo>
+		<labelConsultaConsecutivo>Digite todos los campos:</labelConsultaConsecutivo>
+		<etiqTipoConsec>Tipo</etiqTipoConsec>
+		<etiqNumConsec>Num</etiqNumConsec>
+		<etiqEstado>Estado</etiqEstado>		
+		<etiqEli></etiqEli>
+		<labelResulConsultaConsecutivoTrue>Resultados:</labelResulConsultaConsecutivoTrue>
+		<labelResulConsultaConsecutivoFalse>No se obtuvo resultados.</labelResulConsultaConsecutivoFalse>
+		<btnBorrarConsecutivos>Eliminar i'tems seleccionados</btnBorrarConsecutivos>		
+	</formConsultaConsecutivo>		
+	<formTablaHoteles>
+		<etiqHoteles>HOTELES</etiqHoteles>
+		<selTipoUbi>Tipo:</selTipoUbi>
+		<codHot>Co'digo:</codHot>
+		<nomHot>Nombre:</nomHot>
+		<selOficina>Oficina:</selOficina>
+		<dirHot>Direccio'n:</dirHot>
+		<tel1Hot>Tele'fono 1:</tel1Hot>
+		<tel2Hot>Tele'fono 2:</tel2Hot>
+		<celHot>Celular:</celHot>
+		<conHot>Contacto:</conHot>
+	</formTablaHoteles>
+  <formTablaPaquetes>
+		<etiqPaquetes>PAQUETES</etiqPaquetes>
+		<codPaq>Co'digo:</codPaq>
+		<nomPaq>Nombre:</nomPaq>
+		<selOficina>Oficina:</selOficina>
+		<desPaq>Descripcio'n:</desPaq>
+	</formTablaPaquetes>
+	<formConsultaHotel>
+		<labelConsultaHotel>Digite co'digo del hotel:</labelConsultaHotel>
+	</formConsultaHotel>
+	<formTablaUsuarios>
+		<etiqUsuarios>USUARIOS</etiqUsuarios>
+		<codUsr>Usuario:</codUsr>
+		<clave>Contrasen'a:</clave>
+		<nombre>Nombre:</nombre>
+		<apellidos>Tele'fono:</apellidos>
+		<codRol>Rol:</codRol>
+	</formTablaUsuarios>
+	<formConsultaUsuario>
+		<labelConsultaUsuario>Digite usuario:</labelConsultaUsuario>
+	</formConsultaUsuario>
+	<formTablaNacionalidades>
+		<etiqNacionalidades>NACIONALIDADES</etiqNacionalidades>
+		<codNac>Co'digo:</codNac>
+		<nacional>Nacionalidad:</nacional>
+	</formTablaNacionalidades>
+	<formConsultaNacionalidad>
+		<labelConsultaNacionalidad>Digite co'digo de nacionalidad:</labelConsultaNacionalidad>
+	</formConsultaNacionalidad>
+	<formTablaProveedores>
+		<etiqProveedores>GUI'AS TURI'STICOS</etiqProveedores>
+		<codPro>Co'digo:</codPro>
+		<nomPro>Nombre:</nomPro>
+		<dirPro>Direccio'n:</dirPro>
+		<tel1Pro>Tele'fono 1:</tel1Pro>
+		<tel2Pro>Documento:</tel2Pro>
+		<celPro>Celular:</celPro>
+		<conPro>Contacto:</conPro>
+	</formTablaProveedores>
+	<formConsultaProveedor>
+		<labelConsultaProveedor>Digite co'digo de la gui'a:</labelConsultaProveedor>
+	</formConsultaProveedor>
+  <formConsultaPaquete>
+		<labelConsultaPaquete>Digite co'digo del paquete:</labelConsultaPaquete>
+	</formConsultaPaquete>
+	<formProveedores>
+		<textoSelectProveedoresSer>Gui'as Turi'sticos del servicio</textoSelectProveedoresSer>
+		<textoCosSer>Costo:</textoCosSer>
+	</formProveedores>
+	<formTablaTransfer>
+		<etiqTrans>TRANSFERS</etiqTrans>
+		<labelOrdenTransIn>Orden de Transfer-IN #</labelOrdenTransIn>
+		<labelOrdenTransOut>Orden de Transfer-OUT #</labelOrdenTransOut>
+		<labelOrdenTransOtr>Orden de Traslado #</labelOrdenTransOtr>
+		<selTipoTrans>Tipo:</selTipoTrans>
+		<selCateTrans>Categori'a:</selCateTrans>
+		<horaVlo>Hora de Vuelo:</horaVlo>
+		<cantVou>Vouchers:</cantVou>
+		<selNroVlo>Vuelo:</selNroVlo>
+		<cantPax>Cant Pax:</cantPax>
+		<nomPax>Nombre Pax:</nomPax>
+		<fecSerTrans>Fecha:</fecSerTrans>
+		<selOrigenTrans>Origen:</selOrigenTrans>
+		<selDestinoTrans1>Destino 1:</selDestinoTrans1>
+		<selDestinoTrans2>Destino 2:</selDestinoTrans2>
+		<valTrans>Valor:</valTrans>
+		<placaTax>Placa Taxi:</placaTax>
+		<conducTax>Conductor:</conducTax>
+		<docuTax>C.C Conductor:</docuTax>
+		<obsTrans>Observaciones:</obsTrans>
+		<btnIngresarTransfer>Ingresar</btnIngresarTransfer>
+		<btnGuardarTransfer>Guardar</btnGuardarTransfer>
+		<btnConsultarTransfer>Consultar</btnConsultarTransfer>
+		<btnActualizarTransfer>Actualizar</btnActualizarTransfer>
+		<btnRetirarTransfer>Anular</btnRetirarTransfer>
+		<btnCancelarTransfer>Limpiar Ventana</btnCancelarTransfer>
+		<etiqTipoTrans>Tipo</etiqTipoTrans>
+		<etiqNumTrans>Nu'mero</etiqNumTrans>
+		<etiqFechaTrans>Fecha</etiqFechaTrans>
+		<etiqVuelo>Vuelo</etiqVuelo>
+		<etiqNomPax>Nombre Pasajero</etiqNomPax>
+		<etiqConduc>Conductor</etiqConduc>
+		<etiqEli></etiqEli>
+	</formTablaTransfer>
+	<formConsultaTransfer>
+		<labelConsultaTransfer>Digite tipo y co'digo del Transfer</labelConsultaTransfer>		
+		<labelConsultaTransferNom>Digite Nombre del Pasajero: </labelConsultaTransferNom>		
+		<labelResulConsultaTransferNomTrue>Resultados:</labelResulConsultaTransferNomTrue>
+		<labelResulConsultaTransferNomFalse>No se obtuvieron resultados</labelResulConsultaTransferNomFalse>
+	</formConsultaTransfer>
+	<formRegistrarTour>
+		<etiqRegTour>Programacio'n de Tours</etiqRegTour>
+		<selTour>Nombre del Tour: </selTour>
+		<selOficina>Oficina: </selOficina>
+		<lugar>Lugar de Salida: </lugar>
+		<fechaTour>Fecha: </fechaTour>
+		<fechaTourIni>Fecha Inicio: </fechaTourIni>
+		<fechaTourFin>Fecha Fin: </fechaTourFin>
+		<horaTour>Hora del Servicio: </horaTour>
+		<selProv>Gui'a Turi'stico: </selProv>
+		<cupos>Cupos: </cupos>
+		<cuposDisp>Cupos Disponibles: </cuposDisp>
+		<btnGuardar>Guardar</btnGuardar>
+		<btnLimpiar>Limpiar Ventana</btnLimpiar>
+	</formRegistrarTour>
+	<formAnularTour>
+		<etiqAnuTour>Cancelar asistencia a tour</etiqAnuTour>
+		<etiqAnuProgTour>Cancelar programacio'n de tour</etiqAnuProgTour>
+		<selTour>Nombre del Tour: </selTour>
+		<selFechaTour>Fecha del Tour: </selFechaTour>
+		<selNomPax>Pasajero: </selNomPax>
+		<numPax># de Pasajeros: </numPax>
+		<cuposCreados>Cupos Creados: </cuposCreados>
+		<cuposConfirmados>Cupos Confirmados: </cuposConfirmados>
+		<btnAnular>Anular</btnAnular>
+    <selOficina>Oficina: </selOficina>
+		<btnLimpiar>Limpiar Ventana</btnLimpiar>
+	</formAnularTour>
+	<formRegistrarVentaTour>
+		<etiqRegTour>Registrar Venta Tour</etiqRegTour>
+		<etiqConfTour>Confirmar Reserva Tour</etiqConfTour>		
+		<selTour>Nombre del Tour: </selTour>
+		<fechaTour>Fecha del Tour: </fechaTour>
+		<lugar>Lugar de Salida: </lugar>
+		<btnGuardar>Guardar</btnGuardar>
+		<btnImprimir>Imprimir</btnImprimir>
+		<btnLimpiar>Limpiar Ventana</btnLimpiar>
+		
+		<numPax># Adultos: </numPax>
+		<precXPax>Precio X Adulto: </precXPax>
+		<total>= </total>
+
+		<numPax2># Nin'os: </numPax2>
+		<precXPax2>Precio X Nin'o: </precXPax2>
+		<total2>= </total2>
+
+		<totalTotal>Total Venta: </totalTotal>
+		<tot>= </tot>
+
+		<docuPax>Documento Pasajero: </docuPax>
+		<nomPax>Nombre: </nomPax>
+		<numRes>No. Reserva: </numRes>
+		<docu>Documento: </docu>
+		<selNombPax>Pasajero: </selNombPax>
+		<selHotelPax>Hotel: </selHotelPax>
+		<cuarto>Habitacio'n: </cuarto>
+		<selNacPax>Nacionalidad</selNacPax>
+		<obsPax>Observaciones: </obsPax>
+	</formRegistrarVentaTour>
+	<formTablaDatosReporte>
+		<btnConReporte>Consultar</btnConReporte>
+		<fecha>Fecha: </fecha>
+		<fechaRegIni>Fecha Registro Desde: </fechaRegIni>
+		<fechaIni>Desde: </fechaIni>
+		<fechaFin>Hasta: </fechaFin>
+		<ano>An'o: </ano>
+		<mes>Mes: </mes>
+		<usu>Usuario: </usu>
+		<ope>Operacio'n: </ope>
+		<tabla>Tabla: </tabla>
+		<num>#: </num>
+		<nroVlo>Vuelo: </nroVlo>
+		<selHotel>Hotel: </selHotel>
+		<selCliente>Agencia: </selCliente>
+		<selNac>Nacionalidad: </selNac>
+		<selServicio>Servicio: </selServicio>
+		<selHot>Hotel: </selHot>
+		<selPaquete>Paquete: </selPaquete>
+		<selPro>Gui'a Turi'stico: </selPro>
+		<selOficina>Oficina: </selOficina>
+		<periodo>Periodo: </periodo>
+		<ano>An'o: </ano>
+		<clasificar>Por: </clasificar>
+		<nitCli>NIT: </nitCli>
+		<nomCli>Nombre: </nomCli>
+		<nomUbi>Nombre: </nomUbi>
+		<numres>Nro de Reserva: </numres>
+		<numVou>Nro de Voucher Reserva: </numVou>
+		<horaTour>Hora del Tour: </horaTour>
+		<horaServicio>Hora del Servicio: </horaServicio>
+	</formTablaDatosReporte>	
+	<formCambioPassword>
+		<etiqCambioPass>Cambiar Contrase'na de Usuario</etiqCambioPass>
+		<passActual>Contrasen'a Actual: </passActual>
+		<passNuevo1>Nueva Contrasen'a: </passNuevo1>
+		<passNuevo2>Repita La Nueva Contrasen'a: </passNuevo2>
+		<usuario>Usuario: </usuario>
+		<btnGuardar>Guardar</btnGuardar>
+		<btnLimpiar>Limpiar Ventana</btnLimpiar>
+	</formCambioPassword>
+</etiquetas>
