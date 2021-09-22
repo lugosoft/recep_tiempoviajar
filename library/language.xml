@@ -255,6 +255,25 @@
 		<queryReporteConsecReservaCampo16>50::Trf IN::CEN</queryReporteConsecReservaCampo16>
 		<queryReporteConsecReservaCampo17>50::Trf OUT::CEN</queryReporteConsecReservaCampo17>
 		<queryReporteConsecReservaCampo18>50::Otr Serv::CEN</queryReporteConsecReservaCampo18>
+
+    <queryReporteConsecReserva2Campo1>40::Ofi::CEN</queryReporteConsecReserva2Campo1>
+		<queryReporteConsecReserva2Campo2>50::No Reserva::IZQ</queryReporteConsecReserva2Campo2>
+		<queryReporteConsecReserva2Campo3>40::Item::IZQ</queryReporteConsecReserva2Campo3>
+		<queryReporteConsecReserva2Campo4>60::Anulada::CEN</queryReporteConsecReserva2Campo4>
+		<queryReporteConsecReserva2Campo5>80::Fecha Registro::CEN</queryReporteConsecReserva2Campo5>
+		<queryReporteConsecReserva2Campo6>170::Agencia::IZQ</queryReporteConsecReserva2Campo6>
+		<queryReporteConsecReserva2Campo7>170::Nombre Pax::IZQ</queryReporteConsecReserva2Campo7>
+		<queryReporteConsecReserva2Campo8>30::# Pax::IZQ</queryReporteConsecReserva2Campo8>
+		<queryReporteConsecReserva2Campo9>80::Tele'fono Pax::IZQ</queryReporteConsecReserva2Campo9>
+		<queryReporteConsecReserva2Campo10>100::Paquete::IZQ</queryReporteConsecReserva2Campo10>
+		<queryReporteConsecReserva2Campo11>100::Asesor Agencia::IZQ</queryReporteConsecReserva2Campo11>
+		<queryReporteConsecReserva2Campo12>100::Voucher Agencia::IZQ</queryReporteConsecReserva2Campo12>
+    <queryReporteConsecReserva2Campo13>80::Fecha IN::CEN</queryReporteConsecReserva2Campo13>
+		<queryReporteConsecReserva2Campo14>80::Fecha OUT::CEN</queryReporteConsecReserva2Campo14>
+		<queryReporteConsecReserva2Campo15>100::Hotel::IZQ</queryReporteConsecReserva2Campo15>
+		<queryReporteConsecReserva2Campo16>50::Trf IN::CEN</queryReporteConsecReserva2Campo16>
+		<queryReporteConsecReserva2Campo17>50::Trf OUT::CEN</queryReporteConsecReserva2Campo17>
+		<queryReporteConsecReserva2Campo18>50::Otr Serv::CEN</queryReporteConsecReserva2Campo18>
     
     <queryReporteAgenciasCampo1>60::Co'digo::CEN</queryReporteAgenciasCampo1>
     <queryReporteAgenciasCampo2>100::NIT::IZQ</queryReporteAgenciasCampo2>
@@ -332,16 +351,17 @@
     
 		<queryReporteLlegadasCampo1>50::Reserva::CEN</queryReporteLlegadasCampo1>
 		<queryReporteLlegadasCampo2>20::It::CEN</queryReporteLlegadasCampo2>
-		<queryReporteLlegadasCampo3>60::Vuelo IN::CEN</queryReporteLlegadasCampo3>
-		<queryReporteLlegadasCampo4>50::Hora Vuelo::CEN</queryReporteLlegadasCampo4>
-    <queryReporteLlegadasCampo5>80::Agencia::IZQ</queryReporteLlegadasCampo5>
-		<queryReporteLlegadasCampo6>60::Hora Servicio::CEN</queryReporteLlegadasCampo6>
-		<queryReporteLlegadasCampo7>160::Nombre Pasajero::IZQ</queryReporteLlegadasCampo7>
-		<queryReporteLlegadasCampo8>30::# Pax::CEN</queryReporteLlegadasCampo8>
-		<queryReporteLlegadasCampo9>60::Tel Pax::IZQ</queryReporteLlegadasCampo9>
-    <queryReporteLlegadasCampo10>80::Paquete::IZQ</queryReporteLlegadasCampo10>
-		<queryReporteLlegadasCampo11>80::Hotel::IZQ</queryReporteLlegadasCampo11>
-		<queryReporteLlegadasCampo12>150::Firma Pax::IZQ</queryReporteLlegadasCampo12>
+		<queryReporteLlegadasCampo3>80::Fecha IN::CEN</queryReporteLlegadasCampo3>
+		<queryReporteLlegadasCampo4>60::Vuelo IN::CEN</queryReporteLlegadasCampo4>
+		<queryReporteLlegadasCampo5>50::Hora Vuelo::CEN</queryReporteLlegadasCampo5>
+    <queryReporteLlegadasCampo6>120::Agencia::IZQ</queryReporteLlegadasCampo6>
+		<queryReporteLlegadasCampo7>60::Hora Servicio::CEN</queryReporteLlegadasCampo7>
+		<queryReporteLlegadasCampo8>160::Nombre Pasajero::IZQ</queryReporteLlegadasCampo8>
+		<queryReporteLlegadasCampo9>30::# Pax::CEN</queryReporteLlegadasCampo9>
+		<queryReporteLlegadasCampo10>60::Tel Pax::IZQ</queryReporteLlegadasCampo10>
+    <queryReporteLlegadasCampo11>80::Paquete::IZQ</queryReporteLlegadasCampo11>
+		<queryReporteLlegadasCampo12>120::Hotel::IZQ</queryReporteLlegadasCampo12>
+		<queryReporteLlegadasCampo13>100::Firma Pax::IZQ</queryReporteLlegadasCampo13>
 
 		<queryReporteSalidasCampo1>60::Vuelo OUT::CEN</queryReporteSalidasCampo1>
 		<queryReporteSalidasCampo2>50::Hora Vuelo::CEN</queryReporteSalidasCampo2>
@@ -453,7 +473,7 @@
     <queryConsecutivoVentaTourCampo1>80::Voucher::CEN</queryConsecutivoVentaTourCampo1>
     <queryConsecutivoVentaTourCampo2>60::Anulado::CEN</queryConsecutivoVentaTourCampo2>
 		<queryConsecutivoVentaTourCampo3>50::Reserva::CEN</queryConsecutivoVentaTourCampo3>
-		<queryConsecutivoVentaTourCampo4>60::Tipo::IZQ</queryConsecutivoVentaTourCampo4>
+		<queryConsecutivoVentaTourCampo4>80::Fecha IN::CEN</queryConsecutivoVentaTourCampo4>
 		<queryConsecutivoVentaTourCampo5>170::Nombre Pasajero::IZQ</queryConsecutivoVentaTourCampo5>
 		<queryConsecutivoVentaTourCampo6>100::Paquete::IZQ</queryConsecutivoVentaTourCampo6>
 		<queryConsecutivoVentaTourCampo7>130::Servicio::IZQ</queryConsecutivoVentaTourCampo7>
@@ -467,17 +487,43 @@
 		<queryConsecutivoVentaTourCampo15>200::Lugar de salida::IZQ</queryConsecutivoVentaTourCampo15>
 		<queryConsecutivoVentaTourCampo16>120::Gui'a Turi'stico::IZQ</queryConsecutivoVentaTourCampo16>	
 		<queryConsecutivoVentaTourCampo17>250::Agencia::IZQ</queryConsecutivoVentaTourCampo17>		
-		<queryConsecutivoVentaTourCampo18>100::Asesor Agencia::IZQ</queryConsecutivoVentaTourCampo18>		
-		<queryConsecutivoVentaTourCampo19>50::Asesor Venta::IZQ</queryConsecutivoVentaTourCampo19>
-		<queryConsecutivoVentaTourCampo20>80::Fecha Venta::CEN</queryConsecutivoVentaTourCampo20>
-		<queryConsecutivoVentaTourCampo21>200::Obs::IZQ</queryConsecutivoVentaTourCampo21>
-		<queryConsecutivoVentaTourCampo22>80::Fecha Anulacion::CEN</queryConsecutivoVentaTourCampo22>
-		<queryConsecutivoVentaTourCampo23>50::Asesor Anula::IZQ</queryConsecutivoVentaTourCampo23>
+		<queryConsecutivoVentaTourCampo18>100::Asesor Agencia::IZQ</queryConsecutivoVentaTourCampo18>	
+    <queryConsecutivoVentaTourCampo19>90::Voucher Agencia::IZQ</queryConsecutivoVentaTourCampo19>		
+		<queryConsecutivoVentaTourCampo20>50::Asesor Venta::IZQ</queryConsecutivoVentaTourCampo20>
+		<queryConsecutivoVentaTourCampo21>80::Fecha Venta::CEN</queryConsecutivoVentaTourCampo21>
+		<queryConsecutivoVentaTourCampo22>200::Obs::IZQ</queryConsecutivoVentaTourCampo22>
+		<queryConsecutivoVentaTourCampo23>80::Fecha Anulacion::CEN</queryConsecutivoVentaTourCampo23>
+		<queryConsecutivoVentaTourCampo24>50::Asesor Anula::IZQ</queryConsecutivoVentaTourCampo24>
+
+    <queryConsecutivoVentaTour2Campo1>80::Voucher::CEN</queryConsecutivoVentaTour2Campo1>
+    <queryConsecutivoVentaTour2Campo2>60::Anulado::CEN</queryConsecutivoVentaTour2Campo2>
+		<queryConsecutivoVentaTour2Campo3>50::Reserva::CEN</queryConsecutivoVentaTour2Campo3>
+		<queryConsecutivoVentaTour2Campo4>80::Fecha IN::CEN</queryConsecutivoVentaTour2Campo4>
+		<queryConsecutivoVentaTour2Campo5>170::Nombre Pasajero::IZQ</queryConsecutivoVentaTour2Campo5>
+		<queryConsecutivoVentaTour2Campo6>100::Paquete::IZQ</queryConsecutivoVentaTour2Campo6>
+		<queryConsecutivoVentaTour2Campo7>130::Servicio::IZQ</queryConsecutivoVentaTour2Campo7>
+		<queryConsecutivoVentaTour2Campo8>80::Fecha Tour::CEN</queryConsecutivoVentaTour2Campo8>
+		<queryConsecutivoVentaTour2Campo9>40::Hora::CEN</queryConsecutivoVentaTour2Campo9>
+		<queryConsecutivoVentaTour2Campo10>120::Hotel::IZQ</queryConsecutivoVentaTour2Campo10>
+		<queryConsecutivoVentaTour2Campo11>30::Nac::CEN</queryConsecutivoVentaTour2Campo11>
+		<queryConsecutivoVentaTour2Campo12>40::# Pax::CEN</queryConsecutivoVentaTour2Campo12>
+		<queryConsecutivoVentaTour2Campo13>40::Adultos::CEN</queryConsecutivoVentaTour2Campo13>
+		<queryConsecutivoVentaTour2Campo14>40::Nin'os::CEN</queryConsecutivoVentaTour2Campo14>
+		<queryConsecutivoVentaTour2Campo15>200::Lugar de salida::IZQ</queryConsecutivoVentaTour2Campo15>
+		<queryConsecutivoVentaTour2Campo16>120::Gui'a Turi'stico::IZQ</queryConsecutivoVentaTour2Campo16>	
+		<queryConsecutivoVentaTour2Campo17>250::Agencia::IZQ</queryConsecutivoVentaTour2Campo17>		
+		<queryConsecutivoVentaTour2Campo18>100::Asesor Agencia::IZQ</queryConsecutivoVentaTour2Campo18>	
+    <queryConsecutivoVentaTour2Campo19>90::Voucher Agencia::IZQ</queryConsecutivoVentaTour2Campo19>		
+		<queryConsecutivoVentaTour2Campo20>50::Asesor Venta::IZQ</queryConsecutivoVentaTour2Campo20>
+		<queryConsecutivoVentaTour2Campo21>80::Fecha Venta::CEN</queryConsecutivoVentaTour2Campo21>
+		<queryConsecutivoVentaTour2Campo22>200::Obs::IZQ</queryConsecutivoVentaTour2Campo22>
+		<queryConsecutivoVentaTour2Campo23>80::Fecha Anulacion::CEN</queryConsecutivoVentaTour2Campo23>
+		<queryConsecutivoVentaTour2Campo24>50::Asesor Anula::IZQ</queryConsecutivoVentaTour2Campo24>
     
     <queryConsecutivoVentaTourAgeCampo1>80::Voucher::CEN</queryConsecutivoVentaTourAgeCampo1>
     <queryConsecutivoVentaTourAgeCampo2>60::Anulado::CEN</queryConsecutivoVentaTourAgeCampo2>
 		<queryConsecutivoVentaTourAgeCampo3>50::Reserva::CEN</queryConsecutivoVentaTourAgeCampo3>
-		<queryConsecutivoVentaTourAgeCampo4>60::Tipo::IZQ</queryConsecutivoVentaTourAgeCampo4>
+		<queryConsecutivoVentaTourAgeCampo4>80::Fecha IN::CEN</queryConsecutivoVentaTourAgeCampo4>
 		<queryConsecutivoVentaTourAgeCampo5>170::Nombre Pasajero::IZQ</queryConsecutivoVentaTourAgeCampo5>
 		<queryConsecutivoVentaTourAgeCampo6>100::Paquete::IZQ</queryConsecutivoVentaTourAgeCampo6>
 		<queryConsecutivoVentaTourAgeCampo7>130::Servicio::IZQ</queryConsecutivoVentaTourAgeCampo7>
@@ -491,12 +537,38 @@
 		<queryConsecutivoVentaTourAgeCampo15>200::Lugar de salida::IZQ</queryConsecutivoVentaTourAgeCampo15>
 		<queryConsecutivoVentaTourAgeCampo16>120::Gui'a Turi'stico::IZQ</queryConsecutivoVentaTourAgeCampo16>	
 		<queryConsecutivoVentaTourAgeCampo17>250::Agencia::IZQ</queryConsecutivoVentaTourAgeCampo17>		
-		<queryConsecutivoVentaTourAgeCampo18>100:: Asesor Agencia::IZQ</queryConsecutivoVentaTourAgeCampo18>		
-		<queryConsecutivoVentaTourAgeCampo19>50::Asesor Venta::IZQ</queryConsecutivoVentaTourAgeCampo19>
-		<queryConsecutivoVentaTourAgeCampo20>80::Fecha Venta::CEN</queryConsecutivoVentaTourAgeCampo20>
-		<queryConsecutivoVentaTourAgeCampo21>200::Obs::IZQ</queryConsecutivoVentaTourAgeCampo21>
-		<queryConsecutivoVentaTourAgeCampo22>80::Fecha Anulacion::CEN</queryConsecutivoVentaTourAgeCampo22>
-		<queryConsecutivoVentaTourAgeCampo23>50::Asesor Anula::IZQ</queryConsecutivoVentaTourAgeCampo23>
+		<queryConsecutivoVentaTourAgeCampo18>100::Asesor Agencia::IZQ</queryConsecutivoVentaTourAgeCampo18>		
+		<queryConsecutivoVentaTourAgeCampo19>90::Voucher Agencia::IZQ</queryConsecutivoVentaTourAgeCampo19>		
+		<queryConsecutivoVentaTourAgeCampo20>50::Asesor Venta::IZQ</queryConsecutivoVentaTourAgeCampo20>
+		<queryConsecutivoVentaTourAgeCampo21>80::Fecha Venta::CEN</queryConsecutivoVentaTourAgeCampo21>
+		<queryConsecutivoVentaTourAgeCampo22>200::Obs::IZQ</queryConsecutivoVentaTourAgeCampo22>
+		<queryConsecutivoVentaTourAgeCampo23>80::Fecha Anulacion::CEN</queryConsecutivoVentaTourAgeCampo23>
+		<queryConsecutivoVentaTourAgeCampo24>50::Asesor Anula::IZQ</queryConsecutivoVentaTourAgeCampo24>
+
+    <queryConsecutivoVentaTourAge2Campo1>80::Voucher::CEN</queryConsecutivoVentaTourAge2Campo1>
+    <queryConsecutivoVentaTourAge2Campo2>60::Anulado::CEN</queryConsecutivoVentaTourAge2Campo2>
+		<queryConsecutivoVentaTourAge2Campo3>50::Reserva::CEN</queryConsecutivoVentaTourAge2Campo3>
+		<queryConsecutivoVentaTourAge2Campo4>80::Fecha IN::CEN</queryConsecutivoVentaTourAge2Campo4>
+		<queryConsecutivoVentaTourAge2Campo5>170::Nombre Pasajero::IZQ</queryConsecutivoVentaTourAge2Campo5>
+		<queryConsecutivoVentaTourAge2Campo6>100::Paquete::IZQ</queryConsecutivoVentaTourAge2Campo6>
+		<queryConsecutivoVentaTourAge2Campo7>130::Servicio::IZQ</queryConsecutivoVentaTourAge2Campo7>
+		<queryConsecutivoVentaTourAge2Campo8>80::Fecha Tour::CEN</queryConsecutivoVentaTourAge2Campo8>
+		<queryConsecutivoVentaTourAge2Campo9>40::Hora::CEN</queryConsecutivoVentaTourAge2Campo9>
+		<queryConsecutivoVentaTourAge2Campo10>120::Hotel::IZQ</queryConsecutivoVentaTourAge2Campo10>
+		<queryConsecutivoVentaTourAge2Campo11>30::Nac::CEN</queryConsecutivoVentaTourAge2Campo11>
+		<queryConsecutivoVentaTourAge2Campo12>40::# Pax::CEN</queryConsecutivoVentaTourAge2Campo12>
+		<queryConsecutivoVentaTourAge2Campo13>40::Adultos::CEN</queryConsecutivoVentaTourAge2Campo13>
+		<queryConsecutivoVentaTourAge2Campo14>40::Nin'os::CEN</queryConsecutivoVentaTourAge2Campo14>
+		<queryConsecutivoVentaTourAge2Campo15>200::Lugar de salida::IZQ</queryConsecutivoVentaTourAge2Campo15>
+		<queryConsecutivoVentaTourAge2Campo16>120::Gui'a Turi'stico::IZQ</queryConsecutivoVentaTourAge2Campo16>	
+		<queryConsecutivoVentaTourAge2Campo17>250::Agencia::IZQ</queryConsecutivoVentaTourAge2Campo17>		
+		<queryConsecutivoVentaTourAge2Campo18>100::Asesor Agencia::IZQ</queryConsecutivoVentaTourAge2Campo18>		
+		<queryConsecutivoVentaTourAge2Campo19>90::Voucher Agencia::IZQ</queryConsecutivoVentaTourAge2Campo19>		
+		<queryConsecutivoVentaTourAge2Campo20>50::Asesor Venta::IZQ</queryConsecutivoVentaTourAge2Campo20>
+		<queryConsecutivoVentaTourAge2Campo21>80::Fecha Venta::CEN</queryConsecutivoVentaTourAge2Campo21>
+		<queryConsecutivoVentaTourAge2Campo22>200::Obs::IZQ</queryConsecutivoVentaTourAge2Campo22>
+		<queryConsecutivoVentaTourAge2Campo23>80::Fecha Anulacion::CEN</queryConsecutivoVentaTourAge2Campo23>
+		<queryConsecutivoVentaTourAge2Campo24>50::Asesor Anula::IZQ</queryConsecutivoVentaTourAge2Campo24>
     
 		<queryConsolidadoTours1Campo1>80::Voucher::IZQ</queryConsolidadoTours1Campo1>
 		<queryConsolidadoTours1Campo2>80::Documento / Reserva::IZQ</queryConsolidadoTours1Campo2>
@@ -547,10 +619,11 @@
 		<queryReporteVentaTourXResCampo15>150::Gui'a Turi'stico::IZQ</queryReporteVentaTourXResCampo15>
 		<queryReporteVentaTourXResCampo16>150::Agencia::IZQ</queryReporteVentaTourXResCampo16>		
 		<queryReporteVentaTourXResCampo17>100::Asesor Agencia::IZQ</queryReporteVentaTourXResCampo17>		
-		<queryReporteVentaTourXResCampo18>100::Asesor Venta::IZQ</queryReporteVentaTourXResCampo18>
-    <queryReporteVentaTourXResCampo19>80::Tel. Asesor::CEN</queryReporteVentaTourXResCampo19>
-		<queryReporteVentaTourXResCampo20>100::Fecha Venta::CEN</queryReporteVentaTourXResCampo20>
-		<queryReporteVentaTourXResCampo21>200::Obs::IZQ</queryReporteVentaTourXResCampo21>
+		<queryReporteVentaTourXResCampo18>80::Voucher Agencia::IZQ</queryReporteVentaTourXResCampo18>		
+		<queryReporteVentaTourXResCampo19>100::Asesor Venta::IZQ</queryReporteVentaTourXResCampo19>
+    <queryReporteVentaTourXResCampo20>80::Tel. Asesor::CEN</queryReporteVentaTourXResCampo20>
+		<queryReporteVentaTourXResCampo21>100::Fecha Venta::CEN</queryReporteVentaTourXResCampo21>
+		<queryReporteVentaTourXResCampo22>200::Obs::IZQ</queryReporteVentaTourXResCampo22>
 
 		<queryRepContactosCampo1>100::Documento::IZQ</queryRepContactosCampo1>
 		<queryRepContactosCampo2>180::Nombre::IZQ</queryRepContactosCampo2>
@@ -1001,6 +1074,7 @@
 		<btnConReporte>Consultar</btnConReporte>
 		<fecha>Fecha: </fecha>
 		<fechaRegIni>Fecha Registro Desde: </fechaRegIni>
+		<fechaLlegaIni>Fecha Llegada Desde: </fechaLlegaIni> 
 		<fechaIni>Desde: </fechaIni>
 		<fechaFin>Hasta: </fechaFin>
 		<ano>An'o: </ano>

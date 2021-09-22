@@ -40,7 +40,8 @@ $page = @getPage2($_GET['id']);
 		<ul> <!--Ahora un submenu nivel 1 para Blogger con un par de opciones --> 
 			<li><a>Reservas </a>  		
 				<ul><!-- Ponemos un submenu nivel 2 para Blogger Beta -->
-					<li><div onclick="window.location = ('?id=411');"><a>Consecutivos de Reservas</a></div></li> 
+					<li><div onclick="window.location = ('?id=411');"><a>Consecutivos Reservas</a></div></li> 
+					<li><div onclick="window.location = ('?id=461');"><a>Consecutivos Reservas v2</a></div></li> 
 					<li><div onclick="window.location = ('?id=414');"><a>Pasajeros X Reserva</a></div></li>					
 					
           <li><div onclick="window.location = ('?id=412');"><a>Llegadas</a></div></li> 
@@ -64,7 +65,8 @@ $page = @getPage2($_GET['id']);
 			<li><a>Tours </a>  		
 				<ul><!-- Ponemos un submenu nivel 2 para Blogger Beta --> 
 					<li><div onclick="window.location = ('?id=455');"><a>Consecutivo de Vouchers</a></div></li> 
-          			<li><div onclick="window.location = ('?id=451');"><a>Tours Confirmados</a></div></li> 
+					<li><div onclick="window.location = ('?id=462');"><a>Consecutivo de Vouchers v2</a></div></li> 
+          <li><div onclick="window.location = ('?id=451');"><a>Tours Confirmados</a></div></li> 
 					<li><div onclick="window.location = ('?id=454');"><a>Tours Confirmados X Reserva</a></div></li>
 					<li><div onclick="window.location = ('?id=453');"><a>Tours sin Confirmar</a></div></li>
           <li><div onclick="window.location = ('?id=458');"><a>Tours Venta Directa</a></div></li>

@@ -10,14 +10,18 @@
 <script>
 	function reporteLlegadas(){
 		var r = '';
-		var fechaRep = document.formTablaDatosReporte.fechaRep.value;
+		var fecini = document.formTablaDatosReporte.fechaIni.value;
+    var fecfin = document.formTablaDatosReporte.fechaFin.value;
 		var nroVlo = document.formTablaDatosReporte.selNroVlo.value;
 		var selHotel = document.formTablaDatosReporte.selHotel.value;
 		var selCliente = document.formTablaDatosReporte.selCliente.value;
 		var selNac = document.formTablaDatosReporte.selNac.value;
 		var horaTour = document.formTablaDatosReporte.horaTour.value;
+    var selPaquete = document.formTablaDatosReporte.selPaquete.value;
     
-		r = verificarCamposObligatorios(new Array(fechaRep,getValueXML('formTablaDatosReporte','fecha')));
+		r = verificarCamposObligatorios(new Array(fecini,getValueXML('formTablaDatosReporte','fechaIni')),
+                                    new Array(fecfin,getValueXML('formTablaDatosReporte','fechaFin'))
+      );
 			
 		if(r!=''){
 			mostrarMsg('errorCamposObligatorios','\n'+r);
@@ -34,16 +38,20 @@
 			selNac = '%';
 		if(horaTour=='')
 			horaTour = '%';
+    if(selPaquete=='<NULL>')
+			selPaquete = '%';
     
-		fechaRep = getFechaInterfazToYYYY_MM_DD(fechaRep); 
-		fechaRep = replaceAll(fechaRep,'-','');
-
-		xajax_sacarReporteX('queryReporteLlegadas',fechaRep,nroVlo,selHotel,selCliente,selNac, ofiRep, horaTour);
+		fecini = getFechaInterfazToYYYY_MM_DD(fecini); 
+		fecini = replaceAll(fecini,'-','');
+    fecfin = getFechaInterfazToYYYY_MM_DD(fecfin); 
+		fecfin = replaceAll(fecfin,'-','');
+    
+		xajax_sacarReporteX('queryReporteLlegadas',fecini,fecfin, nroVlo,selHotel,selCliente,selNac, ofiRep, horaTour, selPaquete);
 	};
 	
 	function getDatosReporte(){
 		var texto = '';
-		texto = 'Fecha de Llegada: ' + document.formTablaDatosReporte.fechaRep.value;
+		texto = 'Fecha de Llegada: ' + document.formTablaDatosReporte.fechaIni.value+' - '+document.formTablaDatosReporte.fechaFin.value;
 		var vlo;
 		if (document.formTablaDatosReporte.selNroVlo.value == '<NULL>')
 			vlo = 'Todos';
@@ -170,6 +178,7 @@
         ventimp.print( );
         ventimp.close();
     });
+    
 		
 	};
 </script>
@@ -186,9 +195,13 @@
 			<tr>
 				<td>
 				<p class="textoFormReporte"> 
-					<?php printValueXML('formTablaDatosReporte','fecha'); ?> 
-					<input type="text" id="fechaRep" name="fechaRep" value="<?php printVar(getFechaddmmyyyy());?>" class="cajaFechaIni" onKeyUp="pasarFocoOnEnter(event,this.id, document.formTablaDatosReporte.fechaFin.id)" />
-					<img src='images/calendar.gif' class='imgCalendario' id='imgFecIni' name='imgFecIni' style='cursor:pointer;' onclick="scwShow(scwID('fechaRep'),event,'es');">					
+					<?php printValueXML('formTablaDatosReporte','fechaIni'); ?> 
+					<input type="text" id="fechaIni" name="fechaIni" value="<?php printVar(getFechaddmmyyyy());?>" class="cajaFechaIni" onKeyUp="pasarFocoOnEnter(event,this.id, document.formTablaDatosReporte.fechaFin.id)" />
+					<img src='images/calendar.gif' class='imgCalendario' id='imgFecIni' name='imgFecIni' style='cursor:pointer;' onclick="scwShow(scwID('fechaIni'),event,'es');">
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					<?php printValueXML('formTablaDatosReporte','fechaFin'); ?> 
+					<input type="text" id="fechaFin" name="fechaFin" value="<?php printVar(getFechaddmmyyyy());?>" class="cajaFechaFin" onKeyUp="pasarFocoOnEnter(event,this.id, document.formTablaDatosReporte.fechaFin.id)" />
+					<img src='images/calendar.gif' class='imgCalendario' id='imgFecFin' name='imgFecFin' style='cursor:pointer;' onclick="scwShow(scwID('fechaFin'),event,'es');">
 					&nbsp;&nbsp;&nbsp;&nbsp;
 					
 					<?php printValueXML('formTablaDatosReporte','nroVlo'); ?>
@@ -220,6 +233,13 @@
 					
           <?php printValueXML('formTablaDatosReporte','horaServicio'); ?> 
 					<input type="text" id="horaTour" name="horaTour" value="" class="cajaHoraTour" onKeyUp="mascaraHora(this);" />
+          
+          &nbsp;&nbsp;
+          <?php printValueXML('formTablaDatosReporte','selPaquete'); ?>
+					<select name="selPaquete" id="selPaquete" class="selSelOficina">
+						<option value='<NULL>'>----</option>
+						<?php printOpcionesAllCodPaq(); ?>
+					</select>
           
 					&nbsp;&nbsp;&nbsp;&nbsp;
 					<input type="button" onClick="reporteLlegadas();" id="btnConReporte" name="btnConReporte" value="<?php printValueXML('formTablaDatosReporte','btnConReporte'); ?>" class="boton btnConReporte" onmouseover="className='botonHover btnConReporte'" onmouseout="className='boton btnConReporte'" />

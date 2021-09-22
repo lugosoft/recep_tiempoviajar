@@ -89,10 +89,10 @@
 			guia = document.getElementById('val_'+i+'_15').innerHTML;
       agencia = document.getElementById('val_'+i+'_16').innerHTML;
       
-      asesor = document.getElementById('val_'+i+'_18').innerHTML;
-      telAsesor = document.getElementById('val_'+i+'_19').innerHTML;
-      fechaVenta = document.getElementById('val_'+i+'_20').innerHTML;
-			obsPax = document.getElementById('val_'+i+'_21').innerHTML;
+      asesor = document.getElementById('val_'+i+'_19').innerHTML;
+      telAsesor = document.getElementById('val_'+i+'_20').innerHTML;
+      fechaVenta = document.getElementById('val_'+i+'_21').innerHTML;
+			obsPax = document.getElementById('val_'+i+'_22').innerHTML;
 			
       vOfi = numVou.split('-');
       oficina = vOfi[0];

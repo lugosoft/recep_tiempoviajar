@@ -297,6 +297,42 @@ $query["queryReporteConsecReserva"] = "SELECT
                                         res.CODCLI LIKE '#p5' 
                                       ORDER BY numres, resres";
 
+$query["queryReporteConsecReserva2"] = "SELECT 
+                                          res.CODOFI,
+                                          numres,
+                                          resres,
+                                          borrada,
+                                          dbo.getFechaInterfaz(fdigita) AS fdigita, 
+                                          c.nomcli, 
+                                          nompax,
+                                          numpax, 
+                                          telpax,
+                                          paq.nompaq,
+                                          res.asesorage,
+                                          res.voucher,
+                                          dbo.getFechaInterfaz(fllega) AS fllega, 
+                                          dbo.getFechaInterfaz(fsale) AS fsale, 
+                                          u.nomubi, 
+                                          ISNULL((SELECT TOP 1 'X' FROM RESERVAS_TOUR T, SERVICIOS S 
+                                          WHERE T.codser = S.codser AND T.numres = res.numres AND T.resres = res.resres 
+                                          AND S.NOMSER LIKE 'TRANSFER IN%'),'') AS trfin,
+                                          ISNULL((SELECT TOP 1 'X' FROM RESERVAS_TOUR T, SERVICIOS S 
+                                          WHERE T.codser = S.codser AND T.numres = res.numres AND T.resres = res.resres 
+                                          AND S.NOMSER LIKE 'TRANSFER OUT%'),'') AS trfout, 
+                                          ISNULL((SELECT TOP 1 'X' FROM RESERVAS_TOUR T, SERVICIOS S 
+                                          WHERE T.codser = S.codser AND T.numres = res.numres AND T.resres = res.resres  
+                                          AND S.NOMSER NOT LIKE 'TRANSFER IN%' AND S.NOMSER NOT LIKE 'TRANSFER OUT%'),'') AS otrservs                       
+                                        FROM RESERVAS res, paquetes paq, clientes c, ubicaciones u 
+                                        WHERE 
+                                          res.codpaq = paq.codpaq AND 
+                                          res.codcli = c.codcli AND
+                                          res.codhot = u.codubi AND
+                                          CONVERT(varchar, fllega, 112) >= '#p1' AND 
+                                          CONVERT(varchar, fllega, 112) <= '#p2' AND  
+                                          res.CODOFI LIKE '#p4' AND 
+                                          res.CODCLI LIKE '#p5' 
+                                        ORDER BY numres, resres";
+
 $query["queryReporteReserNoConfir"] = "SELECT 
                                          RR.CODOFI,
                                          RR.NUMRES, 
@@ -476,6 +512,7 @@ $query["queryReporteLlegadas"] = "SELECT
 $query["queryReporteLlegadas"] = "SELECT 
                                     r.numres, 
                                     r.resres, 
+                                    dbo.getFechaInterfaz(r.fllega) AS fllega,
                                     r.vuelle, 
                                     r.horalle,
                                     c.nomcli, 
@@ -483,24 +520,28 @@ $query["queryReporteLlegadas"] = "SELECT
                                     r.nompax, 
                                     r.numpax, 
                                     r.telpax, 
-                                    (SELECT p.nompaq FROM PAQUETES p WHERE p.codpaq = r.codpaq) as paquete, 
-                                    (SELECT nomubi FROM UBICACIONES u WHERE u.codubi = r.codhot) as hotel, 
+                                    p.nompaq, 
+                                    u.nomubi, 
                                     '' as firma
-                                  FROM RESERVAS r, RESERVAS_TOUR t, SERVICIOS S, CLIENTES C 
+                                  FROM RESERVAS r, RESERVAS_TOUR t, SERVICIOS S, CLIENTES C, PAQUETES p, UBICACIONES u
                                   WHERE T.codser = S.codser AND
                                     r.numres = t.numres AND
                                     r.resres = t.resres AND
                                     r.codcli = c.codcli AND 
+                                    p.codpaq = r.codpaq AND 
+                                    u.codubi = r.codhot AND 
                                     s.nomser like 'TRANSFER IN%' AND
-                                    R.fllega = '#p1 00:00' AND
-                                    R.vuelle like '#p2' AND 
-                                    R.codhot like '#p3' AND 
-                                    R.codcli like '#p4' AND 
-                                    R.codnac like '#p5' AND 
-                                    R.codofi like '#p6' AND 
-                                    r.horalle LIKE '#p7' AND 
+                                    R.fllega >= '#p1 00:00' AND 
+                                    R.fllega <= '#p2 23:59' AND 
+                                    R.vuelle like '#p3' AND 
+                                    R.codhot like '#p4' AND 
+                                    R.codcli like '#p5' AND 
+                                    R.codnac like '#p6' AND 
+                                    R.codofi like '#p7' AND 
+                                    r.horalle LIKE '#p8' AND 
+                                    R.CODPAQ LIKE '#p9' AND 
                                     R.borrada is null 
-                                  ORDER BY vuelle, r.codcli, nompax";
+                                  ORDER BY R.fllega, vuelle, r.codcli, nompax";
                                   
 $query["queryReporteSalidas"] = "SELECT 
                                     R.vuesal, 
@@ -727,6 +768,7 @@ $query["queryReporteVentaTourXRes"] = "SELECT
                                           CONCAT(P.NOMPRO, '    Tel: ', P.TE1PRO) as nompro, 
                                           C.NOMCLI, 
                                           R.ASESORAGE, 
+                                          R.VOUCHER, 
                                           U.nombre, 
                                           U.APELLIDOS AS TELEFONO, 
                                           dbo.getFechaInterfaz(SP.fdigita) AS fdigita, 
@@ -783,7 +825,7 @@ $query["queryConsecutivoVentaTour"] =  "SELECT
                                           CONCAT(SP.CODOFI, '-', SP.numvou) as numvou, 
                                           SP.BORRADO, 
                                           SP.documento, 
-                                          SP.tipo, 
+                                          dbo.getFechaInterfaz(R.fllega) AS fllega,
                                           SP.nompax, 
                                           PA.NOMPAQ,
                                           (SELECT S.nomser FROM SERVICIOS S where S.codser = T.codser) AS nomser, 
@@ -798,6 +840,7 @@ $query["queryConsecutivoVentaTour"] =  "SELECT
                                           (select P.NOMPRO from PROVEEDORES P where P.CODPRO = T.CODPRO) as nompro, 
                                           C.NOMCLI, 
                                           R.ASESORAGE, 
+                                          R.VOUCHER, 
                                           SP.codusr, 
                                           dbo.getFechaInterfaz(SP.fdigita) AS fdigita,
                                           SP.obs, 
@@ -832,11 +875,65 @@ $query["queryConsecutivoVentaTour"] =  "SELECT
                                           R.CODPAQ LIKE '#p8' 
                                         ORDER BY numvou";	
 
+$query["queryConsecutivoVentaTour2"] =  "SELECT 
+                                          CONCAT(SP.CODOFI, '-', SP.numvou) as numvou, 
+                                          SP.BORRADO, 
+                                          SP.documento, 
+                                          dbo.getFechaInterfaz(R.fllega) AS fllega,
+                                          SP.nompax, 
+                                          PA.NOMPAQ,
+                                          (SELECT S.nomser FROM SERVICIOS S where S.codser = T.codser) AS nomser, 
+                                          dbo.getFechaInterfaz(T.FTOUR) AS ftour, 
+                                          SUBSTRING(Convert(varchar, T.FTOUR, 108),1,5) AS htour, 
+                                          U.NOMUBI, 
+                                          SP.codnac, 
+                                          SP.numpax,  
+                                          SP.NUMPAX1 AS ADULTOS,
+                                          SP.NUMPAX2 AS INFANTES,
+                                          T.LUGAR, 
+                                          (select P.NOMPRO from PROVEEDORES P where P.CODPRO = T.CODPRO) as nompro, 
+                                          C.NOMCLI, 
+                                          R.ASESORAGE, 
+                                          R.VOUCHER, 
+                                          SP.codusr, 
+                                          dbo.getFechaInterfaz(SP.fdigita) AS fdigita,
+                                          SP.obs, 
+                                          case ISNULL(SP.BORRADO,'NO') 
+                                          when 'SI' THEN (select 
+                                                            ISNULL(max(dbo.getFechaInterfaz(l.fecha)),dbo.getFechaInterfaz(SP.fdigita))
+                                                          from LOGS l
+                                                          where l.TABLA = 'TOUR'
+                                                          and l.TIPO = 'ANU'
+                                                          and l.NUM = SP.NUMVOU)
+                                          ELSE '' END AS fechaAnula, 
+                                          case ISNULL(SP.BORRADO,'NO') 
+                                          when 'SI' THEN (select 
+                                                    ISNULL(max(l.CODUSR),SP.CODUSR)
+                                                  from LOGS l
+                                                  where l.TABLA = 'TOUR'
+                                                  and l.TIPO = 'ANU'
+                                                  and l.NUM = SP.NUMVOU)
+                                          ELSE '' END AS usuarioAnula 
+                                        FROM SERVICIOS_PARTICULAR SP, TOURS T, reservas R, clientes C, paquetes PA, ubicaciones U  
+                                        WHERE  SP.codtour = T.codtour AND 
+                                          CAST(R.numres AS varchar(30))+'-'+CAST(R.resres AS varchar(30)) = SP.documento AND
+                                          R.CODCLI = C.CODCLI AND 
+                                          U.CODUBI = R.CODHOT AND  
+                                          PA.CODPAQ = R.CODPAQ AND 
+                                          T.codser like '#p3' AND 
+                                          T.codpro like '#p4' AND 
+                                          CONVERT(varchar, R.fllega, 112) >= '#p1' AND 
+                                          CONVERT(varchar, R.fllega, 112) <= '#p2' AND 
+                                          SUBSTRING(CONVERT(varchar, T.FTOUR, 108),1,5) LIKE '#p5' AND
+                                          SP.CODOFI LIKE '#p7' AND
+                                          R.CODPAQ LIKE '#p8' 
+                                        ORDER BY numvou";	
+                                        
 $query["queryConsecutivoVentaTourAge"] =  "SELECT 
                                             CONCAT(SP.CODOFI, '-', SP.numvou) as numvou, 
                                             SP.BORRADO, 
                                             SP.documento, 
-                                            SP.tipo, 
+                                            dbo.getFechaInterfaz(R.fllega) AS fllega, 
                                             SP.nompax,
                                             PA.NOMPAQ,
                                             (SELECT S.nomser FROM SERVICIOS S where S.codser = T.codser) AS nomser, 
@@ -851,6 +948,7 @@ $query["queryConsecutivoVentaTourAge"] =  "SELECT
                                             (select P.NOMPRO from PROVEEDORES P where P.CODPRO = T.CODPRO) as nompro, 
                                             C.NOMCLI, 
                                             R.ASESORAGE, 
+                                            R.VOUCHER, 
                                             SP.codusr, 
                                             dbo.getFechaInterfaz(SP.fdigita) AS fdigita,
                                             SP.obs, 
@@ -887,6 +985,63 @@ $query["queryConsecutivoVentaTourAge"] =  "SELECT
                                             R.CODPAQ LIKE '#p8' 
                                           ORDER BY numvou";	                  
 
+$query["queryConsecutivoVentaTourAge2"] =  "SELECT 
+                                            CONCAT(SP.CODOFI, '-', SP.numvou) as numvou, 
+                                            SP.BORRADO, 
+                                            SP.documento, 
+                                            dbo.getFechaInterfaz(R.fllega) AS fllega, 
+                                            SP.nompax,
+                                            PA.NOMPAQ,
+                                            (SELECT S.nomser FROM SERVICIOS S where S.codser = T.codser) AS nomser, 
+                                            dbo.getFechaInterfaz(T.FTOUR) AS ftour, 
+                                            SUBSTRING(Convert(varchar, T.FTOUR, 108),1,5) AS htour, 
+                                            U.NOMUBI, 
+                                            SP.codnac, 
+                                            SP.numpax,  
+                                            SP.NUMPAX1 AS ADULTOS,
+                                            SP.NUMPAX2 AS INFANTES,
+                                            T.LUGAR, 
+                                            (select P.NOMPRO from PROVEEDORES P where P.CODPRO = T.CODPRO) as nompro, 
+                                            C.NOMCLI, 
+                                            R.ASESORAGE, 
+                                            R.VOUCHER, 
+                                            SP.codusr, 
+                                            dbo.getFechaInterfaz(SP.fdigita) AS fdigita,
+                                            SP.obs, 
+                                            case ISNULL(SP.BORRADO,'NO') 
+                                            when 'SI' THEN (select 
+                                                              ISNULL(max(dbo.getFechaInterfaz(l.fecha)),dbo.getFechaInterfaz(SP.fdigita))
+                                                            from LOGS l
+                                                            where l.TABLA = 'TOUR'
+                                                            and l.TIPO = 'ANU'
+                                                            and l.NUM = SP.NUMVOU)
+                                            ELSE '' END AS fechaAnula, 
+                                            case ISNULL(SP.BORRADO,'NO') 
+                                            when 'SI' THEN (select 
+                                                      ISNULL(max(l.CODUSR),SP.CODUSR)
+                                                    from LOGS l
+                                                    where l.TABLA = 'TOUR'
+                                                    and l.TIPO = 'ANU'
+                                                    and l.NUM = SP.NUMVOU)
+                                            ELSE '' END AS usuarioAnula 
+                                          FROM SERVICIOS_PARTICULAR SP, TOURS T, reservas R, clientes C, paquetes PA, UBICACIONES U    
+                                          WHERE  SP.codtour = T.codtour AND 
+                                            T.codser like '#p3' AND 
+                                            T.codpro like '#p4' AND 
+                                            PA.CODPAQ = R.CODPAQ AND 
+                                            CONVERT(varchar, R.fllega, 112) >= '#p1' AND 
+                                            CONVERT(varchar, R.fllega, 112) <= '#p2' AND 
+                                            SUBSTRING(CONVERT(varchar, T.FTOUR, 108),1,5) LIKE '#p5' AND 
+                                            SP.tipo = 'Plan' AND 
+                                            CAST(R.numres AS varchar(30))+'-'+CAST(R.resres AS varchar(30)) = SP.documento AND 
+                                            R.CODCLI = '#p6' AND 
+                                            R.CODCLI = C.CODCLI AND 
+                                            U.CODUBI = R.CODHOT AND 
+                                            SP.CODOFI LIKE '#p7' AND
+                                            R.CODPAQ LIKE '#p8' 
+                                          ORDER BY numvou";
+                                          
+                                          
 $query["queryRepContactos"] = "SELECT 
 								documento,
 								nombre,

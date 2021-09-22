@@ -4,7 +4,7 @@ ini_set('display_startup_errors', '1');
 error_reporting(E_ALL);
 
 // Aumentar version para forzar recargar la lectura del archivo XML language y de codigo JS
-$FILE_SCRIPT_JS = "script17.js";
+$FILE_SCRIPT_JS = "script22.js";
 
 // Aumentar version para forzar recargar los stilos css 
 $FILE_STYLES = "library/styles12.css";
